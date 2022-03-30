@@ -1,0 +1,11 @@
+.header {
+  background-color: var(--bgLightClr);
+
+  .nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 100px;
+  }
+}
