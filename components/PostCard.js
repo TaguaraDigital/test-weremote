@@ -5,7 +5,7 @@ const Footer = ({ post }) => {
   return (
     <article className={styles.card}>
       <div className={styles.header}>
-        <Link href={`/articulos/${post.id}`}>
+        <Link href={`/post/${post.id}`}>
           <a>
             <h2 className={styles.title}>{post.title} </h2>
           </a>
