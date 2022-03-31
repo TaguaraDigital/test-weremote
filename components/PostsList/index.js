@@ -1,6 +1,6 @@
 import React from "react";
-import PostCard from "./PostCard";
-import styles from "../styles/PostsList.module.scss";
+import PostCard from "../PostCard";
+import styles from "./PostsList.module.scss";
 
 const PostsList = ({ posts }) => {
   return (

@@ -1,4 +1,4 @@
-import styles from "../styles/Search.module.scss";
+import styles from "./Search.module.scss";
 import { FaChevronLeft, FaChevronRight, FaSearch } from "react-icons/fa";
 const Search = () => {
   return (
