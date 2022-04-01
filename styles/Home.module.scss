@@ -25,6 +25,11 @@
   font-size: 1.5rem;
 }
 
+.grid {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;

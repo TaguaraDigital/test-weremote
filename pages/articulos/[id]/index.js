@@ -1,6 +1,8 @@
 import { useEffect, useState } from "react";
 import Image from "next/image";
 import styles from "./ArticleDetail.module.scss";
+import { FaArrowLeft } from "react-icons/fa";
+import Link from "next/link";
 
 export function getServerSideProps(cxt) {
   return {
@@ -42,32 +44,44 @@ const ArticleDetail = ({ id }) => {
   ) : (
     <section className={styles.section}>
       <div className={styles.title}>{article.title}</div>
+      <div className={styles.back}>
+        <Link href="/">
+          <a>
+            <FaArrowLeft /> Back to home
+          </a>
+        </Link>
+      </div>
+      <p>
+        La página única de un artículo debe contener algunos elementos básicos:
+        título, categoría, fecha de publicación, contenido (texto legible),
+        etiquetas, biografías y nombre del autor.
+      </p>
+
       <div className={styles.row}>
         <div className={styles.left}>
           <div>Codigo: {article.id}</div>
           <div>Slug: {article.slug}</div>
-          <div>Product: {article.link}</div>
-          <div>Product: {article.excerpt}</div>
-          <div>Product: {article.content}</div>
+          <div>Link: {article.link}</div>
+          <div>Excerpt: {article.excerpt}</div>
+          <>{article.content}</>
         </div>
         <div className={styles.right}>
           <Image
             src={article.featured_media.medium_large}
             alt=""
-            width={400}
-            height={400}
+            layout="fill"
           />
         </div>
       </div>
       <div className={styles.autor}>
         <div className={styles.avatar}>
-          <Image
-            src={article.author.picture}
-            alt={article.author.name}
+          {/* <Image
+            src={article.author?.picture}
+            alt={article.author?.name}
             layout="fill"
-          />
+          /> */}
         </div>
-        <div>Autor: {article.author.name}</div>
+        <div>Autor: {article.author?.name}</div>
       </div>
 
       <div className={styles.categories}>
