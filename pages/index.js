@@ -4,7 +4,9 @@ import Search from "../components/Search";
 import Sidebar from "../components/Sidebar";
 import { Store } from "../utils/store";
 import { useContext, useEffect, useState } from "react";
+import Pagination from "../components/Pagination";
 
+// busca los post mas recientes al cargar la primera pagina inicial
 export const getStaticProps = async () => {
   const res = await fetch(
     "https://beta.mejorconsalud.com/wp-json/mc/v3/posts?orderby=date&order=desc"
@@ -12,6 +14,7 @@ export const getStaticProps = async () => {
   const resJSON = await res.json();
   return {
     props: { postsInitial: resJSON.data },
+    revalidate: 10,
   };
 };
 
@@ -23,17 +26,19 @@ const Home = ({ postsInitial }) => {
     error: "",
   });
 
+  //busca una nuava pagina con la misma palabra o una nueva busqueda con una nueva palabra
   const fetchData = async () => {
+    const URL = `https://beta.mejorconsalud.com/wp-json/mc/v3/posts?search=${search.word}&page=${search.currentPage}&orderby=${search.orderby}&order=${search.order}`;
+
+    console.log("entro a buscar data con la siguiente URL", URL);
+    console.log("y search", search);
     setState({ ...state, loading: true });
     try {
-      let URL = `https://beta.mejorconsalud.com/wp-json/mc/v3/posts?search=${search.word}`;
-      if (search.order === "relevance") {
-        URL += "&page=1&orderby=relevance";
-      }
       const res = await fetch(URL);
       const data = await res.json();
       setState({ ...state, posts: data.data, loading: false });
       setSearchResult({
+        ...searchResult,
         size: data.size,
         pages: data.pages,
         status: "ok",
@@ -59,20 +64,18 @@ const Home = ({ postsInitial }) => {
   ) : error ? (
     <div> {error} </div>
   ) : (
-    <main className={styles.main}>
+    <div className={styles.main}>
       <h1 className={styles.title}>Welcome</h1>
       <Search />
-      {searchResult.status === "ok" && searchResult.size > 0 && (
-        <div>Resultado de la busqueda : hay {searchResult.size} </div>
-      )}
       {searchResult.status === "ok" && searchResult.size === 0 && (
         <div>¡No hay artículos relacionados con el término de búsqueda! </div>
       )}
+      {searchResult.status === "ok" && searchResult.size > 0 && <Pagination />}
       <div className={styles.grid}>
         <PostsList posts={articulos} />
         <Sidebar />
       </div>
-    </main>
+    </div>
   );
 };
 

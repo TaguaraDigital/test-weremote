@@ -6,21 +6,13 @@ const Search = () => {
   const [searchLocal, setSearchLocal] = useState("");
   const { search, setSearch } = useContext(Store);
 
-  const searchData = (criterio, search) => {
-    let URL = `https://beta.mejorconsalud.com/wp-json/mc/v3/posts?search=${search}`;
-    if (criterio === "relevance") {
-      URL = `https://beta.mejorconsalud.com/wp-json/mc/v3/posts?search=${search}&page=1&orderby=relevance`;
-    }
-    console.log(URL);
-  };
-
   const handleClick = (e) => {
     e.preventDefault();
 
     if (searchLocal === "") {
       alert("debe indicar el criterio de busqueda");
     } else {
-      setSearch({ word: searchLocal, order: "relevance" });
+      setSearch({ ...search, word: searchLocal, orderby: "relevance" });
     }
   };
 
@@ -46,26 +38,6 @@ const Search = () => {
           <option value="relevance">Relevance</option>
         </select>
       </div>
-
-      {/* <div className={styles.row}>
-        <button className={styles.prev} aria-label="prev">
-          <FaChevronLeft />
-        </button>
-        <span> 1 </span>
-        <button className={styles.next} aria-label="next">
-          <FaChevronRight />
-        </button>
-      </div> */}
-
-      {/* <div>
-        <label htmlFor="per-page">Per Page:</label>
-        <select id="per-page">
-          <option value="10">10</option>
-          <option value="15">15</option>
-          <option value="20">20</option>
-          <option value="30">30</option>
-        </select>
-      </div> */}
     </div>
   );
 };

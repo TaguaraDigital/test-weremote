@@ -26,7 +26,6 @@ const ArticleDetail = ({ id }) => {
           `https://api.beta.mejorconsalud.com/wp-json/mc/v2/posts/${id}`
         );
         const data = await res.json();
-        console.log("es aqui", data);
         setState({ ...state, article: data, loading: false });
       } catch (err) {
         console.log("hay un error", err);

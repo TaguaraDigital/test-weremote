@@ -1,3 +1,532 @@
+const data1 = [
+  {
+    id: 385116,
+    slug: "como-preparar-un-tartar-de-lentejas-y-aguacate",
+    link: "https://beta.mejorconsalud.com/como-preparar-un-tartar-de-lentejas-y-aguacate/",
+    permalink: "/como-preparar-un-tartar-de-lentejas-y-aguacate/",
+    title: "C\u00f3mo preparar un tartar de lentejas y aguacate",
+    headline:
+      "El consumo regular de legumbres le aporta interesantes beneficios al organismo. Por eso, en esta oportunidad queremos compartir la receta de un delicioso tartar de lentejas y aguacate. \u00bfA\u00fan no lo pruebas?\u00a0",
+    excerpt:
+      "El tartar de lentejas y aguacate es una receta id\u00f3nea para aquellos que desean llevar una alimentaci\u00f3n vegana o vegetariana.&hellip;",
+    featured_media: {
+      thumbnail:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/06/tartar-de-lentejas-y-aguacate-150x150.jpg",
+      medium:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/06/tartar-de-lentejas-y-aguacate-336x252.jpg",
+      medium_large:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/06/tartar-de-lentejas-y-aguacate-768x576.jpg",
+      large:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/06/tartar-de-lentejas-y-aguacate-500x375.jpg",
+      "1536x1536":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/06/tartar-de-lentejas-y-aguacate.jpg",
+      "2048x2048":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/06/tartar-de-lentejas-y-aguacate.jpg",
+      "big-size":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/06/tartar-de-lentejas-y-aguacate.jpg",
+      "big-size_mobile":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/06/tartar-de-lentejas-y-aguacate.jpg",
+      "mid-size":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/06/tartar-de-lentejas-y-aguacate.jpg",
+      "mid-size_mobile":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/06/tartar-de-lentejas-y-aguacate.jpg",
+      "web-stories-poster-portrait":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/06/tartar-de-lentejas-y-aguacate.jpg",
+      "web-stories-publisher-logo":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/06/tartar-de-lentejas-y-aguacate.jpg",
+      "web-stories-thumbnail":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/06/tartar-de-lentejas-y-aguacate.jpg",
+    },
+    categories: [
+      {
+        id: 7306,
+        name: "Vegetarianas y veganas",
+        slug: "vegetarianas",
+        description:
+          "Cada vez hay m\u00e1s personas que se suman a las dietas vegetarianas o veganas y en Mejor con Salud lo sabemos. Por eso encontrar\u00e1s en esta secci\u00f3n un amplio n\u00famero de recetas que cubren todas nuestras necesidades nutricionales. Ingredientes saludables y sabrosos con los que dar forma a los m\u00e1s sabrosos platos, postres o panes a los que es imposible resistirse.",
+        link: "https://beta.mejorconsalud.com/recetas/vegetarianas/",
+        permalink: "/recetas/vegetarianas/",
+      },
+    ],
+    sponsor: null,
+    theme: "base-deploy",
+  },
+  {
+    id: 365825,
+    slug: "dieta-para-las-piedras-en-los-rinones-consejos-y-ejemplos-de-menus",
+    link: "https://beta.mejorconsalud.com/dieta-para-las-piedras-en-los-rinones-consejos-y-ejemplos-de-menus/",
+    permalink:
+      "/dieta-para-las-piedras-en-los-rinones-consejos-y-ejemplos-de-menus/",
+    title:
+      "Dieta para las piedras en los ri\u00f1ones: consejos y ejemplos de men\u00fas",
+    headline:
+      "Los c\u00e1lculos en los ri\u00f1ones son masas duras que se forman por la acumulaci\u00f3n de residuos presentes en la orina. Los m\u00e1s comunes se dan por el exceso de calcio y oxalato. Descubre c\u00f3mo tratarlos con la dieta.",
+    excerpt:
+      "Si tienes c\u00e1lculos renales, posiblemente necesites seguir una dieta especial. Por ello, en este art\u00edculo te daremos algunos consejos para&hellip;",
+    featured_media: {
+      thumbnail:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/05/piedras-en-los-rinones-150x150.jpg",
+      medium:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/05/piedras-en-los-rinones-365x252.jpg",
+      medium_large:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/05/piedras-en-los-rinones-768x531.jpg",
+      large:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/05/piedras-en-los-rinones-500x346.jpg",
+      "1536x1536":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/05/piedras-en-los-rinones.jpg",
+      "2048x2048":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/05/piedras-en-los-rinones.jpg",
+      "big-size":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/05/piedras-en-los-rinones.jpg",
+      "big-size_mobile":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/05/piedras-en-los-rinones.jpg",
+      "mid-size":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/05/piedras-en-los-rinones.jpg",
+      "mid-size_mobile":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/05/piedras-en-los-rinones.jpg",
+      "web-stories-poster-portrait":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/05/piedras-en-los-rinones.jpg",
+      "web-stories-publisher-logo":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/05/piedras-en-los-rinones.jpg",
+      "web-stories-thumbnail":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/05/piedras-en-los-rinones.jpg",
+    },
+    categories: [
+      {
+        id: 7282,
+        name: "Dietas saludables",
+        slug: "saludables",
+        description:
+          "En esta secci\u00f3n encontrar\u00e1s todas esas propuestas nutricionales que nos permitir\u00e1n cuidar al m\u00e1ximo de nuestra salud, a recuperar la energ\u00eda y a restaurar ese equilibrio interior con el cual, sentirnos bien en cada \u00e1rea de nuestra vida. Descubre con nosotros qu\u00e9 alimentos son los m\u00e1s saludables para ti seg\u00fan tus necesidades personales.",
+        link: "https://beta.mejorconsalud.com/dieta/saludables/",
+        permalink: "/dieta/saludables/",
+      },
+    ],
+    sponsor: null,
+    theme: "base-deploy",
+  },
+  {
+    id: 373333,
+    slug: "2-tipos-de-hamburguesas-veganas-que-debes-probar",
+    link: "https://beta.mejorconsalud.com/2-tipos-de-hamburguesas-veganas-que-debes-probar/",
+    permalink: "/2-tipos-de-hamburguesas-veganas-que-debes-probar/",
+    title: "2 tipos de hamburguesas veganas que debes probar",
+    headline:
+      "La hamburguesa es un plato habitualmente elaborado con productos c\u00e1rnicos, de procedencia animal. Actualmente hay multitud de recetas de hamburguesas veganas elaboradas con ingredientes vegetales que te sorprender\u00e1n por su sencillez y gran sabor.",
+    excerpt:
+      "Las hamburguesas veganas son una variaci\u00f3n de la hamburguesa tradicional, adaptada para aquellas personas que por motivos m\u00e9dicos o morales&hellip;",
+    featured_media: {
+      thumbnail:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/hamburguesas-veganas-que-debes-probar-150x150.jpg",
+      medium:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/hamburguesas-veganas-que-debes-probar-378x252.jpg",
+      medium_large:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/hamburguesas-veganas-que-debes-probar-768x511.jpg",
+      large:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/hamburguesas-veganas-que-debes-probar-500x333.jpg",
+      "1536x1536":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/hamburguesas-veganas-que-debes-probar.jpg",
+      "2048x2048":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/hamburguesas-veganas-que-debes-probar.jpg",
+      "big-size":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/hamburguesas-veganas-que-debes-probar.jpg",
+      "big-size_mobile":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/hamburguesas-veganas-que-debes-probar.jpg",
+      "mid-size":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/hamburguesas-veganas-que-debes-probar.jpg",
+      "mid-size_mobile":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/hamburguesas-veganas-que-debes-probar.jpg",
+      "web-stories-poster-portrait":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/hamburguesas-veganas-que-debes-probar.jpg",
+      "web-stories-publisher-logo":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/hamburguesas-veganas-que-debes-probar.jpg",
+      "web-stories-thumbnail":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/hamburguesas-veganas-que-debes-probar.jpg",
+    },
+    categories: [
+      {
+        id: 7306,
+        name: "Vegetarianas y veganas",
+        slug: "vegetarianas",
+        description:
+          "Cada vez hay m\u00e1s personas que se suman a las dietas vegetarianas o veganas y en Mejor con Salud lo sabemos. Por eso encontrar\u00e1s en esta secci\u00f3n un amplio n\u00famero de recetas que cubren todas nuestras necesidades nutricionales. Ingredientes saludables y sabrosos con los que dar forma a los m\u00e1s sabrosos platos, postres o panes a los que es imposible resistirse.",
+        link: "https://beta.mejorconsalud.com/recetas/vegetarianas/",
+        permalink: "/recetas/vegetarianas/",
+      },
+    ],
+    sponsor: null,
+    theme: "base-deploy",
+  },
+  {
+    id: 377019,
+    slug: "ensalada-de-vegetales-asados-con-quinoa",
+    link: "https://beta.mejorconsalud.com/ensalada-de-vegetales-asados-con-quinoa/",
+    permalink: "/ensalada-de-vegetales-asados-con-quinoa/",
+    title: "Ensalada de vegetales asados con quinoa",
+    headline:
+      "\u00bfEst\u00e1s buscando un plato saludable y nutritivo? Prueba esta deliciosa ensalada de quinoa y vegetales asados. \u00a1Te sorprender\u00e1 su sabor!",
+    excerpt:
+      "La ensalada de vegetales asados con quinoa puede ser una excelente opci\u00f3n para agasajar a invitados vegetarianos o veganos. M\u00e1s&hellip;",
+    featured_media: {
+      thumbnail:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/ensalada-de-vegetales-asados-con-quinoa-150x150.jpg",
+      medium:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/ensalada-de-vegetales-asados-con-quinoa-378x252.jpg",
+      medium_large:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/ensalada-de-vegetales-asados-con-quinoa-768x512.jpg",
+      large:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/ensalada-de-vegetales-asados-con-quinoa-500x333.jpg",
+      "1536x1536":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/ensalada-de-vegetales-asados-con-quinoa.jpg",
+      "2048x2048":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/ensalada-de-vegetales-asados-con-quinoa.jpg",
+      "big-size":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/ensalada-de-vegetales-asados-con-quinoa.jpg",
+      "big-size_mobile":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/ensalada-de-vegetales-asados-con-quinoa.jpg",
+      "mid-size":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/ensalada-de-vegetales-asados-con-quinoa.jpg",
+      "mid-size_mobile":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/ensalada-de-vegetales-asados-con-quinoa.jpg",
+      "web-stories-poster-portrait":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/ensalada-de-vegetales-asados-con-quinoa.jpg",
+      "web-stories-publisher-logo":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/ensalada-de-vegetales-asados-con-quinoa.jpg",
+      "web-stories-thumbnail":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/ensalada-de-vegetales-asados-con-quinoa.jpg",
+    },
+    categories: [
+      {
+        id: 7306,
+        name: "Vegetarianas y veganas",
+        slug: "vegetarianas",
+        description:
+          "Cada vez hay m\u00e1s personas que se suman a las dietas vegetarianas o veganas y en Mejor con Salud lo sabemos. Por eso encontrar\u00e1s en esta secci\u00f3n un amplio n\u00famero de recetas que cubren todas nuestras necesidades nutricionales. Ingredientes saludables y sabrosos con los que dar forma a los m\u00e1s sabrosos platos, postres o panes a los que es imposible resistirse.",
+        link: "https://beta.mejorconsalud.com/recetas/vegetarianas/",
+        permalink: "/recetas/vegetarianas/",
+      },
+    ],
+    sponsor: null,
+    theme: "base-deploy",
+  },
+  {
+    id: 375721,
+    slug: "alimentos-que-debes-comer-si-eres-deportista-vegano",
+    link: "https://beta.mejorconsalud.com/alimentos-que-debes-comer-si-eres-deportista-vegano/",
+    permalink: "/alimentos-que-debes-comer-si-eres-deportista-vegano/",
+    title: "Alimentos que debes comer si eres deportista vegano",
+    headline:
+      "Un deportista vegano tendr\u00e1 como base en su alimentaci\u00f3n alimentos frescos y de temporada. Llevar una dieta vegana en el deportista no consiste en comer arroz y pasta \u00fanicamente, como tantas veces se piensa.",
+    excerpt:
+      "Ser vegano es totalmente compatible con practicar deporte con el m\u00e1ximo rendimiento. Las dietas veganas y vegetarianas son adecuadas para&hellip;",
+    featured_media: {
+      thumbnail:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/alimentos-que-debes-comer-si-eres-deportista-vegano-150x150.jpg",
+      medium:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/alimentos-que-debes-comer-si-eres-deportista-vegano-377x252.jpg",
+      medium_large:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/alimentos-que-debes-comer-si-eres-deportista-vegano-768x513.jpg",
+      large:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/alimentos-que-debes-comer-si-eres-deportista-vegano-500x334.jpg",
+      "1536x1536":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/alimentos-que-debes-comer-si-eres-deportista-vegano.jpg",
+      "2048x2048":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/alimentos-que-debes-comer-si-eres-deportista-vegano.jpg",
+      "big-size":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/alimentos-que-debes-comer-si-eres-deportista-vegano.jpg",
+      "big-size_mobile":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/alimentos-que-debes-comer-si-eres-deportista-vegano.jpg",
+      "mid-size":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/alimentos-que-debes-comer-si-eres-deportista-vegano.jpg",
+      "mid-size_mobile":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/alimentos-que-debes-comer-si-eres-deportista-vegano.jpg",
+      "web-stories-poster-portrait":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/alimentos-que-debes-comer-si-eres-deportista-vegano.jpg",
+      "web-stories-publisher-logo":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/alimentos-que-debes-comer-si-eres-deportista-vegano.jpg",
+      "web-stories-thumbnail":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/alimentos-que-debes-comer-si-eres-deportista-vegano.jpg",
+    },
+    categories: [
+      {
+        id: 7285,
+        name: "Nutrici\u00f3n",
+        slug: "nutricion",
+        description:
+          "\u00bfTe nutres de forma adecuada? En ocasiones determinadas dietas nos sumen en estados carenciales, lo cual se traduce en malestar, cansancio o en diversos trastornos. En esta secci\u00f3n te ense\u00f1aremos qu\u00e9 alimentos son los m\u00e1s nutritivos, qu\u00e9 dietas y h\u00e1bitos debes seguir para cubrir todas tus necesidades.",
+        link: "https://beta.mejorconsalud.com/dieta/nutricion/",
+        permalink: "/dieta/nutricion/",
+      },
+    ],
+    sponsor: null,
+    theme: "base-deploy",
+  },
+  {
+    id: 368400,
+    slug: "2-maneras-de-preparar-hamburguesas-vegetarianas",
+    link: "https://beta.mejorconsalud.com/2-maneras-de-preparar-hamburguesas-vegetarianas/",
+    permalink: "/2-maneras-de-preparar-hamburguesas-vegetarianas/",
+    title: "2 maneras de preparar hamburguesas vegetarianas",
+    headline:
+      "Las hamburguesas elaboradas a base de legumbre o cereales nos aportan una gran cantidad de prote\u00edna vegetal y fibra, enriqueciendo nuestro men\u00fa diario. \u00a1Toma nota!",
+    excerpt:
+      "La hamburguesas vegetarianas son tendencia entre las personas que buscan recetas saludables y nutritivas. No son exclusivas de quienes no&hellip;",
+    featured_media: {
+      thumbnail:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/03/maneras-de-preparar-hamburguesas-vegetarianas-150x150.jpg",
+      medium:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/03/maneras-de-preparar-hamburguesas-vegetarianas-378x252.jpg",
+      medium_large:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/03/maneras-de-preparar-hamburguesas-vegetarianas-768x512.jpg",
+      large:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/03/maneras-de-preparar-hamburguesas-vegetarianas-500x333.jpg",
+      "1536x1536":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/03/maneras-de-preparar-hamburguesas-vegetarianas.jpg",
+      "2048x2048":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/03/maneras-de-preparar-hamburguesas-vegetarianas.jpg",
+      "big-size":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/03/maneras-de-preparar-hamburguesas-vegetarianas.jpg",
+      "big-size_mobile":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/03/maneras-de-preparar-hamburguesas-vegetarianas.jpg",
+      "mid-size":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/03/maneras-de-preparar-hamburguesas-vegetarianas.jpg",
+      "mid-size_mobile":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/03/maneras-de-preparar-hamburguesas-vegetarianas.jpg",
+      "web-stories-poster-portrait":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/03/maneras-de-preparar-hamburguesas-vegetarianas.jpg",
+      "web-stories-publisher-logo":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/03/maneras-de-preparar-hamburguesas-vegetarianas.jpg",
+      "web-stories-thumbnail":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/03/maneras-de-preparar-hamburguesas-vegetarianas.jpg",
+    },
+    categories: [
+      {
+        id: 7306,
+        name: "Vegetarianas y veganas",
+        slug: "vegetarianas",
+        description:
+          "Cada vez hay m\u00e1s personas que se suman a las dietas vegetarianas o veganas y en Mejor con Salud lo sabemos. Por eso encontrar\u00e1s en esta secci\u00f3n un amplio n\u00famero de recetas que cubren todas nuestras necesidades nutricionales. Ingredientes saludables y sabrosos con los que dar forma a los m\u00e1s sabrosos platos, postres o panes a los que es imposible resistirse.",
+        link: "https://beta.mejorconsalud.com/recetas/vegetarianas/",
+        permalink: "/recetas/vegetarianas/",
+      },
+    ],
+    sponsor: null,
+    theme: "base-deploy",
+  },
+  {
+    id: 376135,
+    slug: "7-maneras-de-aumentar-el-consumo-de-fibra-para-tratar-el-estrenimiento",
+    link: "https://beta.mejorconsalud.com/7-maneras-de-aumentar-el-consumo-de-fibra-para-tratar-el-estrenimiento/",
+    permalink:
+      "/7-maneras-de-aumentar-el-consumo-de-fibra-para-tratar-el-estrenimiento/",
+    title:
+      "7 maneras de aumentar el consumo de fibra para tratar el estre\u00f1imiento",
+    headline:
+      "Descubre de qu\u00e9 manera puedes incrementar tu consumo de fibra para combatir el estre\u00f1imiento. Te contamos los mejores h\u00e1bitos alimentarios con los que solucionar este problema.",
+    excerpt:
+      "El estre\u00f1imiento es un padecimiento bastante habitual. El sedentarismo, la falta de ejercicio f\u00edsico regular, las comidas precocinadas y una&hellip;",
+    featured_media: {
+      thumbnail:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/maneras-de-aumentar-el-consumo-de-fibra-para-tratar-el-estrenimiento-150x150.jpg",
+      medium:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/maneras-de-aumentar-el-consumo-de-fibra-para-tratar-el-estrenimiento-378x252.jpg",
+      medium_large:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/maneras-de-aumentar-el-consumo-de-fibra-para-tratar-el-estrenimiento-768x512.jpg",
+      large:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/maneras-de-aumentar-el-consumo-de-fibra-para-tratar-el-estrenimiento-500x333.jpg",
+      "1536x1536":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/maneras-de-aumentar-el-consumo-de-fibra-para-tratar-el-estrenimiento.jpg",
+      "2048x2048":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/maneras-de-aumentar-el-consumo-de-fibra-para-tratar-el-estrenimiento.jpg",
+      "big-size":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/maneras-de-aumentar-el-consumo-de-fibra-para-tratar-el-estrenimiento.jpg",
+      "big-size_mobile":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/maneras-de-aumentar-el-consumo-de-fibra-para-tratar-el-estrenimiento.jpg",
+      "mid-size":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/maneras-de-aumentar-el-consumo-de-fibra-para-tratar-el-estrenimiento.jpg",
+      "mid-size_mobile":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/maneras-de-aumentar-el-consumo-de-fibra-para-tratar-el-estrenimiento.jpg",
+      "web-stories-poster-portrait":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/maneras-de-aumentar-el-consumo-de-fibra-para-tratar-el-estrenimiento.jpg",
+      "web-stories-publisher-logo":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/maneras-de-aumentar-el-consumo-de-fibra-para-tratar-el-estrenimiento.jpg",
+      "web-stories-thumbnail":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/maneras-de-aumentar-el-consumo-de-fibra-para-tratar-el-estrenimiento.jpg",
+    },
+    categories: [
+      {
+        id: 7285,
+        name: "Nutrici\u00f3n",
+        slug: "nutricion",
+        description:
+          "\u00bfTe nutres de forma adecuada? En ocasiones determinadas dietas nos sumen en estados carenciales, lo cual se traduce en malestar, cansancio o en diversos trastornos. En esta secci\u00f3n te ense\u00f1aremos qu\u00e9 alimentos son los m\u00e1s nutritivos, qu\u00e9 dietas y h\u00e1bitos debes seguir para cubrir todas tus necesidades.",
+        link: "https://beta.mejorconsalud.com/dieta/nutricion/",
+        permalink: "/dieta/nutricion/",
+      },
+    ],
+    sponsor: null,
+    theme: "base-deploy",
+  },
+  {
+    id: 374835,
+    slug: "como-preparar-natas-vegetales-5-recetas-faciles",
+    link: "https://beta.mejorconsalud.com/como-preparar-natas-vegetales-5-recetas-faciles/",
+    permalink: "/como-preparar-natas-vegetales-5-recetas-faciles/",
+    title: "\u00bfC\u00f3mo preparar natas vegetales? 5 recetas f\u00e1ciles",
+    headline:
+      "Con ingredientes como el coco y las semillas puedes hacer unas deliciosas natas vegetales para sustituir la nata de leche. \u00bfTe gustar\u00eda probarlas? Te compartimos 5 buenas opciones.",
+    excerpt:
+      "Los seguidores de las dietas veganas o vegetarianas han encontrado sustitutos para la mayor\u00eda de alimentos de origen animal. Si&hellip;",
+    featured_media: {
+      thumbnail:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/como-preparar-natas-vegetales-recetas-faciles-150x150.jpg",
+      medium:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/como-preparar-natas-vegetales-recetas-faciles-390x219.jpg",
+      medium_large:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/como-preparar-natas-vegetales-recetas-faciles-768x432.jpg",
+      large:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/como-preparar-natas-vegetales-recetas-faciles-500x281.jpg",
+      "1536x1536":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/como-preparar-natas-vegetales-recetas-faciles.jpg",
+      "2048x2048":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/como-preparar-natas-vegetales-recetas-faciles.jpg",
+      "big-size":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/como-preparar-natas-vegetales-recetas-faciles.jpg",
+      "big-size_mobile":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/como-preparar-natas-vegetales-recetas-faciles.jpg",
+      "mid-size":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/como-preparar-natas-vegetales-recetas-faciles.jpg",
+      "mid-size_mobile":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/como-preparar-natas-vegetales-recetas-faciles.jpg",
+      "web-stories-poster-portrait":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/como-preparar-natas-vegetales-recetas-faciles.jpg",
+      "web-stories-publisher-logo":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/como-preparar-natas-vegetales-recetas-faciles.jpg",
+      "web-stories-thumbnail":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/como-preparar-natas-vegetales-recetas-faciles.jpg",
+    },
+    categories: [
+      {
+        id: 7306,
+        name: "Vegetarianas y veganas",
+        slug: "vegetarianas",
+        description:
+          "Cada vez hay m\u00e1s personas que se suman a las dietas vegetarianas o veganas y en Mejor con Salud lo sabemos. Por eso encontrar\u00e1s en esta secci\u00f3n un amplio n\u00famero de recetas que cubren todas nuestras necesidades nutricionales. Ingredientes saludables y sabrosos con los que dar forma a los m\u00e1s sabrosos platos, postres o panes a los que es imposible resistirse.",
+        link: "https://beta.mejorconsalud.com/recetas/vegetarianas/",
+        permalink: "/recetas/vegetarianas/",
+      },
+    ],
+    sponsor: null,
+    theme: "base-deploy",
+  },
+  {
+    id: 372366,
+    slug: "como-seguir-la-dieta-paleo-una-completa-guia-para-principiantes",
+    link: "https://beta.mejorconsalud.com/como-seguir-la-dieta-paleo-una-completa-guia-para-principiantes/",
+    permalink:
+      "/como-seguir-la-dieta-paleo-una-completa-guia-para-principiantes/",
+    title:
+      "C\u00f3mo seguir la dieta paleo: una completa gu\u00eda para principiantes",
+    headline:
+      "Una dieta paleo es un plan de alimentaci\u00f3n que se basa en alimentos similares a los que se habr\u00edan comido en el Paleol\u00edtico, que data de hace aproximadamente 2,5 millones a 10.000 a\u00f1os.",
+    excerpt:
+      "\u00bfHas escuchado hablar sobre la dieta paleo? Si tu respuesta es afirmativa, sabr\u00e1s tambi\u00e9n de los posibles beneficios que se&hellip;",
+    featured_media: {
+      thumbnail:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/C\u00f3mo-seguir-la-dieta-paleo-150x150.jpg",
+      medium:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/C\u00f3mo-seguir-la-dieta-paleo-378x252.jpg",
+      medium_large:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/C\u00f3mo-seguir-la-dieta-paleo-768x511.jpg",
+      large:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/C\u00f3mo-seguir-la-dieta-paleo-500x333.jpg",
+      "1536x1536":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/C\u00f3mo-seguir-la-dieta-paleo.jpg",
+      "2048x2048":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/C\u00f3mo-seguir-la-dieta-paleo.jpg",
+      "big-size":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/C\u00f3mo-seguir-la-dieta-paleo.jpg",
+      "big-size_mobile":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/C\u00f3mo-seguir-la-dieta-paleo.jpg",
+      "mid-size":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/C\u00f3mo-seguir-la-dieta-paleo.jpg",
+      "mid-size_mobile":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/C\u00f3mo-seguir-la-dieta-paleo.jpg",
+      "web-stories-poster-portrait":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/C\u00f3mo-seguir-la-dieta-paleo.jpg",
+      "web-stories-publisher-logo":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/C\u00f3mo-seguir-la-dieta-paleo.jpg",
+      "web-stories-thumbnail":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/C\u00f3mo-seguir-la-dieta-paleo.jpg",
+    },
+    categories: [
+      {
+        id: 7282,
+        name: "Dietas saludables",
+        slug: "saludables",
+        description:
+          "En esta secci\u00f3n encontrar\u00e1s todas esas propuestas nutricionales que nos permitir\u00e1n cuidar al m\u00e1ximo de nuestra salud, a recuperar la energ\u00eda y a restaurar ese equilibrio interior con el cual, sentirnos bien en cada \u00e1rea de nuestra vida. Descubre con nosotros qu\u00e9 alimentos son los m\u00e1s saludables para ti seg\u00fan tus necesidades personales.",
+        link: "https://beta.mejorconsalud.com/dieta/saludables/",
+        permalink: "/dieta/saludables/",
+      },
+    ],
+    sponsor: null,
+    theme: "base-deploy",
+  },
+  {
+    id: 373849,
+    slug: "como-preparar-una-tarta-de-pera-sin-azucar",
+    link: "https://beta.mejorconsalud.com/como-preparar-una-tarta-de-pera-sin-azucar/",
+    permalink: "/como-preparar-una-tarta-de-pera-sin-azucar/",
+    title: "\u00bfC\u00f3mo preparar una tarta de pera sin az\u00facar?",
+    headline:
+      "La tradicional tarta de manzana es un buen ejemplo de un postre de frutas, saludable y lleno de sabor. Esta receta tradicional admite diferentes variantes, como es el caso de la tarta de pera sin az\u00facar. ",
+    excerpt:
+      "Una tarta de pera sin az\u00facar es un postre delicioso, econ\u00f3mico y muy sencillo de realizar. Adem\u00e1s, es la mejor&hellip;",
+    featured_media: {
+      thumbnail:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/preparar-una-tarta-de-pera-sin-az\u00facar-150x150.jpg",
+      medium:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/preparar-una-tarta-de-pera-sin-az\u00facar-378x252.jpg",
+      medium_large:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/preparar-una-tarta-de-pera-sin-az\u00facar-768x511.jpg",
+      large:
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/preparar-una-tarta-de-pera-sin-az\u00facar-500x333.jpg",
+      "1536x1536":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/preparar-una-tarta-de-pera-sin-az\u00facar.jpg",
+      "2048x2048":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/preparar-una-tarta-de-pera-sin-az\u00facar.jpg",
+      "big-size":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/preparar-una-tarta-de-pera-sin-az\u00facar.jpg",
+      "big-size_mobile":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/preparar-una-tarta-de-pera-sin-az\u00facar.jpg",
+      "mid-size":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/preparar-una-tarta-de-pera-sin-az\u00facar.jpg",
+      "mid-size_mobile":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/preparar-una-tarta-de-pera-sin-az\u00facar.jpg",
+      "web-stories-poster-portrait":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/preparar-una-tarta-de-pera-sin-az\u00facar.jpg",
+      "web-stories-publisher-logo":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/preparar-una-tarta-de-pera-sin-az\u00facar.jpg",
+      "web-stories-thumbnail":
+        "https://beta.mejorconsalud.com/wp-content/uploads/2019/04/preparar-una-tarta-de-pera-sin-az\u00facar.jpg",
+    },
+    categories: [
+      {
+        id: 7305,
+        name: "Postres",
+        slug: "postres",
+        description:
+          "Postres caseros, dulces o agridulces, tartas, bizcochos, cremas, flanes y hasta ricos hojaldres, magdalenas o cr\u00eapes\u2026 \u00bfC\u00f3mo resistirse? En esta secci\u00f3n encontrar\u00e1s recetas de postres para todos los gustos y necesidades, propuestas infalibles para los paladares m\u00e1s exquisitos y para los grandes apasionados de los postres.",
+        link: "https://beta.mejorconsalud.com/recetas/postres/",
+        permalink: "/recetas/postres/",
+      },
+    ],
+    sponsor: null,
+    theme: "base-deploy",
+  },
+];
+
 const data = {
   id: 406721,
   slug: "clindamicina-usos-indicaciones",
@@ -53,7 +582,7 @@ const data = {
   modified: "2019-10-21T07:23:53+02:00",
   options: {
     ads: "on",
-    author: "on",
+    author: "off",
     date: "on",
     comments: "on",
     sticky: false,
@@ -107,29 +636,7 @@ const data = {
       description: "",
     },
   ],
-  author: {
-    id: 94,
-    slug: "maria-vijande",
-    link: "https://beta.mejorconsalud.com/author/maria-vijande/",
-    permalink: "/author/maria-vijande/",
-    name: "Mar\u00eda Vijande",
-    description:
-      '<p>Graduada en Farmacia\u00a0por la\u00a0<strong><a href="https://www.usal.es/" rel="noopener noreferrer" target="_blank">Universidad de Salamanca</a>\u00a0(2018)</strong>. Realiz\u00f3 un\u00a0M\u00e1ster en Monitorizaci\u00f3n de Ensayos Cl\u00ednicos y Medical Affairs en el <a href="https://www.cesif.es/"><strong>Centro de Estudios Superiores de la Industria Farmac\u00e9utica (CESIF)</strong></a>. Actualmente cursa estudios de Psicolog\u00eda en la\u00a0<a href="https://www.uned.es/universidad/"><strong>Universidad Nacional de Educaci\u00f3n a Distancia (UNED)</strong></a>.\u00a0</p>\n\n<p>Del mismo modo, ha\u00a0realizado\u00a0<strong>pr\u00e1cticas extracurriculares en oficina de farmacia </strong>y,\u00a0gracias al programa Erasmus,\u00a0ha llevado a cabo las pr\u00e1cticas de la carrera en el\u00a0<strong><a href="http://www.paidon-agiasofia.gr/" rel="noopener noreferrer" target="_blank">Hospital Hagia Sof\u00eda en Atenas</a>\u00a0(Grecia)</strong>.</p>\n\n<p>Ha redactado art\u00edculos relacionados con la salud, especialmente orientados a tratamientos, enfermedades, diagn\u00f3sticos, f\u00e1rmacos y avances cient\u00edficos en Mejor con Salud. Hoy\u00a0en d\u00eda, ocupa el cargo de\u00a0Junior Clinical Research Associate\u00a0en el\u00a0<strong><a href="https://www.geicam.org/" rel="noopener noreferrer" target="_blank">Grupo GEICAM de Investigaci\u00f3n del C\u00e1ncer de Mama</a></strong>.\u00a0</p>\n',
-    picture:
-      "https://beta.mejorconsalud.com/wp-content/themes/base-deploy/assets/img/about-us/Maria_Vijande.jpg",
-    type: "professional",
-    profession: "La farmac\u00e9utica",
-    social_profiles: {
-      twitter: "/vijandem",
-      facebook: "https://www.facebook.com/profile.php?id=100013942814514",
-      linkedin:
-        "https://www.linkedin.com/in/mara-vijande-alonso-bsc-msc-285353172/",
-      instagram: null,
-      url: null,
-      pinterest: null,
-      youtube: null,
-    },
-  },
+  author: null,
   reviewed: "2019-10-21T09:23:56+02:00",
   reviewed_by: null,
   metas: {
@@ -153,7 +660,7 @@ const data = {
     "og:image:height": 334,
     "og:image:secure_url":
       "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/medicamento-capsulas.jpg",
-    "article:author": "Mar\u00eda Vijande,Sara Viruega",
+    "article:author": "Mar\u00eda Vijande",
     "article:publisher": "https://www.facebook.com/MejorConSalud",
     "article:tag": [
       { content: "Antibioticos" },
@@ -165,8 +672,8 @@ const data = {
     "twitter:creator": "@mejorconsalud",
     "atomik:ads-provider": "google",
     "atomik:monetizable": true,
-    "google-site-verification": null,
-    "msvalidate.01": null,
+    "google-site-verification": "codigo_google_bMCS_up",
+    "msvalidate.01": "ba",
     "yandex-verification": null,
     schema: {
       "@context": "https://schema.org",
