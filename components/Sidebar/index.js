@@ -4,8 +4,8 @@ import PostWidget from "../PostWidget";
 const Search = () => {
   return (
     <div className={styles.container}>
-      <Categories />
       <PostWidget />
+      <Categories />
     </div>
   );
 };

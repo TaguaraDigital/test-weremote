@@ -27,12 +27,28 @@
 
 .grid {
   display: grid;
-  grid-template-columns: 3fr 1fr;
+  grid-template-columns: 1fr;
+  gap: 2;
+  @media (min-width: 560px) {
+    grid-template-columns: 1fr 1fr;
+  }
+  @media (min-width: 780px) {
+    grid-template-columns: 2fr 1fr;
+  }
+  @media (min-width: 990px) {
+    grid-template-columns: 3fr 1fr;
+  }
 }
 
-@media (max-width: 600px) {
-  .grid {
-    width: 100%;
-    flex-direction: column;
+.left {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: 3rem;
+}
+
+.right {
+  display: none;
+  @media (min-width: 560px) {
+    display: block;
   }
 }

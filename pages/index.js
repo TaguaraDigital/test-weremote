@@ -1,4 +1,5 @@
 import styles from "../styles/Home.module.scss";
+
 import PostsList from "../components/PostsList";
 import Search from "../components/Search";
 import Sidebar from "../components/Sidebar";
@@ -30,8 +31,6 @@ const Home = ({ postsInitial }) => {
   const fetchData = async () => {
     const URL = `https://beta.mejorconsalud.com/wp-json/mc/v3/posts?search=${search.word}&page=${search.currentPage}&orderby=${search.orderby}&order=${search.order}`;
 
-    console.log("entro a buscar data con la siguiente URL", URL);
-    console.log("y search", search);
     setState({ ...state, loading: true });
     try {
       const res = await fetch(URL);
@@ -60,7 +59,7 @@ const Home = ({ postsInitial }) => {
   const { loading, error } = state;
 
   return loading ? (
-    <div> Cargando data</div>
+    <div className="spinner"></div>
   ) : error ? (
     <div> {error} </div>
   ) : (
@@ -72,8 +71,12 @@ const Home = ({ postsInitial }) => {
       )}
       {searchResult.status === "ok" && searchResult.size > 0 && <Pagination />}
       <div className={styles.grid}>
-        <PostsList posts={articulos} />
-        <Sidebar />
+        <div className={styles.left}>
+          <PostsList posts={articulos} />
+        </div>
+        <div className={styles.right}>
+          <Sidebar />
+        </div>
       </div>
     </div>
   );

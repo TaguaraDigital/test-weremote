@@ -29,8 +29,6 @@ export const getStaticProps = async (context) => {
   );
   const data = await res.json();
 
-  console.log(data);
-
   if (!data.id) {
     return {
       notFound: true,
@@ -47,10 +45,9 @@ const ProductDetail = ({ article }) => {
   const router = useRouter();
 
   if (router.isFallback) {
-    return <h1>Cargando</h1>;
+    return <div className="spinner"></div>;
   }
 
-  console.log("en Post Detail ", article);
   return (
     <section className={styles.section}>
       <div className={styles.title}>{article.title}</div>
@@ -84,17 +81,21 @@ const ProductDetail = ({ article }) => {
           <Image
             src={article?.featured_media.medium_large}
             alt=""
-            layout="fill"
+            layout="responsive"
+            width={100}
+            height={100}
           />
         </div>
       </div>
       <div className={styles.autor}>
         <div className={styles.avatar}>
-          {/* <Image
-            src={article.author?.picture}
-            alt={article.author?.name}
-            layout="fill"
-          /> */}
+          {article.author && (
+            <Image
+              src={article.author?.picture}
+              alt={article.author?.name}
+              layout="fill"
+            />
+          )}
         </div>
         <div>Autor: {article.author?.name}</div>
       </div>

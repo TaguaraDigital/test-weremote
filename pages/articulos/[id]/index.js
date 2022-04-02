@@ -20,6 +20,7 @@ const ArticleDetail = ({ id }) => {
   const { article, loading, error } = state;
 
   useEffect(() => {
+    setState({ ...state, loading: true });
     const fetchData = async () => {
       try {
         const res = await fetch(
@@ -36,8 +37,8 @@ const ArticleDetail = ({ id }) => {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  return loading ? (
-    <div> Cargando data</div>
+  return state.loading ? (
+    <div className="spinner"></div>
   ) : error ? (
     <div> {error} </div>
   ) : (

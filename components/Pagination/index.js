@@ -6,10 +6,8 @@ import { Store } from "../../utils/store";
 const Pagination = () => {
   const { search, searchResult, setSearch } = useContext(Store);
   const [page, setPage] = useState(search.currentPage);
-  const [limit, setLimit] = useState(10);
 
   const handlePagination = (nextPage) => {
-    alert("buscando la pagina " + nextPage);
     setPage(nextPage);
     setSearch({ ...search, currentPage: nextPage });
   };
