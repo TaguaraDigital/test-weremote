@@ -2,6 +2,10 @@ import Image from "next/image";
 import Link from "next/link";
 import styles from "./PostCard.module.scss";
 const Footer = ({ post }) => {
+  const imageThumbnail =
+    post.featured_media === null
+      ? "/img/no_images.png"
+      : post.featured_media.thumbnail;
   return (
     <Link href={`/post/${post.id}`} passHref>
       <article className={styles.card}>
@@ -12,14 +16,17 @@ const Footer = ({ post }) => {
           <div className={styles.imgcontainer}>
             <Image
               className={styles.img}
-              src={post.featured_media.thumbnail}
+              src={imageThumbnail}
+              // src={post.featured_media?.thumbnail || imageThumnail}
               alt={post.slug}
               layout="fill"
               objectFit="cover"
               objectPosition="center"
             />
           </div>
-          <p> {post.excerpt}</p>
+          <p>
+            <span dangerouslySetInnerHTML={{ __html: post.excerpt }} />
+          </p>
         </div>
       </article>
     </Link>

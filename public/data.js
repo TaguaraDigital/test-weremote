@@ -528,61 +528,34 @@ const data1 = [
 ];
 
 const data = {
-  id: 406721,
-  slug: "clindamicina-usos-indicaciones",
-  link: "https://beta.mejorconsalud.com/clindamicina-usos-indicaciones/",
-  permalink: "/clindamicina-usos-indicaciones/",
-  title: "Clindamicina: usos e indicaciones",
+  id: 124589,
+  slug: "semillas-calabaza-8-razones-comerlas",
+  link: "https://beta.mejorconsalud.com/semillas-calabaza-8-razones-comerlas/",
+  permalink: "/semillas-calabaza-8-razones-comerlas/",
+  title: "Semillas de calabaza: 8 razones para comerlas",
   headline:
-    "La clindamicina es un antibi\u00f3tico de amplio espectro del grupo de las lincosamidas. Posee una actividad principalmente bacteriost\u00e1tica. Act\u00faa frente a bacterias aerobias gram positivas y frente a muchas bacterias anaerobias.",
+    "Las semillas de calabaza son ricas en \u00e1cidos grasos omega 3 y fortalecen nuestro sistema inmunitario, adem\u00e1s de ayudarnos a combatir la artritis y los procesos inflamatorios",
   excerpt:
-    "La clindamicina es un antibi\u00f3tico semisint\u00e9tico que pertenece al grupo de las lincosamidas. Se trata de un f\u00e1rmaco con actividad&hellip;",
-  featured_media: {
-    thumbnail:
-      "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/medicamento-capsulas-150x150.jpg",
-    medium:
-      "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/medicamento-capsulas-377x252.jpg",
-    medium_large:
-      "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/medicamento-capsulas.jpg",
-    large:
-      "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/medicamento-capsulas-500x334.jpg",
-    "1536x1536":
-      "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/medicamento-capsulas.jpg",
-    "2048x2048":
-      "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/medicamento-capsulas.jpg",
-    "big-size":
-      "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/medicamento-capsulas-470x314.jpg",
-    "big-size_mobile":
-      "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/medicamento-capsulas-370x247.jpg",
-    "mid-size":
-      "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/medicamento-capsulas-280x187.jpg",
-    "mid-size_mobile":
-      "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/medicamento-capsulas-160x107.jpg",
-    "web-stories-poster-portrait":
-      "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/medicamento-capsulas.jpg",
-    "web-stories-publisher-logo":
-      "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/medicamento-capsulas.jpg",
-    "web-stories-thumbnail":
-      "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/medicamento-capsulas.jpg",
-  },
+    "\u00bfEres de los que tiran las semillas de calabaza cuando cocina este fruto? Pi\u00e9nsalo dos veces la pr\u00f3xima vez.\u00a0Estas semillas&hellip;",
+  featured_media: null,
   categories: [
     {
-      id: 5476,
-      name: "Medicamentos",
-      slug: "medicamentos",
+      id: 1,
+      name: "Curiosidades",
+      slug: "curiosidades",
       description:
-        "Los medicamentos son productos a menudo indispensables en nuestro d\u00eda a d\u00eda. Conocer su mecanismo de acci\u00f3n, sus propiedades curativas o preventivas as\u00ed como los efectos secundarios asociados nos permitir\u00e1 sin duda tener un mayor conocimiento sobre este este universo cl\u00ednico que nos toca muy de cerca.",
-      link: "https://beta.mejorconsalud.com/salud/medicamentos/",
-      permalink: "/salud/medicamentos/",
+        "Curiosidades y noticias sobre salud, datos curiosos, descubrimientos, investigaciones y estudios sorprendentes",
+      link: "https://beta.mejorconsalud.com/lifestyle/curiosidades/",
+      permalink: "/lifestyle/curiosidades/",
     },
   ],
   sponsor: null,
   theme: "base-deploy",
-  published: "2019-10-21T06:00:00+02:00",
-  modified: "2019-10-21T07:23:53+02:00",
+  published: "2016-11-23T01:25:38+01:00",
+  modified: "2018-12-14T23:42:35+01:00",
   options: {
     ads: "on",
-    author: "off",
+    author: "on",
     date: "on",
     comments: "on",
     sticky: false,
@@ -597,76 +570,123 @@ const data = {
     links: [
       { url: "https://beta.mejorconsalud.com", text: "Home" },
       {
-        url: "https://beta.mejorconsalud.com/salud/",
-        text: "Salud",
-        term_id: 7181,
+        url: "https://beta.mejorconsalud.com/lifestyle/",
+        text: "Lifestyle",
+        term_id: 7273,
       },
       {
-        url: "https://beta.mejorconsalud.com/salud/medicamentos/",
-        text: "Medicamentos",
-        term_id: 5476,
+        url: "https://beta.mejorconsalud.com/lifestyle/curiosidades/",
+        text: "Curiosidades",
+        term_id: 1,
       },
       {
-        url: "https://beta.mejorconsalud.com/clindamicina-usos-indicaciones/",
-        text: "Clindamicina: usos e indicaciones",
-        id: 406721,
+        url: "https://beta.mejorconsalud.com/semillas-calabaza-8-razones-comerlas/",
+        text: "Semillas de calabaza: 8 razones para comerlas",
+        id: 124589,
       },
     ],
     options: { home: "", boldlast: true, prefix: "", sep: "" },
   },
   content:
-    '<p>La clindamicina<b> es un antibi\u00f3tico semisint\u00e9tico que pertenece al grupo de las lincosamidas</b>. Se trata de un f\u00e1rmaco con actividad bacteriost\u00e1tica.</p>\n<p><strong>Se usa para tratar ciertos tipos de infecciones bacterianas</strong>, incluyendo infecciones de los pulmones, la piel, la sangre, los \u00f3rganos reproductivos de la mujer, as\u00ed como los \u00f3rganos internos.</p>\n<h2>\u00bfC\u00f3mo act\u00faa la clindamicina?</h2>\n<h2><img loading="lazy" class="aligncenter wp-image-407206 size-full" src="https://mejorconsalud.com/wp-content/uploads/2019/10/cultivo-bacterias-gram.jpg" alt="cultivo de bacterias" width="500" height="333" srcset="https://beta.mejorconsalud.com/wp-content/uploads/2019/10/cultivo-bacterias-gram.jpg 500w, https://beta.mejorconsalud.com/wp-content/uploads/2019/10/cultivo-bacterias-gram-378x252.jpg 378w, https://beta.mejorconsalud.com/wp-content/uploads/2019/10/cultivo-bacterias-gram-470x313.jpg 470w, https://beta.mejorconsalud.com/wp-content/uploads/2019/10/cultivo-bacterias-gram-370x246.jpg 370w, https://beta.mejorconsalud.com/wp-content/uploads/2019/10/cultivo-bacterias-gram-280x186.jpg 280w, https://beta.mejorconsalud.com/wp-content/uploads/2019/10/cultivo-bacterias-gram-160x107.jpg 160w" sizes="(max-width: 500px) 100vw, 500px" /></h2>\n<p>Este antibi\u00f3tico de amplio espectro del grupo de las lincosamidas <a href="https://mejorconsalud.com/que-son-los-antibioticos/" target="_blank" rel="noopener noreferrer"><strong>posee una actividad principalmente bacteriost\u00e1tica</strong></a>. Act\u00faa frente a bacterias aerobias gram positivas y frente a muchas bacterias anaerobias.</p>\n<p>La clindamincina <strong>ejerce su acci\u00f3n mediante su uni\u00f3n a la subunidad 50S del ribosoma de la bacteria</strong>. De esta forma, inhibe las primeras etapas de la s\u00edntesis proteica de la c\u00e9lula bacteriana.</p>\n<p>Aunque su acci\u00f3n es fundamentalmente bacteriost\u00e1tica, <strong>a concentraciones elevadas puede tener un efecto bactericida</strong>. Esto depender\u00e1 de la sensibilidad de la cepa y del medio.</p>\n<p><strong>Administrada por v\u00eda oral, se absorbe pr\u00e1cticamente un 90 % de la dosis</strong>. Aunque no se sabe cuanto, la toma junto alimentos, retrasa esta absorci\u00f3n.</p>\n<h2>Indicaciones terap\u00e9uticas de la clindamicina</h2>\n<p>Este f\u00e1rmaco<strong> est\u00e1 indicado en el tratamiento de infecciones causadas por microorganismos sensibles</strong>. Entre ellas, est\u00e1n:</p>\n<ul>\n<li><a href="https://mejorconsalud.com/tratamiento-de-la-neumonia/" target="_blank" rel="noopener noreferrer"><strong>Neumon\u00eda adquirida causada por<em> Staphylococcus aureus</em></strong></a>.</li>\n<li>Absceso pulmonar.</li>\n<li><strong>Faringoamigdalitis aguda causada por estreptococo del gupo A <em>(S. pyogenes</em>).</strong></li>\n<li><strong>Infecciones odontol\u00f3gicas</strong>.</li>\n<li>Infecciones de la piel y tejidos blandos.</li>\n<li><strong>Osteomielitis</strong>.</li>\n<li>Vaginosis bacteriana.</li>\n<li>Enfermedad inflamatoria p\u00e9lvica.</li>\n<li>Neumon\u00eda causada por <em>Pneumocystis jiroveci.</em></li>\n<li><a href="http://www.scielo.org.pe/pdf/rmh/v11n1/v11n1ao3.pdf" target="_blank" rel="noopener noreferrer"><strong>Toxoplasmosis cerebral</strong> <strong>en pacientes con infecci\u00f3n por VIH</strong></a><strong>.</strong></li>\n<li>Sinusitis aguda, en ni\u00f1os mayores de 1 mes y menores de 18 a\u00f1os.</li>\n</ul>\n<p>Dado que algunas de estas infecciones a menudo se producen tambi\u00e9n por bacilos gram negativos, se usa la clindamicina con otros antibi\u00f3ticos adicionales. Por v\u00eda t\u00f3pica, <strong>se emplea para el tratamiento del acn\u00e9.</strong></p>\n<p>No obstante, <b>puede usarse para tratar infecciones por cepas sensibles a clindamicina o a eritromicina.</b> Tambi\u00e9n puede ocurrir que algunas cepas sean sensibles a uno de los antibi\u00f3ticos y resistentes al otro.</p>\n<blockquote><p>Descubre:\u00a0<a href="https://mejorconsalud.com/toxoplasmosis-que-es-y-como-tratarla/" target="_blank" rel="noopener noreferrer">Toxoplasmosis: qu\u00e9 es y c\u00f3mo tratarla</a></p></blockquote>\n<h2>Efectos adversos<img loading="lazy" class="aligncenter wp-image-230044 size-large" src="https://mejorconsalud.com/wp-content/uploads/2018/04/medicamentos-sin-receta-500x314.jpg" alt="Efectos adversos de la clindamicina" width="500" height="314" srcset="https://beta.mejorconsalud.com/wp-content/uploads/2018/04/medicamentos-sin-receta-500x314.jpg 500w, https://beta.mejorconsalud.com/wp-content/uploads/2018/04/medicamentos-sin-receta-390x245.jpg 390w, https://beta.mejorconsalud.com/wp-content/uploads/2018/04/medicamentos-sin-receta-768x482.jpg 768w, https://beta.mejorconsalud.com/wp-content/uploads/2018/04/medicamentos-sin-receta-461x290.jpg 461w, https://beta.mejorconsalud.com/wp-content/uploads/2018/04/medicamentos-sin-receta.jpg 1000w" sizes="(max-width: 500px) 100vw, 500px" /></h2>\n<p><strong>El principal efecto adverso de la clindamicina es <a href="https://mejorconsalud.com/tratamientos-de-la-diarrea-relacionada-con-antibioticos/" target="_blank" rel="noopener noreferrer">la diarrea asociada con <em>Clostridium difficile</em></a><em>.</em></strong> Se asocia con este tipo de diarrea hasta en el 10 % de los pacientes en tratamiento, independientemente de la v\u00eda de administraci\u00f3n, incluida la v\u00eda t\u00f3pica.</p>\n<p><strong>Tambi\u00e9n pueden producirse reacciones de hipersensibilidad.</strong>\u00a0Cuando se administra por v\u00eda oral, si no se toma con agua, puede causar esofagitis.</p>\n<p><strong>Por otra parte, tambi\u00e9n pueden aparecer otras reacciones adversas secundarias</strong> en pacientes bajo tratamiento con clindamicina, entre las que se encuentran:</p>\n<ul>\n<li><strong>Hematol\u00f3gicas</strong>: se han dado casos de leucopenia, leucocitosis, anemia y trombocitopenia graves.</li>\n<li><strong>Sistema cardiovascular:</strong> en algunos pacientes, la clindamicina puede causar arritmias severas como fibrilaci\u00f3n ventricular, alargamiento del intervalo QT y arrit\u00admia ventricular polim\u00f3rfica.</li>\n<li><strong>Sistema nervioso central</strong>: es posible que se den eventos aislados de bloqueo neuromuscular.</li>\n<li><strong>Gastrointestinales</strong>: el tratamiento con clindamicina pue\u00adde producir diarrea, n\u00e1usea, v\u00f3mito y dolor abdominal. \u00a0Adem\u00e1s, puede inducir colitis seudomembranosa por superin\u00adfecci\u00f3n debida a<em> Clostridium difficile</em>. Este efecto es reversible si se suspende el tratamiento. Teniendo que emplear medidas de apoyo junto <a href="https://mejorconsalud.com/vancomicina-indicaciones-mecanismo-reacciones-adversas/" target="_blank" rel="noopener noreferrer">con la \u00a0administraci\u00f3n de \u00a0vancomicina o metronidazol</a>.</li>\n<li><strong>H\u00edgado</strong>: este antibi\u00f3tico puede elevar las cifras de aspartato amino\u00adtransferasa y alanina aminotransferasa, as\u00ed como las concentraciones de bilirrubina debido a da\u00f1o hep\u00e1tico directo.</li>\n<li><strong>Ri\u00f1\u00f3n y aparato genitourinario</strong>: se asocia a la clindamicina con cuadros de moniliasis vaginal y vulvova\u00adginitis.</li>\n<li><strong>Piel</strong>: hay casos en los que se puede observar la aparici\u00f3n de erupci\u00f3n, que puede ser de leve a moderada intensidad.</li>\n</ul>\n<p><strong>Cuando el tratamiento es t\u00f3pico, puede manifestarse prurito </strong>facial, der\u00adma\u00adtitis de contacto, edema facial y erupci\u00f3n ma\u00adcu\u00ad\u00adlo\u00adpa\u00adpular.</p>\n<p>Otros efectos adversos que pueden presentarse en las personas tratadas con clindamicina incluyen el <a href="https://www.msdmanuals.com/es-es/professional/trastornos-cut\u00e1neos/hipersensibilidad-y-trastornos-inflamatorios-cut\u00e1neos/s%C3%ADndrome-de-stevens-johnson-ssj-y-necr\u00f3lisis-epid\u00e9rmica-t\u00f3xica-net" target="_blank" rel="noopener noreferrer"><strong>s\u00edndrome de Stevens-Johnson</strong></a>, reacciones de hipersensibilidad en pacientes HIV positivo y linfadenitis. No obstante, estas reacciones son poco frecuentes.</p>\n<h2>Contraindicaciones</h2>\n<p>La clindamicina est\u00e1 <strong>contraindicada en pacientes con antecedentes de reacciones al\u00e9rgicas </strong>a este f\u00e1rmaco y a la lincomicina.</p>\n<p>En cuanto a la lactancia, debes saber que este f\u00e1rmaco se excreta en la leche materna. Por esta raz\u00f3n, y debido a los posibles efectos graves en el lactante, est\u00e1 contraindicado su uso de durante la misma. <strong>Durante el embarazo tampoco debe utilizarse, a menos que sea estrictamente necesario,</strong> ya que no existen estudios ni datos suficientes.</p>\n<blockquote><p>Lee tambi\u00e9n:\u00a0<a href="https://mejorconsalud.com/medicamentos-compatibles-con-la-lactancia-materna/" target="_blank" rel="noopener noreferrer">Medicamentos compatibles con la lactancia materna</a></p></blockquote>\n<h2>Conclusi\u00f3n</h2>\n<p>Numerosos ensayos cl\u00ednicos y una extensa experiencia de farmacovigilancia <strong>avalan el uso de clindamicina como f\u00e1rmaco efectivo</strong> en el tratamiento de infecciones orales maxilofaciales, entre otras.</p>\n<!-- Error with Featured Post -->\n',
+    '<p><span style="font-weight: 400;">\u00bfEres de los que tiran las semillas de calabaza cuando cocina este fruto? </span></p>\n<p><span style="font-weight: 400;">Pi\u00e9nsalo dos veces la pr\u00f3xima vez.\u00a0</span><span style="font-weight: 400;"><strong>E</strong><strong style="font-weight: 400;">stas semillas de sabor singular poseen numerosas propiedades</strong>\u00a0que pueden ayudar a tu organismo.</span></p>\n<p><span style="font-weight: 400;">A continuaci\u00f3n, te presentaremos algunas de las principales razones por las que no debes tirar las semillas de calabaza.\u00a0</span></p>\n<p><!--more--></p>\n<h2><b>1. Tratamientos contra la artritis</b></h2>\n<p><span style="font-weight: 400;">Estas semillas</span><b> ayudan a reducir la inflamaci\u00f3n generada por la artritis y al cuidado de los </b><a href="https://dev.mejorconsalud.com/delicioso-batido-fortalecer-tus-huesos/"><b>huesos</b></a><span style="font-weight: 400;">. </span></p>\n<p><span style="font-weight: 400;">Adem\u00e1s, a diferencia de los f\u00e1rmacos, al no contener qu\u00edmicos, las semillas de calabaza no presentan efectos secundarios. Por eso son un complemento ideal para quienes sufren de estos problemas.\u00a0</span></p>\n<p><span style="font-weight: 400;">Recuerda que nunca debes abandonar la medicaci\u00f3n indicada por tu m\u00e9dico.\u00a0</span></p>\n<blockquote><p><span style="font-weight: 400;">\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Visita este art\u00edculo:\u00a0<a href="http://Delicioso batido para fortalecer tus huesos">Delicioso batido para fortalecer tus huesos</a></span></p></blockquote>\n<h2><b>2. Cuidan de tu pr\u00f3stata</b></h2>\n<figure class="content-thumb"><img loading="lazy" class="aligncenter size-large wp-image-85716" src="https://dev.mejorconsalud.com/wp-content/uploads/2015/12/Pr\u00f3stata-500x377.jpg" alt="Pr\u00f3stata" width="500" height="377" srcset="https://beta.mejorconsalud.com/wp-content/uploads/2015/12/Pr\u00f3stata.jpg 500w, https://beta.mejorconsalud.com/wp-content/uploads/2015/12/Pr\u00f3stata-115x87.jpg 115w" sizes="(max-width: 500px) 100vw, 500px" /></figure></p>\n<p><span style="font-weight: 400;">Estas semillas ayudan a mantener la salud de la pr\u00f3stata. </span></p>\n<p><span style="font-weight: 400;">Gracias a los aceites que contienen y a su alta concentraci\u00f3n </span>en\u00a0<a href="https://dev.mejorconsalud.com/come-mas-zinc-para-evitar-la-alopecia/">zinc</a>, las semillas de calabaza\u00a0pueden<b> desempe\u00f1ar\u00a0un papel importante en el control de la inflamaci\u00f3n de este \u00f3rgano\u00a0</b>(hiperplasia prost\u00e1tica benigna).</p>\n<h2><b>3. Logra un sue\u00f1o m\u00e1s reconfortante</b></h2>\n<p><span style="font-weight: 400;"><strong>Las semillas de calabaza son una gran fuente de tript\u00f3fano</strong> que, a la larga, se convierte en melatonina,</span> <span style="font-weight: 400;">la famosa hormona del sue\u00f1o. </span></p>\n<p>Por eso, consumir este tipo de semillas antes de ir a la cama junto con un carbohidrato ligero, como una peque\u00f1a fruta, te ayudar\u00e1 a tener un sue\u00f1o pl\u00e1cido.</p>\n<h2><b>4. Obt\u00e9n grasas de origen vegetal<img loading="lazy" class="aligncenter size-large wp-image-86806" src="https://dev.mejorconsalud.com/wp-content/uploads/2015/12/\u00c1cidos-grasos-Omega-3-500x373.jpg" alt="\u00c1cidos grasos Omega 3" width="500" height="373" srcset="https://beta.mejorconsalud.com/wp-content/uploads/2015/12/\u00c1cidos-grasos-Omega-3.jpg 500w, https://beta.mejorconsalud.com/wp-content/uploads/2015/12/\u00c1cidos-grasos-Omega-3-115x87.jpg 115w" sizes="(max-width: 500px) 100vw, 500px" /> </b></h2>\n<p><span style="font-weight: 400;">Estas semillas </span><b>son una de las mejores fuentes de </b><a href="https://dev.mejorconsalud.com/suplementos-omega-3/"><b>omega 3</b></a><b>\u00a0de origen vegetal</b><span style="font-weight: 400;">.</span></p>\n<p><span style="font-weight: 400;">No obstante, aunque est\u00e9s deseando obtener grandes cantidades de omega 3, recuerda mantener vigilado el consumo de estas semillas. <strong>Lo ideal ser\u00eda no consumir m\u00e1s de 20 gramos al d\u00eda.</strong></span></p>\n<h2><b>5. Beneficios al sistema inmunitario</b></h2>\n<p>Gracias a sus altas cantidades de zinc,<b> las semillas de calabaza pueden llegar a ser muy \u00fatiles para el organismo</b><span style="font-weight: 400;">. </span></p>\n<p><span style="font-weight: 400;">De hecho, gran parte de la poblaci\u00f3n mundial tiene d\u00e9ficit de zinc, ya que en los suelos de cultivo se han ido agotando estos minerales.\u00a0</span></p>\n<p><span style="font-weight: 400;">Esta deficiencia perjudica tu sistema inmunitario, generando un retraso del crecimiento y p\u00e9rdida del </span><a href="https://dev.mejorconsalud.com/como-usar-el-aceite-de-coco-para-tener-un-cabello-espectacular/"><span style="font-weight: 400;">cabello</span></a><span style="font-weight: 400;">. Por ello es recomendable ingerir de vez en cuando estas semillas.</span></p>\n<h2><b>6.\u00a0</b><b>Las semillas de calabaza: excepcionales en la posmenopausia</b></h2>\n<figure class="content-thumb"><img loading="lazy" class="aligncenter wp-image-227647 size-large" src="https://dev.mejorconsalud.com/wp-content/uploads/2018/04/semillas-de-calabaza-1-500x333.jpg" alt="Semillas de calabaza para eliminar par\u00e1sitos intestinales" width="500" height="333" srcset="https://beta.mejorconsalud.com/wp-content/uploads/2018/04/semillas-de-calabaza-1-500x333.jpg 500w, https://beta.mejorconsalud.com/wp-content/uploads/2018/04/semillas-de-calabaza-1-379x252.jpg 379w, https://beta.mejorconsalud.com/wp-content/uploads/2018/04/semillas-de-calabaza-1-768x511.jpg 768w, https://beta.mejorconsalud.com/wp-content/uploads/2018/04/semillas-de-calabaza-1-461x307.jpg 461w, https://beta.mejorconsalud.com/wp-content/uploads/2018/04/semillas-de-calabaza-1.jpg 1203w" sizes="(max-width: 500px) 100vw, 500px" /></figure></p>\n<p><b>El aceite de este tipo de semilla es un <a href="https://es.wikipedia.org/wiki/Fitoestr%C3%B3geno">fitoestr\u00f3geno</a> natural</b><span style="font-weight: 400;"> que puede ayudar a controlar los s\u00edntomas de la posmenopausia como: </span></p>\n<ul>\n<li style="font-weight: 400;"><span style="font-weight: 400;">Disminuci\u00f3n de la </span><a href="https://dev.mejorconsalud.com/delicioso-batido-matinal-controlar-la-presion-arterial-alta/"><span style="font-weight: 400;">presi\u00f3n arterial</span></a></li>\n<li style="font-weight: 400;"><span style="font-weight: 400;">Bochornos</span></li>\n<li style="font-weight: 400;"><span style="font-weight: 400;">Cefaleas</span></li>\n<li style="font-weight: 400;"><span style="font-weight: 400;">Dolor articular</span></li>\n</ul>\n<p><span style="font-weight: 400;">Por esta raz\u00f3n, son muy recomendable para mujeres de la tercera edad.</span></p>\n<h2><b>7. Ayuda contra la diabetes</b></h2>\n<p><span style="font-weight: 400;">Los carbohidratos de estas semillas son complejos. Por eso, ayudan a\u00a0</span><b>mantener tus niveles de glucosa estables,\u00a0al tiempo que aumentan la sensaci\u00f3n de saciedad.</b></p>\n<p><span style="font-weight: 400;">Antes de irte a dormir, te recomendamos sentarte con una lectura ligera, servir un poco de estas semillas en un recipiente y comerlas lentamente junto con unas pocas almendras. </span></p>\n<h2><b>8. Son un estimulante cardiovascular</b></h2>\n<figure class="content-thumb"><img loading="lazy" class="aligncenter wp-image-65673 size-large" src="https://dev.mejorconsalud.com/wp-content/uploads/2015/06/Salud-cardiovascular-500x332.jpg" alt="Salud cardiovascular" width="500" height="332" srcset="https://beta.mejorconsalud.com/wp-content/uploads/2015/06/Salud-cardiovascular.jpg 500w, https://beta.mejorconsalud.com/wp-content/uploads/2015/06/Salud-cardiovascular-380x252.jpg 380w" sizes="(max-width: 500px) 100vw, 500px" /></figure></p>\n<p><span style="font-weight: 400;">Uno de los compuestos org\u00e1nicos en las semillas de calabaza son los fitoesteroles. Estos\u00a0</span><b>ayudan a prevenir los</b><a href="https://dev.mejorconsalud.com/coagulos-de-sangre-menstruacion/"><b> co\u00e1gulos</b></a><b> de sangre</b><span style="font-weight: 400;">, reduciendo as\u00ed el riesgo de ataques card\u00edacos y accidentes cerebrovasculares. </span></p>\n<p><span style="font-weight: 400;">Adem\u00e1s, los altos niveles de cobre que aportan estas semillas ayudan a aumentar el recuento de <a href="https://es.wikipedia.org/wiki/Eritrocito">gl\u00f3bulos rojos</a> en el cuerpo y mejorar el paso oxigenado de la sangre a trav\u00e9s de los vasos.</span></p>\n<blockquote><p>\u00bfQuieres conocer m\u00e1s? Lee:\u00a0<a href="http://La depresi\u00f3n puede producir problemas cardiovasculares">La depresi\u00f3n puede producir problemas cardiovasculares</a></p></blockquote>\n<h2><b>Como consumir semillas de calabaza</b></h2>\n<p><b>Lo ideal es consumir las semillas crudas. </b>A<span style="font-weight: 400;">l cocinarlas, pierden algunas de sus propiedades. </span></p>\n<p><span style="font-weight: 400;">Algunos prefieren consumirlas crujientes reci\u00e9n sacadas del horno. Sin embargo, otros optan por comerlas con carnes magras.</span></p>\n<p><span style="font-weight: 400;">Si lo que quieres es una receta original, prueba con esta opci\u00f3n:</span></p>\n<ul>\n<li style="font-weight: 400;"><span style="font-weight: 400;">Primero, toma una buena cantidad de semillas, preferentemente blancas, sin muchas manchas, separadas por completo de la carne de la calabaza.</span></li>\n<li style="font-weight: 400;"><span style="font-weight: 400;">Luego, hi\u00e9rvelas 2 minutos a fuego alto.</span></li>\n<li style="font-weight: 400;"><span style="font-weight: 400;">Finalmente, col\u00f3calas en el horno, con una cantidad abundante de salsa agridulce china o teriyaki.</span></li>\n</ul>\n<p><span style="font-weight: 400;">Con esta receta, las semillas absorber\u00e1n todo su sabor y quedar\u00e1n deliciosas. Su color ser\u00e1 rojizo o negro y puedes servirlas en reuniones familiares con un poco de jam\u00f3n con mel\u00f3n, aceitunas y otros. </span></p>\n<p><span style="font-weight: 400;">Estos bocadillos <strong>son ligeros para el est\u00f3mago y facilitan la </strong></span><strong><a href="https://dev.mejorconsalud.com/jarabe-mejorar-la-digestion/">digesti\u00f3n.</a></strong><span style="font-weight: 400;">\u00a0Adem\u00e1s, son para todos los gustos y superf\u00e1ciles de preparar. </span></p>\n<p>Las semillas de calabaza presentan pocas contraindicaciones. La principal es seguramente su alto contenido graso.<strong>Por eso,\u00a0consumirlas sin cuidado pueden generar problemas en tus h\u00e1bitos alimenticios.</strong></p>\n<!-- Error with Featured Post -->\n<p>&nbsp;</p>\n',
   bibliography:
-    '<ul>\r\n \t<li>\r\n<p style="margin-left: 24pt;text-indent: -24.0pt">Montoya Claramunt, I., Mira O., M., \u00c1lvarez A., I., Cofr\u00e9 G., J., Cohen V., J., Donoso W., G., &amp; Torres T., J. P. (2009). Resistencia inducible a clindamicina en Staphylococcus aureus meticilino resistente. <i>Revista Chilena de Pediatria</i>. https://doi.org/10.4067/s0370-41062009000100006</p>\r\n</li>\r\n \t<li>\r\n<p style="margin-left: 24pt;text-indent: -24.0pt">Rodriguez, E. (2009). Tratamiento antibi\u00f3tico de la infecci\u00f3n odontog\u00e9nica. <i>Inf Ter Sist Nac Salud</i>.</p>\r\n</li>\r\n \t<li>\r\n<p style="margin-left: 24pt;text-indent: -24.0pt">P\u00e9rez, N., Pavas, N., &amp; Isabel Rodr\u00edguez, E. (2010). Resistencia de Staphylococcus aureus a los antibi\u00f3ticos en un hospital de la orinoquia colombiana. <i>Infectio</i>. https://doi.org/10.1016/s0123-9392(10)70108-9</p>\r\n</li>\r\n</ul>',
+    '<div class="loa-wrapper loa-authors hidden-xs">\n<div id="sb-1" class="accordion">\n<div class="accordion-tabbed">\n<ul>\n<li class="accordion-tabbed__tab-mobile accordion__closed">Gilbert Otto Fruhwirth,\u00a0Thomas Wenzl,\u00a0Rosemarie El\u2010Toukhy,\u00a0Franz Siegfried Wagner,\u00a0Albin Hermetter, &#8220;Fluorescence screening of antioxidant capacity in pumpkin seed oils and other natural oils&#8221;, <em>European Journal of Lipid Science and technology</em>, 2003.</li>\n</ul>\n<div>\n<div id="banner" class="Banner">\n<div class="wrapper truncated">\n<div class="AuthorGroups">\n<ul>\n<li class="author-group">Marianna<span class="content"><span class="text given-name">\u00a0N.</span><span class="text surname">Xanthopoulou,\u00a0</span></span><span class="content"><span class="text given-name">Tzortzis\u00a0</span><span class="text surname">Nomikos,\u00a0</span></span><span class="content"><span class="text given-name">Elizabeth\u00a0</span><span class="text surname">Fragopoulou,\u00a0</span></span><span class="content"><span class="text given-name">Smaragdi\u00a0</span><span class="text surname">Antonopoulou, &#8220;</span></span>Antioxidant and lipoxygenase inhibitory activities of pumpkin seed extracts&#8221;, <em>Food Research International,\u00a0</em>Volume 42, Issues 5\u20136,\u00a0June\u2013July 2009, Pages 641-646</li>\n</ul>\n<div>\n<ul>\n<li class="auths">Hong H,\u00a0Kim CS,\u00a0Maeng S., &#8220;Effects of pumpkin seed oil and saw palmetto oil in Korean men with symptomatic benign prostatic hyperplasia&#8221;,\u00a0<em><span role="menubar">Nutr Res Pract.</span></em>\u00a02009 Winter;3(4):323-7.</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div>\n<ul>\n<li class="auths">Gossell-Williams M et al. &#8220;Improvement in HDL cholesterol in postmenopausal women supplemented with pumpkin seed oil:\u00a0pilot\u00a0study&#8221;,\u00a0<span role="menubar"><em>Climacteric</em>.</span>\u00a02011 Oct;14(5):558-64.</li>\n</ul>\n<div>\n<ul>\n<li class="auths">Caili F,\u00a0Huan S,\u00a0Quanhong L., &#8220;A review on pharmacological activities and utilization technologies of pumpkin&#8221;,\u00a0<em><span role="menubar">Plant Foods Hum Nutr.</span>\u00a0</em>2006 Jun;61(2):73-80.</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n',
   tags: [
     {
-      id: 1337,
-      name: "Antibioticos",
-      slug: "antibioticos",
-      permalink: "/salud/antibioticos/",
-      link: "https://beta.mejorconsalud.com/salud/antibioticos/",
+      id: 502,
+      name: "Artritis",
+      slug: "artritis",
+      permalink: "/salud/artritis/",
+      link: "https://beta.mejorconsalud.com/salud/artritis/",
       description: "",
     },
     {
-      id: 13553,
-      name: "infecciones bacterianas",
-      slug: "infecciones-bacterianas",
-      permalink: "/salud/infecciones-bacterianas/",
-      link: "https://beta.mejorconsalud.com/salud/infecciones-bacterianas/",
+      id: 593,
+      name: "Calabaza",
+      slug: "calabaza",
+      permalink: "/salud/calabaza/",
+      link: "https://beta.mejorconsalud.com/salud/calabaza/",
+      description: "",
+    },
+    {
+      id: 440,
+      name: "Huesos",
+      slug: "huesos",
+      permalink: "/salud/huesos/",
+      link: "https://beta.mejorconsalud.com/salud/huesos/",
+      description: "",
+    },
+    {
+      id: 432,
+      name: "Presion arterial",
+      slug: "presion-arterial",
+      permalink: "/salud/presion-arterial/",
+      link: "https://beta.mejorconsalud.com/salud/presion-arterial/",
+      description: "",
+    },
+    {
+      id: 10610,
+      name: "Semillas de calabaza",
+      slug: "semillas-de-calabaza",
+      permalink: "/salud/semillas-de-calabaza/",
+      link: "https://beta.mejorconsalud.com/salud/semillas-de-calabaza/",
       description: "",
     },
   ],
-  author: null,
-  reviewed: "2019-10-21T09:23:56+02:00",
+  author: {
+    id: 28,
+    slug: "okairy-zuniga",
+    link: "https://beta.mejorconsalud.com/author/okairy-zuniga/",
+    permalink: "/author/okairy-zuniga/",
+    name: "Okairy Zu\u00f1iga",
+    description:
+      '<p><strong>Licenciada en Derecho </strong>por el <a href="https://www.itla.edu.mx/">Instituto Tecnol\u00f3gico Latinoamericano</a>, tiene una <strong>especialidad en Derecho Fiscal</strong> de la misma instituci\u00f3n. Adem\u00e1s, es <strong>licenciada en Marketing</strong> de la <a href="https://www.uaeh.edu.mx/">Universidad aut\u00f3noma del Estado de Hidalgo</a>, de M\u00e9xico, y tiene <strong>certificaciones en Google Ads </strong>y en Google Analytics.</p>\n\n<p>Desde el 2011 se desempe\u00f1a como <strong>redactora SEO y copywriter </strong>para diversos portales web como Expedia M\u00e9xico, Kredito24, Hoteles.com, suite101.net, Legalix, Decoradictos y pintar-paredes.com, entre otras.</p>\n\n<p>Asimismo, ha colaborado en calidad de redactora con varias agencias de marketing como Inbox Marketing Digital y S\u00famate Marketing Digital. De forma freelance ha redactado art\u00edculos sobre diversas tem\u00e1ticas para empresas y entidades educativas.</p>\n\n<p>En la actualidad ofrece sus servicios de <strong>posicionamiento en web, redacci\u00f3n SEO y Copywriting </strong>a empresas que deseen aumentar su presencia y resultados digitales.</p>',
+    picture:
+      "https://mejorconsalud.com/wp-content/uploads/2019/03/Okairy_Zuniga.jpg",
+    type: "author",
+    profession: "La abogada",
+    social_profiles: {
+      twitter: "okairy_z",
+      facebook: null,
+      linkedin: null,
+      instagram: null,
+      url: null,
+      pinterest: null,
+      youtube: null,
+    },
+  },
+  reviewed: "2018-12-15T00:42:36+01:00",
   reviewed_by: null,
   metas: {
-    title: "Clindamicina: usos e indicaciones - Mejor con Salud",
+    title: "Semillas de calabaza: 8 razones para comerlas - Mejor con Salud",
     description:
-      "La clindamicina es un antibiotico semisint\u00e9tico que pertenece al grupo de las lincosamidas. Se trata de un f\u00e1rmaco con actividad bacteriost\u00e1tica.",
+      "\u00bfEres de los que tiran las semillas de calabaza cuando cocina este fruto? Pi\u00e9nsalo dos veces la siguiente vez que no las consideres \u00fatiles.",
     robots: "noindex,follow",
-    canonical: "https://beta.mejorconsalud.com/clindamicina-usos-indicaciones/",
+    canonical:
+      "https://beta.mejorconsalud.com/semillas-calabaza-8-razones-comerlas/",
     ampUrl:
-      "https://beta.mejorconsalud.com/clindamicina-usos-indicaciones/amp/",
+      "https://beta.mejorconsalud.com/semillas-calabaza-8-razones-comerlas/amp/",
     "og:locale": "es_ES",
-    "og:title": "Clindamicina: usos e indicaciones",
+    "og:title": "Semillas de calabaza: 8 razones para comerlas",
     "og:description":
-      "La clindamicina es un antibi\u00f3tico semisint\u00e9tico que pertenece al grupo de las lincosamidas. Se trata de un f\u00e1rmaco con actividad&hellip;",
+      "\u00bfEres de los que tiran las semillas de calabaza cuando cocina este fruto? Pi\u00e9nsalo dos veces la pr\u00f3xima vez.\u00a0Estas semillas&hellip;",
     "og:type": "article",
     "og:site_name": "Mejor con Salud",
-    "og:image":
-      "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/medicamento-capsulas.jpg",
-    "og:image:alt": "albendazol",
-    "og:image:width": 500,
-    "og:image:height": 334,
-    "og:image:secure_url":
-      "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/medicamento-capsulas.jpg",
-    "article:author": "Mar\u00eda Vijande",
+    "og:image": null,
+    "og:image:alt": null,
+    "og:image:width": null,
+    "og:image:height": null,
+    "og:image:secure_url": null,
+    "article:author": "Okairy Zu\u00f1iga",
     "article:publisher": "https://www.facebook.com/MejorConSalud",
     "article:tag": [
-      { content: "Antibioticos" },
-      { content: "infecciones bacterianas" },
+      { content: "Artritis" },
+      { content: "Calabaza" },
+      { content: "Huesos" },
+      { content: "Presion arterial" },
+      { content: "Semillas de calabaza" },
     ],
-    "article:section": "Medicamentos",
+    "article:section": "Curiosidades",
     "twitter:card": "summary",
     "twitter:site": "@mejorconsalud",
     "twitter:creator": "@mejorconsalud",
@@ -701,46 +721,42 @@ const data = {
         {
           "@type": "ImageObject",
           "@id":
-            "https://beta.mejorconsalud.com/clindamicina-usos-indicaciones/#primaryimage",
+            "https://beta.mejorconsalud.com/semillas-calabaza-8-razones-comerlas/#primaryimage",
           inLanguage: "es",
-          url: "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/medicamento-capsulas.jpg",
+          url: "https://dev.mejorconsalud.com/wp-content/uploads/2015/12/Pr\u00f3stata-500x377.jpg",
           contentUrl:
-            "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/medicamento-capsulas.jpg",
-          width: 500,
-          height: 334,
-          caption: "albendazol",
+            "https://dev.mejorconsalud.com/wp-content/uploads/2015/12/Pr\u00f3stata-500x377.jpg",
         },
         {
           "@type": "WebPage",
           "@id":
-            "https://beta.mejorconsalud.com/clindamicina-usos-indicaciones/#webpage",
-          url: "https://beta.mejorconsalud.com/clindamicina-usos-indicaciones/",
-          name: "Clindamicina: usos e indicaciones &mdash; Mejor con Salud",
+            "https://beta.mejorconsalud.com/semillas-calabaza-8-razones-comerlas/#webpage",
+          url: "https://beta.mejorconsalud.com/semillas-calabaza-8-razones-comerlas/",
+          name: "Semillas de calabaza: 8 razones para comerlas &mdash; Mejor con Salud",
           isPartOf: { "@id": "https://beta.mejorconsalud.com/#website" },
           primaryImageOfPage: {
             "@id":
-              "https://beta.mejorconsalud.com/clindamicina-usos-indicaciones/#primaryimage",
-            image:
-              "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/medicamento-capsulas.jpg",
+              "https://beta.mejorconsalud.com/semillas-calabaza-8-razones-comerlas/#primaryimage",
+            image: null,
           },
-          datePublished: "2019-10-21T06:00:00+02:00",
-          dateModified: "2019-10-21T07:23:53+02:00",
+          datePublished: "2016-11-23T01:25:38+01:00",
+          dateModified: "2018-12-14T23:42:35+01:00",
           author: {
             "@id":
-              "https://beta.mejorconsalud.com/#/schema/person/f25302279ffde63c528589c322405767",
+              "https://beta.mejorconsalud.com/#/schema/person/5d58ff3c80fde43f181836b9c7c3e440",
           },
           description:
-            "La clindamicina es un antibiotico semisint\u00e9tico que pertenece al grupo de las lincosamidas. Se trata de un f\u00e1rmaco con actividad bacteriost\u00e1tica.",
+            "\u00bfEres de los que tiran las semillas de calabaza cuando cocina este fruto? Pi\u00e9nsalo dos veces la siguiente vez que no las consideres \u00fatiles.",
           breadcrumb: {
             "@id":
-              "https://beta.mejorconsalud.com/clindamicina-usos-indicaciones/#breadcrumb",
+              "https://beta.mejorconsalud.com/semillas-calabaza-8-razones-comerlas/#breadcrumb",
           },
           inLanguage: "es",
           potentialAction: [
             {
               "@type": "ReadAction",
               target: [
-                "https://beta.mejorconsalud.com/clindamicina-usos-indicaciones/",
+                "https://beta.mejorconsalud.com/semillas-calabaza-8-razones-comerlas/",
               ],
             },
           ],
@@ -748,269 +764,326 @@ const data = {
         {
           "@type": "BreadcrumbList",
           "@id":
-            "https://beta.mejorconsalud.com/clindamicina-usos-indicaciones/#breadcrumb",
+            "https://beta.mejorconsalud.com/semillas-calabaza-8-razones-comerlas/#breadcrumb",
           itemListElement: [
             {
               "@type": "ListItem",
               position: 1,
-              name: "Clindamicina: usos e indicaciones",
+              name: "Semillas de calabaza: 8 razones para comerlas",
             },
           ],
         },
         {
           "@type": "Person",
           "@id":
-            "https://beta.mejorconsalud.com/#/schema/person/f25302279ffde63c528589c322405767",
-          name: "Mar\u00eda Vijande",
+            "https://beta.mejorconsalud.com/#/schema/person/5d58ff3c80fde43f181836b9c7c3e440",
+          name: "Okairy Zu\u00f1iga",
           image: {
             "@type": "ImageObject",
             "@id": "https://beta.mejorconsalud.com/#personlogo",
             inLanguage: "es",
-            url: "https://secure.gravatar.com/avatar/fdfb8cd16b13b4eb19951c39bce26da5?s=96&d=mm&r=g",
+            url: "https://secure.gravatar.com/avatar/e4ca73966858916aaba1928943ddc9d1?s=96&d=mm&r=g",
             contentUrl:
-              "https://secure.gravatar.com/avatar/fdfb8cd16b13b4eb19951c39bce26da5?s=96&d=mm&r=g",
-            caption: "Mar\u00eda Vijande",
+              "https://secure.gravatar.com/avatar/e4ca73966858916aaba1928943ddc9d1?s=96&d=mm&r=g",
+            caption: "Okairy Zu\u00f1iga",
           },
           description:
-            "Graduada en Farmacia\u00a0por la\u00a0Universidad de Salamanca\u00a0(2018). Realiz\u00f3 un\u00a0M\u00e1ster en Monitorizaci\u00f3n de Ensayos Cl\u00ednicos y Medical Affairs en el Centro de Estudios Superiores de la Industria Farmac\u00e9utica (CESIF). Actualmente cursa estudios de Psicolog\u00eda en la\u00a0Universidad Nacional de Educaci\u00f3n a Distancia (UNED).\u00a0 Del mismo modo, ha\u00a0realizado\u00a0pr\u00e1cticas extracurriculares en oficina de farmacia y,\u00a0gracias al programa Erasmus,\u00a0ha llevado a cabo las pr\u00e1cticas de la carrera en el\u00a0Hospital Hagia Sof\u00eda en Atenas\u00a0(Grecia). Ha redactado art\u00edculos relacionados con la salud, especialmente orientados a tratamientos, enfermedades, diagn\u00f3sticos, f\u00e1rmacos y avances cient\u00edficos en Mejor con Salud. Hoy\u00a0en d\u00eda, ocupa el cargo de\u00a0Junior Clinical Research Associate\u00a0en el\u00a0Grupo GEICAM de Investigaci\u00f3n del C\u00e1ncer de Mama.\u00a0",
-          sameAs: [
-            "https://www.facebook.com/profile.php?id=100013942814514",
-            "https://www.linkedin.com/in/mara-vijande-alonso-bsc-msc-285353172/",
-            "https://twitter.com//vijandem",
-          ],
-          url: "https://beta.mejorconsalud.com/author/maria-vijande/",
+            "Licenciada en Derecho por el Instituto Tecnol\u00f3gico Latinoamericano, tiene una especialidad en Derecho Fiscal de la misma instituci\u00f3n. Adem\u00e1s, es licenciada en Marketing de la Universidad aut\u00f3noma del Estado de Hidalgo, de M\u00e9xico, y tiene certificaciones en Google Ads y en Google Analytics. Desde el 2011 se desempe\u00f1a como redactora SEO y copywriter para diversos portales web como Expedia M\u00e9xico, Kredito24, Hoteles.com, suite101.net, Legalix, Decoradictos y pintar-paredes.com, entre otras. Asimismo, ha colaborado en calidad de redactora con varias agencias de marketing como Inbox Marketing Digital y S\u00famate Marketing Digital. De forma freelance ha redactado art\u00edculos sobre diversas tem\u00e1ticas para empresas y entidades educativas. En la actualidad ofrece sus servicios de posicionamiento en web, redacci\u00f3n SEO y Copywriting a empresas que deseen aumentar su presencia y resultados digitales.",
+          sameAs: ["https://twitter.com/okairy_z"],
+          url: "https://beta.mejorconsalud.com/author/okairy-zuniga/",
         },
       ],
     },
   },
   related_links: [
     {
-      id: 412365,
-      title: "\u00bfPara qu\u00e9 sirve el flumazenil?",
-      slug: "para-que-sirve-flumazenil",
+      id: 511501,
+      title: "Prueba Highlight",
+      slug: "prueba-highlight",
       description: "",
-      link: "https://beta.mejorconsalud.com/para-que-sirve-flumazenil/",
-      permalink: "/para-que-sirve-flumazenil/",
+      link: "https://beta.mejorconsalud.com/prueba-highlight/",
+      permalink: "/prueba-highlight/",
     },
     {
-      id: 412509,
-      title: "\u00bfQu\u00e9 es y para qu\u00e9 sirve la norepinefrina?",
-      slug: "que-es-para-que-sirve-norepinefrina",
+      id: 511077,
+      title: "test-articulo",
+      slug: "test-articulo",
       description: "",
-      link: "https://beta.mejorconsalud.com/que-es-para-que-sirve-norepinefrina/",
-      permalink: "/que-es-para-que-sirve-norepinefrina/",
+      link: "https://beta.mejorconsalud.com/test-articulo/",
+      permalink: "/test-articulo/",
     },
     {
-      id: 410128,
-      title: "\u00bfCu\u00e1les son los tipos de medicamentos?",
-      slug: "tipos-medicamentos",
+      id: 511455,
+      title: "Prueba Amazon",
+      slug: "prueba-amazon",
       description: "",
-      link: "https://beta.mejorconsalud.com/tipos-medicamentos/",
-      permalink: "/tipos-medicamentos/",
+      link: "https://beta.mejorconsalud.com/prueba-amazon/",
+      permalink: "/prueba-amazon/",
     },
   ],
   previous_post: {
-    id: 404507,
-    slug: "que-es-mas-saludable-la-comida-caliente-o-fria",
-    link: "https://beta.mejorconsalud.com/que-es-mas-saludable-la-comida-caliente-o-fria/",
-    permalink: "/que-es-mas-saludable-la-comida-caliente-o-fria/",
-    title:
-      "\u00bfQu\u00e9 es m\u00e1s saludable la comida caliente o fr\u00eda?",
+    id: 125109,
+    slug: "smoothie-vainilla-regular-el-intestino",
+    link: "https://beta.mejorconsalud.com/smoothie-vainilla-regular-el-intestino/",
+    permalink: "/smoothie-vainilla-regular-el-intestino/",
+    title: "Smoothie de vainilla para regular el intestino naturalmente",
     headline:
-      "Nos preocupamos mucho de cuales son los alimentos m\u00e1s saludables en nuestra dieta y en qu\u00e9 cantidades comerlos. Sin embargo, no solemos cuestionarnos la importancia que la temperatura de los alimentos puede tener para nuestra salud. \u00bfEs m\u00e1s saludable la comida caliente o fr\u00eda?",
+      "M\u00e1s all\u00e1 de ayudarnos a regular el intestino, gracias a sus ingredientes, este smoothie es una alternativa perfecta para obtener energ\u00eda, remineralizar el organismo e incluso para perder peso",
     excerpt:
-      "\u00bfQu\u00e9 es m\u00e1s saludable, la comida caliente o fr\u00eda? Este interrogante surge precisamente ahora que empezamos a cambiar los platos&hellip;",
+      "\u00bfSab\u00edas que puedes regular el intestino con un delicioso smoothie de vainilla? Es f\u00e1cil de preparar, est\u00e1 elaborado con ingredientes&hellip;",
     featured_media: {
       thumbnail:
-        "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-cocinando-comida-caliente-150x150.jpg",
+        "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/batidos-regular-intestino.jpg",
       medium:
-        "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-cocinando-comida-caliente-378x252.jpg",
+        "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/batidos-regular-intestino.jpg",
       medium_large:
-        "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-cocinando-comida-caliente-768x512.jpg",
+        "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/batidos-regular-intestino.jpg",
       large:
-        "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-cocinando-comida-caliente-500x333.jpg",
+        "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/batidos-regular-intestino-500x351.jpg",
       "1536x1536":
-        "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-cocinando-comida-caliente.jpg",
+        "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/batidos-regular-intestino.jpg",
       "2048x2048":
-        "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-cocinando-comida-caliente.jpg",
+        "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/batidos-regular-intestino.jpg",
       "big-size":
-        "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-cocinando-comida-caliente-470x313.jpg",
+        "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/batidos-regular-intestino.jpg",
       "big-size_mobile":
-        "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-cocinando-comida-caliente-370x247.jpg",
+        "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/batidos-regular-intestino.jpg",
       "mid-size":
-        "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-cocinando-comida-caliente-280x187.jpg",
+        "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/batidos-regular-intestino.jpg",
       "mid-size_mobile":
-        "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-cocinando-comida-caliente-160x107.jpg",
+        "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/batidos-regular-intestino.jpg",
       "web-stories-poster-portrait":
-        "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-cocinando-comida-caliente.jpg",
+        "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/batidos-regular-intestino.jpg",
       "web-stories-publisher-logo":
-        "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-cocinando-comida-caliente.jpg",
+        "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/batidos-regular-intestino.jpg",
       "web-stories-thumbnail":
-        "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-cocinando-comida-caliente.jpg",
+        "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/batidos-regular-intestino.jpg",
     },
     categories: [
       {
-        id: 7285,
-        name: "Nutrici\u00f3n",
-        slug: "nutricion",
+        id: 7284,
+        name: "Dietas detox",
+        slug: "detox",
         description:
-          "\u00bfTe nutres de forma adecuada? En ocasiones determinadas dietas nos sumen en estados carenciales, lo cual se traduce en malestar, cansancio o en diversos trastornos. En esta secci\u00f3n te ense\u00f1aremos qu\u00e9 alimentos son los m\u00e1s nutritivos, qu\u00e9 dietas y h\u00e1bitos debes seguir para cubrir todas tus necesidades.",
-        link: "https://beta.mejorconsalud.com/dieta/nutricion/",
-        permalink: "/dieta/nutricion/",
+          "Si necesitas depurar el organismo para mejorar su funci\u00f3n, para optimizar las tareas del h\u00edgado, los ri\u00f1ones y tu metabolismo en general, no lo dudes, en nuestro espacio tenemos para ti las mejores dietas detox. Consejos saludables donde dir\u00e1s adi\u00f3s al cansancio, a las toxinas e incluso a esos kilos de m\u00e1s.",
+        link: "https://beta.mejorconsalud.com/dieta/detox/",
+        permalink: "/dieta/detox/",
       },
     ],
     sponsor: null,
     theme: "base-deploy",
-    published: "2019-10-20T22:20:53+02:00",
-    modified: "2019-10-21T12:06:43+02:00",
+    published: "2016-11-22T16:09:55+01:00",
+    modified: "2019-01-11T14:44:06+01:00",
   },
   next_post: {
-    id: 406132,
-    slug: "que-es-el-sindrome-de-dumping",
-    link: "https://beta.mejorconsalud.com/que-es-el-sindrome-de-dumping/",
-    permalink: "/que-es-el-sindrome-de-dumping/",
-    title: "\u00bfQu\u00e9 es el s\u00edndrome de dumping?",
+    id: 124653,
+    slug: "sabias-lo-logras-al-ponerle-canela-tus-plantas",
+    link: "https://beta.mejorconsalud.com/sabias-lo-logras-al-ponerle-canela-tus-plantas/",
+    permalink: "/sabias-lo-logras-al-ponerle-canela-tus-plantas/",
+    title: "\u00bfSab\u00edas lo que logras al ponerle canela a tus plantas?",
     headline:
-      "Una gran cantidad de personas que han pasado por una cirug\u00eda g\u00e1strica desarrollan el s\u00edndrome de dumping, o algunos de sus s\u00edntomas. As\u00ed mismo, en la mayor\u00eda de los casos, dichos s\u00edntomas remiten de forma espont\u00e1nea, paulatinamente. Solo en pocos casos la situaci\u00f3n se complica.",
+      "Adem\u00e1s de mermar la proliferaci\u00f3n de hongos y evitar las plagas, la canela en polvo tambi\u00e9n puede ser muy \u00fatil para acelerar el enraizamiento de los esquejes",
     excerpt:
-      "El s\u00edndrome de dumping es uno de los efectos que pueden aparecer tras una cirug\u00eda digestiva. Tambi\u00e9n se le conoce&hellip;",
+      "La canela es una especie originaria de Sri Lanka. Tiene grandes propiedades aplicables a la salud y la belleza que&hellip;",
     featured_media: {
       thumbnail:
-        "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/sindrome-dumping-150x150.jpg",
+        "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/canela-para-tus-plantas.jpg",
       medium:
-        "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/sindrome-dumping-378x252.jpg",
+        "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/canela-para-tus-plantas.jpg",
       medium_large:
-        "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/sindrome-dumping.jpg",
+        "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/canela-para-tus-plantas.jpg",
       large:
-        "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/sindrome-dumping-500x333.jpg",
+        "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/canela-para-tus-plantas-500x328.jpg",
       "1536x1536":
-        "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/sindrome-dumping.jpg",
+        "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/canela-para-tus-plantas.jpg",
       "2048x2048":
-        "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/sindrome-dumping.jpg",
+        "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/canela-para-tus-plantas.jpg",
       "big-size":
-        "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/sindrome-dumping-470x313.jpg",
+        "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/canela-para-tus-plantas.jpg",
       "big-size_mobile":
-        "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/sindrome-dumping-370x246.jpg",
+        "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/canela-para-tus-plantas.jpg",
       "mid-size":
-        "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/sindrome-dumping-280x186.jpg",
+        "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/canela-para-tus-plantas.jpg",
       "mid-size_mobile":
-        "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/sindrome-dumping-160x107.jpg",
+        "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/canela-para-tus-plantas.jpg",
       "web-stories-poster-portrait":
-        "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/sindrome-dumping.jpg",
+        "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/canela-para-tus-plantas.jpg",
       "web-stories-publisher-logo":
-        "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/sindrome-dumping.jpg",
+        "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/canela-para-tus-plantas.jpg",
       "web-stories-thumbnail":
-        "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/sindrome-dumping.jpg",
+        "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/canela-para-tus-plantas.jpg",
     },
     categories: [
       {
-        id: 5475,
-        name: "Enfermedades",
-        slug: "enfermedades",
+        id: 7294,
+        name: "Consejos para el hogar",
+        slug: "consejos-hogar",
         description:
-          "En esta secci\u00f3n encontrar\u00e1s una amplia informaci\u00f3n sobre las principales enfermedades que puede sufrir el ser humano. Patolog\u00edas, trastornos, afecciones del sistema respiratorio, circulatorio o de la salud de la mujer\u2026 Cada dolencia presenta una serie de sintomatolog\u00edas que es necesario conocer, as\u00ed como las \u00faltimas noticias sobre los mejores tratamientos e investigaciones asociadas, siempre a tu disposici\u00f3n.",
-        link: "https://beta.mejorconsalud.com/salud/enfermedades/",
-        permalink: "/salud/enfermedades/",
+          "Si te encantan los tips caseros, esos en los que solucionar cualquier problema en casa, esos en los que conseguir de forma sencilla y econ\u00f3mica que tus cortinas o sof\u00e1s luzcan m\u00e1s bonitos, tus alfombras m\u00e1s limpias o tu ba\u00f1o m\u00e1s reluciente, no lo dudes, en en esta secci\u00f3n encontrar\u00e1s infinidad de ideas estupendas. \u00a1Se te har\u00e1n imprescindibles!",
+        link: "https://beta.mejorconsalud.com/lifestyle/consejos-hogar/",
+        permalink: "/lifestyle/consejos-hogar/",
+      },
+      {
+        id: 6,
+        name: "Remedios naturales",
+        slug: "remedios-naturales",
+        description:
+          "Remedios naturales y caseros para enfermedades como la diabetes, bronquitis, asma y alergias",
+        link: "https://beta.mejorconsalud.com/remedios-naturales/",
+        permalink: "/remedios-naturales/",
       },
     ],
     sponsor: null,
     theme: "base-deploy",
-    published: "2019-10-21T04:00:59+02:00",
-    modified: "2019-10-21T06:42:27+02:00",
+    published: "2016-11-23T01:23:20+01:00",
+    modified: "2018-11-22T12:06:47+01:00",
   },
   previous_posts: [
     {
-      id: 404507,
-      slug: "que-es-mas-saludable-la-comida-caliente-o-fria",
-      link: "https://beta.mejorconsalud.com/que-es-mas-saludable-la-comida-caliente-o-fria/",
-      permalink: "/que-es-mas-saludable-la-comida-caliente-o-fria/",
-      title:
-        "\u00bfQu\u00e9 es m\u00e1s saludable la comida caliente o fr\u00eda?",
+      id: 125109,
+      slug: "smoothie-vainilla-regular-el-intestino",
+      link: "https://beta.mejorconsalud.com/smoothie-vainilla-regular-el-intestino/",
+      permalink: "/smoothie-vainilla-regular-el-intestino/",
+      title: "Smoothie de vainilla para regular el intestino naturalmente",
       headline:
-        "Nos preocupamos mucho de cuales son los alimentos m\u00e1s saludables en nuestra dieta y en qu\u00e9 cantidades comerlos. Sin embargo, no solemos cuestionarnos la importancia que la temperatura de los alimentos puede tener para nuestra salud. \u00bfEs m\u00e1s saludable la comida caliente o fr\u00eda?",
+        "M\u00e1s all\u00e1 de ayudarnos a regular el intestino, gracias a sus ingredientes, este smoothie es una alternativa perfecta para obtener energ\u00eda, remineralizar el organismo e incluso para perder peso",
       excerpt:
-        "\u00bfQu\u00e9 es m\u00e1s saludable, la comida caliente o fr\u00eda? Este interrogante surge precisamente ahora que empezamos a cambiar los platos&hellip;",
+        "\u00bfSab\u00edas que puedes regular el intestino con un delicioso smoothie de vainilla? Es f\u00e1cil de preparar, est\u00e1 elaborado con ingredientes&hellip;",
       featured_media: {
         thumbnail:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-cocinando-comida-caliente-150x150.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/batidos-regular-intestino.jpg",
         medium:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-cocinando-comida-caliente-378x252.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/batidos-regular-intestino.jpg",
         medium_large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-cocinando-comida-caliente-768x512.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/batidos-regular-intestino.jpg",
         large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-cocinando-comida-caliente-500x333.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/batidos-regular-intestino-500x351.jpg",
         "1536x1536":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-cocinando-comida-caliente.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/batidos-regular-intestino.jpg",
         "2048x2048":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-cocinando-comida-caliente.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/batidos-regular-intestino.jpg",
         "big-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-cocinando-comida-caliente-470x313.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/batidos-regular-intestino.jpg",
         "big-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-cocinando-comida-caliente-370x247.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/batidos-regular-intestino.jpg",
         "mid-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-cocinando-comida-caliente-280x187.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/batidos-regular-intestino.jpg",
         "mid-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-cocinando-comida-caliente-160x107.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/batidos-regular-intestino.jpg",
         "web-stories-poster-portrait":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-cocinando-comida-caliente.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/batidos-regular-intestino.jpg",
         "web-stories-publisher-logo":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-cocinando-comida-caliente.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/batidos-regular-intestino.jpg",
         "web-stories-thumbnail":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-cocinando-comida-caliente.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/batidos-regular-intestino.jpg",
       },
       categories: [
         {
-          id: 7285,
-          name: "Nutrici\u00f3n",
-          slug: "nutricion",
+          id: 7284,
+          name: "Dietas detox",
+          slug: "detox",
           description:
-            "\u00bfTe nutres de forma adecuada? En ocasiones determinadas dietas nos sumen en estados carenciales, lo cual se traduce en malestar, cansancio o en diversos trastornos. En esta secci\u00f3n te ense\u00f1aremos qu\u00e9 alimentos son los m\u00e1s nutritivos, qu\u00e9 dietas y h\u00e1bitos debes seguir para cubrir todas tus necesidades.",
-          link: "https://beta.mejorconsalud.com/dieta/nutricion/",
-          permalink: "/dieta/nutricion/",
+            "Si necesitas depurar el organismo para mejorar su funci\u00f3n, para optimizar las tareas del h\u00edgado, los ri\u00f1ones y tu metabolismo en general, no lo dudes, en nuestro espacio tenemos para ti las mejores dietas detox. Consejos saludables donde dir\u00e1s adi\u00f3s al cansancio, a las toxinas e incluso a esos kilos de m\u00e1s.",
+          link: "https://beta.mejorconsalud.com/dieta/detox/",
+          permalink: "/dieta/detox/",
         },
       ],
       sponsor: null,
       theme: "base-deploy",
-      published: "2019-10-20T22:20:53+02:00",
-      modified: "2019-10-21T12:06:43+02:00",
+      published: "2016-11-22T16:09:55+01:00",
+      modified: "2019-01-11T14:44:06+01:00",
     },
     {
-      id: 406130,
-      slug: "convivir-persona-trastorno-bipolar",
-      link: "https://beta.mejorconsalud.com/convivir-persona-trastorno-bipolar/",
-      permalink: "/convivir-persona-trastorno-bipolar/",
-      title: "C\u00f3mo convivir con una persona con trastorno bipolar",
+      id: 124947,
+      slug: "megalomania-jugando-dios",
+      link: "https://beta.mejorconsalud.com/megalomania-jugando-dios/",
+      permalink: "/megalomania-jugando-dios/",
+      title: "Megaloman\u00eda: jugando a ser Dios",
       headline:
-        "\u00bfHas imaginado alguna vez lo que significa convivir con una persona con trastorno bipolar? Quienes lo hacen comprenden que no es una tarea sencilla. Descubre m\u00e1s al respecto. ",
+        "La persona que padece megaloman\u00eda se concibe como perfecta, por lo que no reconocer\u00e1 sus defectos, ni tampoco que pueda tener un problema por ser como es.",
       excerpt:
-        "La mayor\u00eda de las personas que se preguntan c\u00f3mo convivir con una persona con trastorno bipolar es porque ya han&hellip;",
+        "La megaloman\u00eda no se define como un trastorno como tal, pero se enmarca dentro dentro de la\u00a0descripci\u00f3n del\u00a0Trastorno Narcisista de&hellip;",
       featured_media: {
         thumbnail:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/pareja-terapia-trastorno-bipolar-150x150.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/hombre-narcicista-selfie-150x150.jpg",
         medium:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/pareja-terapia-trastorno-bipolar-378x252.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/hombre-narcicista-selfie-377x252.jpg",
         medium_large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/pareja-terapia-trastorno-bipolar-768x512.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/hombre-narcicista-selfie.jpg",
         large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/pareja-terapia-trastorno-bipolar-500x333.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/hombre-narcicista-selfie-500x334.jpg",
         "1536x1536":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/pareja-terapia-trastorno-bipolar.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/hombre-narcicista-selfie.jpg",
         "2048x2048":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/pareja-terapia-trastorno-bipolar.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/hombre-narcicista-selfie.jpg",
         "big-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/pareja-terapia-trastorno-bipolar-470x313.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/hombre-narcicista-selfie.jpg",
         "big-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/pareja-terapia-trastorno-bipolar-370x247.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/hombre-narcicista-selfie.jpg",
         "mid-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/pareja-terapia-trastorno-bipolar-280x187.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/hombre-narcicista-selfie.jpg",
         "mid-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/pareja-terapia-trastorno-bipolar-160x107.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/hombre-narcicista-selfie.jpg",
         "web-stories-poster-portrait":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/pareja-terapia-trastorno-bipolar.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/hombre-narcicista-selfie.jpg",
         "web-stories-publisher-logo":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/pareja-terapia-trastorno-bipolar.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/hombre-narcicista-selfie.jpg",
         "web-stories-thumbnail":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/pareja-terapia-trastorno-bipolar.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/hombre-narcicista-selfie.jpg",
+      },
+      categories: [
+        {
+          id: 3064,
+          name: "Pareja",
+          slug: "pareja",
+          description:
+            "Consejos para tener relaciones estables y sanas; recomendaciones para disfrutar del\u00a0sexo\u00a0con tu\u00a0pareja y mucho m\u00e1s.",
+          link: "https://beta.mejorconsalud.com/pareja/",
+          permalink: "/pareja/",
+        },
+      ],
+      sponsor: null,
+      theme: "base-deploy",
+      published: "2016-11-22T12:03:38+01:00",
+      modified: "2019-02-24T08:46:58+01:00",
+    },
+    {
+      id: 124827,
+      slug: "no-termines-cuando-estes-cansado",
+      link: "https://beta.mejorconsalud.com/no-termines-cuando-estes-cansado/",
+      permalink: "/no-termines-cuando-estes-cansado/",
+      title: "No termines cuando est\u00e9s cansado",
+      headline:
+        "Cuando nos ponemos una meta dif\u00edcil de alcanzar muchas veces nos dan ganas de rendirnos a mitad de camino. Sin embargo, no debemos hacerlo. No termines hasta que no logres tu objetivo",
+      excerpt:
+        "No termines cuando las fuerzas te abandonen, cuando est\u00e9s cansado y des todo ya por finalizado.\u00a0El camino no se acaba&hellip;",
+      featured_media: {
+        thumbnail:
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/sudar.jpg",
+        medium:
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/sudar.jpg",
+        medium_large:
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/sudar-768x446.jpg",
+        large:
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/sudar-500x291.jpg",
+        "1536x1536":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/sudar.jpg",
+        "2048x2048":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/sudar.jpg",
+        "big-size":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/sudar.jpg",
+        "big-size_mobile":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/sudar.jpg",
+        "mid-size":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/sudar.jpg",
+        "mid-size_mobile":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/sudar.jpg",
+        "web-stories-poster-portrait":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/sudar.jpg",
+        "web-stories-publisher-logo":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/sudar.jpg",
+        "web-stories-thumbnail":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/sudar.jpg",
       },
       categories: [
         {
@@ -1025,589 +1098,438 @@ const data = {
       ],
       sponsor: null,
       theme: "base-deploy",
-      published: "2019-10-20T22:10:26+02:00",
-      modified: "2019-10-21T11:49:03+02:00",
+      published: "2016-11-22T11:54:07+01:00",
+      modified: "2019-01-09T16:12:07+01:00",
     },
     {
-      id: 406690,
-      slug: "hay-alimentos-que-no-se-deben-mezclar-con-otros",
-      link: "https://beta.mejorconsalud.com/hay-alimentos-que-no-se-deben-mezclar-con-otros/",
-      permalink: "/hay-alimentos-que-no-se-deben-mezclar-con-otros/",
-      title: "\u00bfHay alimentos que no se deben mezclar con otros?",
+      id: 124959,
+      slug: "escribir-ayuda-a-cerrar-heridas",
+      link: "https://beta.mejorconsalud.com/escribir-ayuda-a-cerrar-heridas/",
+      permalink: "/escribir-ayuda-a-cerrar-heridas/",
+      title: "Escribir ayuda a cerrar heridas",
       headline:
-        "Hay alimentos que no se deben mezclar con otros por su contenido en antinutrientes, ya que disminuyen la absorci\u00f3n de nutrientes. \u00bfLo sab\u00edas? \u00a1No te lo pierdas!",
+        "Aunque nos pueda parecer que lo que anotamos carece de sentido, al escribir sin filtro dejamos salir todos nuestros pensamientos y podemos volver sobre ellos m\u00e1s adelante",
       excerpt:
-        "\u00bfAlguna vez te has tomado un plato de lentejas y de postre un yogur? Pues esta combinaci\u00f3n no es la&hellip;",
+        "Escribir te ayuda a expresar todo lo que en tu interior sucede. El dolor, la decepci\u00f3n, la tristeza, la desolaci\u00f3n...&hellip;",
       featured_media: {
         thumbnail:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/espinacas-queso-150x150.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/article_14019887343.jpg",
         medium:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/espinacas-queso-377x252.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/article_14019887343.jpg",
         medium_large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/espinacas-queso.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/article_14019887343.jpg",
         large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/espinacas-queso-500x334.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/article_14019887343-500x336.jpg",
         "1536x1536":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/espinacas-queso.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/article_14019887343.jpg",
         "2048x2048":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/espinacas-queso.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/article_14019887343.jpg",
         "big-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/espinacas-queso-470x314.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/article_14019887343.jpg",
         "big-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/espinacas-queso-370x247.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/article_14019887343.jpg",
         "mid-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/espinacas-queso-280x187.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/article_14019887343.jpg",
         "mid-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/espinacas-queso-160x107.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/article_14019887343.jpg",
         "web-stories-poster-portrait":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/espinacas-queso.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/article_14019887343.jpg",
         "web-stories-publisher-logo":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/espinacas-queso.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/article_14019887343.jpg",
         "web-stories-thumbnail":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/espinacas-queso.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/article_14019887343.jpg",
       },
       categories: [
         {
-          id: 7285,
-          name: "Nutrici\u00f3n",
-          slug: "nutricion",
+          id: 4,
+          name: "Buenos h\u00e1bitos",
+          slug: "buenos-habitos",
           description:
-            "\u00bfTe nutres de forma adecuada? En ocasiones determinadas dietas nos sumen en estados carenciales, lo cual se traduce en malestar, cansancio o en diversos trastornos. En esta secci\u00f3n te ense\u00f1aremos qu\u00e9 alimentos son los m\u00e1s nutritivos, qu\u00e9 dietas y h\u00e1bitos debes seguir para cubrir todas tus necesidades.",
-          link: "https://beta.mejorconsalud.com/dieta/nutricion/",
-          permalink: "/dieta/nutricion/",
+            "Buenos h\u00e1bitos y h\u00e1bitos alimenticios para las dietas, alergias, diabetes, bronquitis y asma",
+          link: "https://beta.mejorconsalud.com/bienestar/buenos-habitos/",
+          permalink: "/bienestar/buenos-habitos/",
         },
       ],
       sponsor: null,
       theme: "base-deploy",
-      published: "2019-10-20T03:01:30+02:00",
-      modified: "2019-10-20T03:01:30+02:00",
+      published: "2016-11-22T11:28:31+01:00",
+      modified: "2019-01-19T19:46:49+01:00",
     },
     {
-      id: 406034,
-      slug: "que-es-hipocondria",
-      link: "https://beta.mejorconsalud.com/que-es-hipocondria/",
-      permalink: "/que-es-hipocondria/",
-      title: "\u00bfQu\u00e9 es la hipocondr\u00eda?",
+      id: 123873,
+      slug: "5-batidos-desintoxicar-higado",
+      link: "https://beta.mejorconsalud.com/5-batidos-desintoxicar-higado/",
+      permalink: "/5-batidos-desintoxicar-higado/",
+      title: "5 batidos para desintoxicar el h\u00edgado",
       headline:
-        "En la hipocondr\u00eda, la persona tiene la sensaci\u00f3n de estar enfermo todo el tiempo. Es un cuadro cl\u00ednico psicol\u00f3gico que requiere acompa\u00f1amiento adecuado. En este art\u00edculo te explicamos de qu\u00e9 se trata y cu\u00e1les son las opciones de tratamiento.",
+        "Desintoxicar el h\u00edgado de forma regular es fundamental para depurar el exceso de l\u00edquidos, que nuestra salud general no se resienta y para que nuestro organismo est\u00e9 en \u00f3ptimas condiciones.",
       excerpt:
-        "La hipocondr\u00eda se conoce tambi\u00e9n con el nombre de trastorno somatomorfo. Es una situaci\u00f3n cl\u00ednica psicol\u00f3gica donde la persona cree estar enferma de una patolog\u00eda muy grave o se preocupa&hellip;",
+        "El h\u00edgado es uno de los \u00f3rganos m\u00e1s importantes de nuestro cuerpo. Por tal raz\u00f3n es importante entender la necesidad&hellip;",
       featured_media: {
         thumbnail:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/doctor-paciente-hipocondria-150x150.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/11/3-licuados-para-nutrir-y-depurar-el-h\u00edgado.jpg",
         medium:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/doctor-paciente-hipocondria-378x252.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/11/3-licuados-para-nutrir-y-depurar-el-h\u00edgado.jpg",
         medium_large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/doctor-paciente-hipocondria-768x512.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/11/3-licuados-para-nutrir-y-depurar-el-h\u00edgado.jpg",
         large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/doctor-paciente-hipocondria-500x333.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/11/3-licuados-para-nutrir-y-depurar-el-h\u00edgado-500x333.jpg",
         "1536x1536":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/doctor-paciente-hipocondria.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/11/3-licuados-para-nutrir-y-depurar-el-h\u00edgado.jpg",
         "2048x2048":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/doctor-paciente-hipocondria.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/11/3-licuados-para-nutrir-y-depurar-el-h\u00edgado.jpg",
         "big-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/doctor-paciente-hipocondria-470x313.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/11/3-licuados-para-nutrir-y-depurar-el-h\u00edgado.jpg",
         "big-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/doctor-paciente-hipocondria-370x247.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/11/3-licuados-para-nutrir-y-depurar-el-h\u00edgado.jpg",
         "mid-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/doctor-paciente-hipocondria-280x187.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/11/3-licuados-para-nutrir-y-depurar-el-h\u00edgado.jpg",
         "mid-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/doctor-paciente-hipocondria-160x107.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/11/3-licuados-para-nutrir-y-depurar-el-h\u00edgado.jpg",
         "web-stories-poster-portrait":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/doctor-paciente-hipocondria.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/11/3-licuados-para-nutrir-y-depurar-el-h\u00edgado.jpg",
         "web-stories-publisher-logo":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/doctor-paciente-hipocondria.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/11/3-licuados-para-nutrir-y-depurar-el-h\u00edgado.jpg",
         "web-stories-thumbnail":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/doctor-paciente-hipocondria.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/11/3-licuados-para-nutrir-y-depurar-el-h\u00edgado.jpg",
       },
       categories: [
         {
-          id: 5475,
-          name: "Enfermedades",
-          slug: "enfermedades",
+          id: 4,
+          name: "Buenos h\u00e1bitos",
+          slug: "buenos-habitos",
           description:
-            "En esta secci\u00f3n encontrar\u00e1s una amplia informaci\u00f3n sobre las principales enfermedades que puede sufrir el ser humano. Patolog\u00edas, trastornos, afecciones del sistema respiratorio, circulatorio o de la salud de la mujer\u2026 Cada dolencia presenta una serie de sintomatolog\u00edas que es necesario conocer, as\u00ed como las \u00faltimas noticias sobre los mejores tratamientos e investigaciones asociadas, siempre a tu disposici\u00f3n.",
-          link: "https://beta.mejorconsalud.com/salud/enfermedades/",
-          permalink: "/salud/enfermedades/",
+            "Buenos h\u00e1bitos y h\u00e1bitos alimenticios para las dietas, alergias, diabetes, bronquitis y asma",
+          link: "https://beta.mejorconsalud.com/bienestar/buenos-habitos/",
+          permalink: "/bienestar/buenos-habitos/",
         },
       ],
       sponsor: null,
       theme: "base-deploy",
-      published: "2019-10-19T22:20:17+02:00",
-      modified: "2019-10-19T22:20:17+02:00",
+      published: "2016-11-22T11:01:00+01:00",
+      modified: "2018-11-29T22:48:20+01:00",
     },
     {
-      id: 404816,
-      slug: "lactancia-materna-y-espirulina-son-compatibles",
-      link: "https://beta.mejorconsalud.com/lactancia-materna-y-espirulina-son-compatibles/",
-      permalink: "/lactancia-materna-y-espirulina-son-compatibles/",
-      title: "Lactancia materna y espirulina: \u00bfson compatibles?",
-      headline:
-        "Son muchas las personas que recomiendan la ingesti\u00f3n de espirulina durante el embarazo y la lactancia. Sin embargo, no hay suficientes evidencias que avalen su compatibilidad. \u00bfQu\u00e9 debes saber al respecto? ",
-      excerpt:
-        "En realidad, no hay un acuerdo pleno sobre la compatibilidad entre la lactancia materna y espirulina. Hay un gran n\u00famero&hellip;",
-      featured_media: {
-        thumbnail:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-bebe-lactancia-150x150.jpg",
-        medium:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-bebe-lactancia-378x252.jpg",
-        medium_large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-bebe-lactancia-768x512.jpg",
-        large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-bebe-lactancia-500x333.jpg",
-        "1536x1536":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-bebe-lactancia.jpg",
-        "2048x2048":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-bebe-lactancia.jpg",
-        "big-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-bebe-lactancia-470x313.jpg",
-        "big-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-bebe-lactancia-370x247.jpg",
-        "mid-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-bebe-lactancia-280x187.jpg",
-        "mid-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-bebe-lactancia-160x107.jpg",
-        "web-stories-poster-portrait":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-bebe-lactancia.jpg",
-        "web-stories-publisher-logo":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-bebe-lactancia.jpg",
-        "web-stories-thumbnail":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-bebe-lactancia.jpg",
-      },
-      categories: [
-        {
-          id: 7287,
-          name: "Embarazo",
-          slug: "embarazo",
-          description:
-            "\u00bfQu\u00e9 ocurre en tu cuerpo en cada trimestre? \u00bfQu\u00e9 alimentaci\u00f3n debe seguir una embarazada? \u00bfQu\u00e9 ejercicios son los m\u00e1s recomendables? \u00bfC\u00f3mo conectar con mi beb\u00e9 a lo largo de la gestaci\u00f3n? Estas y otras cuestiones relativas al embarazo te las resolvemos en esta secci\u00f3n de Mejor con Salud.",
-          link: "https://beta.mejorconsalud.com/maternidad/embarazo/",
-          permalink: "/maternidad/embarazo/",
-        },
-      ],
-      sponsor: null,
-      theme: "base-deploy",
-      published: "2019-10-19T22:10:36+02:00",
-      modified: "2019-10-19T22:10:36+02:00",
-    },
-    {
-      id: 363371,
-      slug: "urticaria-por-frio-factores-de-riesgo-y-prevencion",
-      link: "https://beta.mejorconsalud.com/urticaria-por-frio-factores-de-riesgo-y-prevencion/",
-      permalink: "/urticaria-por-frio-factores-de-riesgo-y-prevencion/",
-      title: "Urticaria por fr\u00edo: factores de riesgo y prevenci\u00f3n",
-      headline:
-        "La urticaria por fr\u00edo se trata fundamentalmente con f\u00e1rmacos antihistam\u00ednicos. Son medicamentos que permiten aliviar los s\u00edntomas, pero no los previenen.",
-      excerpt:
-        "La urticaria por fr\u00edo es una reacci\u00f3n en la piel que se presenta en un corto per\u00edodo de tiempo despu\u00e9s&hellip;",
-      featured_media: {
-        thumbnail:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/02/urticaria-150x150.jpg",
-        medium:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/02/urticaria-382x252.jpg",
-        medium_large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/02/urticaria.jpg",
-        large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/02/urticaria-500x330.jpg",
-        "1536x1536":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/02/urticaria.jpg",
-        "2048x2048":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/02/urticaria.jpg",
-        "big-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/02/urticaria.jpg",
-        "big-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/02/urticaria.jpg",
-        "mid-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/02/urticaria.jpg",
-        "mid-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/02/urticaria.jpg",
-        "web-stories-poster-portrait":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/02/urticaria.jpg",
-        "web-stories-publisher-logo":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/02/urticaria.jpg",
-        "web-stories-thumbnail":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/02/urticaria.jpg",
-      },
-      categories: [
-        {
-          id: 7181,
-          name: "Salud",
-          slug: "salud",
-          description:
-            "La salud es prevenci\u00f3n, es conocimiento y es tratamiento. Descubre toda la informaci\u00f3n relativa al cuerpo humano, funcionamiento de los \u00f3rganos, trastornos, enfermedades, tratamientos para cada afecci\u00f3n, as\u00ed como esos primeros auxilios que deber\u00edamos conocer.",
-          link: "https://beta.mejorconsalud.com/salud/",
-          permalink: "/salud/",
-        },
-      ],
-      sponsor: null,
-      theme: "base-deploy",
-      published: "2019-10-19T22:05:29+02:00",
-      modified: "2019-10-19T22:05:29+02:00",
-    },
-    {
-      id: 405629,
-      slug: "que-es-stent-para-que-sirve",
-      link: "https://beta.mejorconsalud.com/que-es-stent-para-que-sirve/",
-      permalink: "/que-es-stent-para-que-sirve/",
-      title: "\u00bfQu\u00e9 es un stent y para qu\u00e9 sirve?",
-      headline:
-        "Los stents se emplean, generalmente, para solucionar patolog\u00edas de las arterias coronarias. No obstante, tambi\u00e9n pueden servir para otros vasos o conductos, como los ur\u00e9teres. ",
-      excerpt:
-        "El stent es un dispositivo que ha revolucionado la medicina cardiaca, mejorando notablemente el tratamiento y la resoluci\u00f3n de algunas&hellip;",
-      featured_media: {
-        thumbnail:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/stent-150x150.jpg",
-        medium:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/stent-378x252.jpg",
-        medium_large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/stent.jpg",
-        large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/stent-500x333.jpg",
-        "1536x1536":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/stent.jpg",
-        "2048x2048":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/stent.jpg",
-        "big-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/stent-470x313.jpg",
-        "big-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/stent-370x246.jpg",
-        "mid-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/stent-280x186.jpg",
-        "mid-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/stent-160x107.jpg",
-        "web-stories-poster-portrait":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/stent.jpg",
-        "web-stories-publisher-logo":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/stent.jpg",
-        "web-stories-thumbnail":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/stent.jpg",
-      },
-      categories: [
-        {
-          id: 7318,
-          name: "Tratamientos",
-          slug: "tratamientos",
-          description:
-            "Tratamientos naturales, enfoques m\u00e9dicos, psicoterap\u00e9uticos, enfoques farmacol\u00f3gicos y de rehabilitaci\u00f3n\u2026 Cada enfermedad, afecci\u00f3n, lesi\u00f3n o trastorno requiere una serie de tratamientos que nunca est\u00e1 de m\u00e1s conocer. En esta secci\u00f3n encontrar\u00e1s las \u00faltimas noticias relativas a tu salud para un mejor abordaje social y personal",
-          link: "https://beta.mejorconsalud.com/salud/tratamientos/",
-          permalink: "/salud/tratamientos/",
-        },
-      ],
-      sponsor: null,
-      theme: "base-deploy",
-      published: "2019-10-19T22:00:26+02:00",
-      modified: "2019-10-19T22:00:26+02:00",
-    },
-    {
-      id: 405963,
-      slug: "la-perdida-de-conocimiento-por-que-puede-suceder",
-      link: "https://beta.mejorconsalud.com/la-perdida-de-conocimiento-por-que-puede-suceder/",
-      permalink: "/la-perdida-de-conocimiento-por-que-puede-suceder/",
+      id: 124585,
+      slug: "evita-la-caida-del-cabello-las-canas-aceite-coco",
+      link: "https://beta.mejorconsalud.com/evita-la-caida-del-cabello-las-canas-aceite-coco/",
+      permalink: "/evita-la-caida-del-cabello-las-canas-aceite-coco/",
       title:
-        "La p\u00e9rdida de conocimiento \u00bfpor qu\u00e9 puede suceder?",
+        "El aceite de coco: tu aliado frente a las canas y la ca\u00edda del cabello",
       headline:
-        "La p\u00e9rdida de conocimiento es un cuadro cl\u00ednico que sucede con relativa frecuencia. Sus causas pueden ser simples y sin riesgo para la vida o potencialmente mortales de origen card\u00edaco. En este art\u00edculo te vamos a contar detalladamente por qu\u00e9 puede suceder.",
+        "Adem\u00e1s de nutrir el cabello, la aplicaci\u00f3n t\u00f3pica de aceite de coco promueve la pigmentaci\u00f3n de las hebras, combate infecciones e inflamaciones, ayuda evitar la ca\u00edda y estimula el crecimiento ",
       excerpt:
-        "La p\u00e9rdida de conocimiento se conoce tambi\u00e9n como p\u00e9rdida de la conciencia. Son expresiones equivalentes en medicina y definen al&hellip;",
+        "El aceite de coco es un producto que se puede transformar en un gran aliado frente a las canas y&hellip;",
       featured_media: {
         thumbnail:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-desamayada-150x150.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/11/Ca\u00edda-del-cabello.jpg",
         medium:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-desamayada-378x252.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/11/Ca\u00edda-del-cabello.jpg",
         medium_large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-desamayada-768x512.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/11/Ca\u00edda-del-cabello.jpg",
         large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-desamayada-500x333.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/11/Ca\u00edda-del-cabello-500x334.jpg",
         "1536x1536":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-desamayada.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/11/Ca\u00edda-del-cabello.jpg",
         "2048x2048":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-desamayada.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/11/Ca\u00edda-del-cabello.jpg",
         "big-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-desamayada-470x313.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/11/Ca\u00edda-del-cabello.jpg",
         "big-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-desamayada-370x247.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/11/Ca\u00edda-del-cabello.jpg",
         "mid-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-desamayada-280x187.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/11/Ca\u00edda-del-cabello.jpg",
         "mid-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-desamayada-160x107.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/11/Ca\u00edda-del-cabello.jpg",
         "web-stories-poster-portrait":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-desamayada.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/11/Ca\u00edda-del-cabello.jpg",
         "web-stories-publisher-logo":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-desamayada.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/11/Ca\u00edda-del-cabello.jpg",
         "web-stories-thumbnail":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/mujer-desamayada.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/11/Ca\u00edda-del-cabello.jpg",
       },
       categories: [
         {
-          id: 5475,
-          name: "Enfermedades",
-          slug: "enfermedades",
+          id: 6,
+          name: "Remedios naturales",
+          slug: "remedios-naturales",
           description:
-            "En esta secci\u00f3n encontrar\u00e1s una amplia informaci\u00f3n sobre las principales enfermedades que puede sufrir el ser humano. Patolog\u00edas, trastornos, afecciones del sistema respiratorio, circulatorio o de la salud de la mujer\u2026 Cada dolencia presenta una serie de sintomatolog\u00edas que es necesario conocer, as\u00ed como las \u00faltimas noticias sobre los mejores tratamientos e investigaciones asociadas, siempre a tu disposici\u00f3n.",
-          link: "https://beta.mejorconsalud.com/salud/enfermedades/",
-          permalink: "/salud/enfermedades/",
+            "Remedios naturales y caseros para enfermedades como la diabetes, bronquitis, asma y alergias",
+          link: "https://beta.mejorconsalud.com/remedios-naturales/",
+          permalink: "/remedios-naturales/",
         },
       ],
       sponsor: null,
       theme: "base-deploy",
-      published: "2019-10-18T22:20:35+02:00",
-      modified: "2019-10-18T22:20:35+02:00",
+      published: "2016-11-22T10:10:27+01:00",
+      modified: "2018-10-30T22:22:57+01:00",
+    },
+    {
+      id: 124930,
+      slug: "8-usos-le-puedes-dar-la-ropa-vieja",
+      link: "https://beta.mejorconsalud.com/8-usos-le-puedes-dar-la-ropa-vieja/",
+      permalink: "/8-usos-le-puedes-dar-la-ropa-vieja/",
+      title: "8 usos que le puedes dar a la ropa vieja",
+      headline:
+        "Si te gusta coser y tienes ropa que ya no utilices, no la tires: puedes personalizarla, intercambiarlas o donarlas.",
+      excerpt:
+        "Si tienes montones de ropa vieja y no sabes qu\u00e9 hacer con ella, presta atenci\u00f3n a estos usos diferentes que&hellip;",
+      featured_media: {
+        thumbnail:
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/8-usos-que-le-puedes-dar-a-la-ropa-vieja.jpg",
+        medium:
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/8-usos-que-le-puedes-dar-a-la-ropa-vieja.jpg",
+        medium_large:
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/8-usos-que-le-puedes-dar-a-la-ropa-vieja.jpg",
+        large:
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/8-usos-que-le-puedes-dar-a-la-ropa-vieja-500x292.jpg",
+        "1536x1536":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/8-usos-que-le-puedes-dar-a-la-ropa-vieja.jpg",
+        "2048x2048":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/8-usos-que-le-puedes-dar-a-la-ropa-vieja.jpg",
+        "big-size":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/8-usos-que-le-puedes-dar-a-la-ropa-vieja.jpg",
+        "big-size_mobile":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/8-usos-que-le-puedes-dar-a-la-ropa-vieja.jpg",
+        "mid-size":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/8-usos-que-le-puedes-dar-a-la-ropa-vieja.jpg",
+        "mid-size_mobile":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/8-usos-que-le-puedes-dar-a-la-ropa-vieja.jpg",
+        "web-stories-poster-portrait":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/8-usos-que-le-puedes-dar-a-la-ropa-vieja.jpg",
+        "web-stories-publisher-logo":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/8-usos-que-le-puedes-dar-a-la-ropa-vieja.jpg",
+        "web-stories-thumbnail":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/8-usos-que-le-puedes-dar-a-la-ropa-vieja.jpg",
+      },
+      categories: [
+        {
+          id: 7296,
+          name: "Reciclaje",
+          slug: "reciclaje",
+          description:
+            "\u00bfC\u00f3mo saber si reciclamos de forma adecuada? En esta secci\u00f3n encontrar\u00e1s las mejores formas de reciclar aprendiendo adem\u00e1s a reutilizar determinados productos para darles nuevos y sensacionales usos. Tips originales, ideas sencillas y propuestas con las que cuidar de nuestro planeta\u2026 y tambi\u00e9n del bolsillo. \u00bfTe lo vas a perder?",
+          link: "https://beta.mejorconsalud.com/lifestyle/reciclaje/",
+          permalink: "/lifestyle/reciclaje/",
+        },
+      ],
+      sponsor: null,
+      theme: "base-deploy",
+      published: "2016-11-22T09:30:46+01:00",
+      modified: "2019-01-09T16:08:26+01:00",
+    },
+    {
+      id: 124918,
+      slug: "tratamiento-reduce-colesterol-malo",
+      link: "https://beta.mejorconsalud.com/tratamiento-reduce-colesterol-malo/",
+      permalink: "/tratamiento-reduce-colesterol-malo/",
+      title:
+        'Un nuevo tratamiento reduce el colesterol "malo" hasta niveles nunca vistos',
+      headline:
+        "Este nuevo f\u00e1rmaco puede ser la opci\u00f3n perfecta para aquellas personas con colesterol alto cuyos organismos no responden a los tratamientos convencionales. ",
+      excerpt:
+        "El colesterol alto puede afectar de forma permanente nuestra salud cardiovascular. Aunque la primera recomendaci\u00f3n\u00a0 para evitar esta situaci\u00f3n es&hellip;",
+      featured_media: {
+        thumbnail:
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/04/Atorvastatina-medicamento-para-el-colesterol.jpg",
+        medium:
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/04/Atorvastatina-medicamento-para-el-colesterol.jpg",
+        medium_large:
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/04/Atorvastatina-medicamento-para-el-colesterol.jpg",
+        large:
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/04/Atorvastatina-medicamento-para-el-colesterol-500x322.jpg",
+        "1536x1536":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/04/Atorvastatina-medicamento-para-el-colesterol.jpg",
+        "2048x2048":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/04/Atorvastatina-medicamento-para-el-colesterol.jpg",
+        "big-size":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/04/Atorvastatina-medicamento-para-el-colesterol.jpg",
+        "big-size_mobile":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/04/Atorvastatina-medicamento-para-el-colesterol.jpg",
+        "mid-size":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/04/Atorvastatina-medicamento-para-el-colesterol.jpg",
+        "mid-size_mobile":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/04/Atorvastatina-medicamento-para-el-colesterol.jpg",
+        "web-stories-poster-portrait":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/04/Atorvastatina-medicamento-para-el-colesterol.jpg",
+        "web-stories-publisher-logo":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/04/Atorvastatina-medicamento-para-el-colesterol.jpg",
+        "web-stories-thumbnail":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/04/Atorvastatina-medicamento-para-el-colesterol.jpg",
+      },
+      categories: [
+        {
+          id: 1,
+          name: "Curiosidades",
+          slug: "curiosidades",
+          description:
+            "Curiosidades y noticias sobre salud, datos curiosos, descubrimientos, investigaciones y estudios sorprendentes",
+          link: "https://beta.mejorconsalud.com/lifestyle/curiosidades/",
+          permalink: "/lifestyle/curiosidades/",
+        },
+      ],
+      sponsor: null,
+      theme: "base-deploy",
+      published: "2016-11-22T09:05:29+01:00",
+      modified: "2019-09-11T18:37:16+02:00",
     },
   ],
   next_posts: [
     {
-      id: 406132,
-      slug: "que-es-el-sindrome-de-dumping",
-      link: "https://beta.mejorconsalud.com/que-es-el-sindrome-de-dumping/",
-      permalink: "/que-es-el-sindrome-de-dumping/",
-      title: "\u00bfQu\u00e9 es el s\u00edndrome de dumping?",
+      id: 124653,
+      slug: "sabias-lo-logras-al-ponerle-canela-tus-plantas",
+      link: "https://beta.mejorconsalud.com/sabias-lo-logras-al-ponerle-canela-tus-plantas/",
+      permalink: "/sabias-lo-logras-al-ponerle-canela-tus-plantas/",
+      title: "\u00bfSab\u00edas lo que logras al ponerle canela a tus plantas?",
       headline:
-        "Una gran cantidad de personas que han pasado por una cirug\u00eda g\u00e1strica desarrollan el s\u00edndrome de dumping, o algunos de sus s\u00edntomas. As\u00ed mismo, en la mayor\u00eda de los casos, dichos s\u00edntomas remiten de forma espont\u00e1nea, paulatinamente. Solo en pocos casos la situaci\u00f3n se complica.",
+        "Adem\u00e1s de mermar la proliferaci\u00f3n de hongos y evitar las plagas, la canela en polvo tambi\u00e9n puede ser muy \u00fatil para acelerar el enraizamiento de los esquejes",
       excerpt:
-        "El s\u00edndrome de dumping es uno de los efectos que pueden aparecer tras una cirug\u00eda digestiva. Tambi\u00e9n se le conoce&hellip;",
+        "La canela es una especie originaria de Sri Lanka. Tiene grandes propiedades aplicables a la salud y la belleza que&hellip;",
       featured_media: {
         thumbnail:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/sindrome-dumping-150x150.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/canela-para-tus-plantas.jpg",
         medium:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/sindrome-dumping-378x252.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/canela-para-tus-plantas.jpg",
         medium_large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/sindrome-dumping.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/canela-para-tus-plantas.jpg",
         large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/sindrome-dumping-500x333.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/canela-para-tus-plantas-500x328.jpg",
         "1536x1536":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/sindrome-dumping.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/canela-para-tus-plantas.jpg",
         "2048x2048":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/sindrome-dumping.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/canela-para-tus-plantas.jpg",
         "big-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/sindrome-dumping-470x313.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/canela-para-tus-plantas.jpg",
         "big-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/sindrome-dumping-370x246.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/canela-para-tus-plantas.jpg",
         "mid-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/sindrome-dumping-280x186.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/canela-para-tus-plantas.jpg",
         "mid-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/sindrome-dumping-160x107.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/canela-para-tus-plantas.jpg",
         "web-stories-poster-portrait":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/sindrome-dumping.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/canela-para-tus-plantas.jpg",
         "web-stories-publisher-logo":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/sindrome-dumping.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/canela-para-tus-plantas.jpg",
         "web-stories-thumbnail":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/sindrome-dumping.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/canela-para-tus-plantas.jpg",
       },
       categories: [
         {
-          id: 5475,
-          name: "Enfermedades",
-          slug: "enfermedades",
+          id: 7294,
+          name: "Consejos para el hogar",
+          slug: "consejos-hogar",
           description:
-            "En esta secci\u00f3n encontrar\u00e1s una amplia informaci\u00f3n sobre las principales enfermedades que puede sufrir el ser humano. Patolog\u00edas, trastornos, afecciones del sistema respiratorio, circulatorio o de la salud de la mujer\u2026 Cada dolencia presenta una serie de sintomatolog\u00edas que es necesario conocer, as\u00ed como las \u00faltimas noticias sobre los mejores tratamientos e investigaciones asociadas, siempre a tu disposici\u00f3n.",
-          link: "https://beta.mejorconsalud.com/salud/enfermedades/",
-          permalink: "/salud/enfermedades/",
+            "Si te encantan los tips caseros, esos en los que solucionar cualquier problema en casa, esos en los que conseguir de forma sencilla y econ\u00f3mica que tus cortinas o sof\u00e1s luzcan m\u00e1s bonitos, tus alfombras m\u00e1s limpias o tu ba\u00f1o m\u00e1s reluciente, no lo dudes, en en esta secci\u00f3n encontrar\u00e1s infinidad de ideas estupendas. \u00a1Se te har\u00e1n imprescindibles!",
+          link: "https://beta.mejorconsalud.com/lifestyle/consejos-hogar/",
+          permalink: "/lifestyle/consejos-hogar/",
+        },
+        {
+          id: 6,
+          name: "Remedios naturales",
+          slug: "remedios-naturales",
+          description:
+            "Remedios naturales y caseros para enfermedades como la diabetes, bronquitis, asma y alergias",
+          link: "https://beta.mejorconsalud.com/remedios-naturales/",
+          permalink: "/remedios-naturales/",
         },
       ],
       sponsor: null,
       theme: "base-deploy",
-      published: "2019-10-21T04:00:59+02:00",
-      modified: "2019-10-21T06:42:27+02:00",
+      published: "2016-11-23T01:23:20+01:00",
+      modified: "2018-11-22T12:06:47+01:00",
     },
     {
-      id: 407159,
-      slug: "que-es-equimosis",
-      link: "https://beta.mejorconsalud.com/que-es-equimosis/",
-      permalink: "/que-es-equimosis/",
-      title: "\u00bfQu\u00e9 es una equimosis?",
+      id: 124419,
+      slug: "8-recomendaciones-llevar-una-dieta-sana-te-van-encantar",
+      link: "https://beta.mejorconsalud.com/8-recomendaciones-llevar-una-dieta-sana-te-van-encantar/",
+      permalink: "/8-recomendaciones-llevar-una-dieta-sana-te-van-encantar/",
+      title:
+        "8 recomendaciones para llevar una dieta sana que te van a encantar",
       headline:
-        "La equimosis es una lesi\u00f3n que se manifiesta en la piel como si se tratase de un hematoma. Tiene mucha importancia en la medicina legal y judicial. Te contamos aqu\u00ed c\u00f3mo se forma y cu\u00e1les pueden ser sus causas.",
+        "Una forma muy sana de mejorar tu dieta sin restarle gusto es incluir hierbas arom\u00e1ticas y especias en lugar de sal. Adem\u00e1s de ganar en salud descubrir\u00e1s un mundo de sabores nuevos",
       excerpt:
-        "La equimosis es una de las lesiones de piel b\u00e1sicas y elementales. Junto a otras manifestaciones dermatol\u00f3gicas, constituye la base de las presentaciones cl\u00ednicas de otras muchas patolog\u00edas. Podemos decir&hellip;",
+        "Llevar una dieta sana y equilibrada es una tarea que puede resultar complicada para algunas personas. Tener que controlar las&hellip;",
       featured_media: {
         thumbnail:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/equimosis-moraton-150x150.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/Dieta-sana.jpg",
         medium:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/equimosis-moraton-377x252.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/Dieta-sana.jpg",
         medium_large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/equimosis-moraton.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/Dieta-sana-768x576.jpg",
         large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/equimosis-moraton-500x334.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/Dieta-sana-500x375.jpg",
         "1536x1536":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/equimosis-moraton.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/Dieta-sana.jpg",
         "2048x2048":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/equimosis-moraton.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/Dieta-sana.jpg",
         "big-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/equimosis-moraton-470x314.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/Dieta-sana.jpg",
         "big-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/equimosis-moraton-370x247.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/Dieta-sana.jpg",
         "mid-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/equimosis-moraton-280x187.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/Dieta-sana.jpg",
         "mid-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/equimosis-moraton-160x107.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/Dieta-sana.jpg",
         "web-stories-poster-portrait":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/equimosis-moraton.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/Dieta-sana.jpg",
         "web-stories-publisher-logo":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/equimosis-moraton.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/Dieta-sana.jpg",
         "web-stories-thumbnail":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/equimosis-moraton.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/Dieta-sana.jpg",
       },
       categories: [
         {
-          id: 7181,
-          name: "Salud",
-          slug: "salud",
+          id: 4,
+          name: "Buenos h\u00e1bitos",
+          slug: "buenos-habitos",
           description:
-            "La salud es prevenci\u00f3n, es conocimiento y es tratamiento. Descubre toda la informaci\u00f3n relativa al cuerpo humano, funcionamiento de los \u00f3rganos, trastornos, enfermedades, tratamientos para cada afecci\u00f3n, as\u00ed como esos primeros auxilios que deber\u00edamos conocer.",
-          link: "https://beta.mejorconsalud.com/salud/",
-          permalink: "/salud/",
+            "Buenos h\u00e1bitos y h\u00e1bitos alimenticios para las dietas, alergias, diabetes, bronquitis y asma",
+          link: "https://beta.mejorconsalud.com/bienestar/buenos-habitos/",
+          permalink: "/bienestar/buenos-habitos/",
         },
       ],
       sponsor: null,
       theme: "base-deploy",
-      published: "2019-10-21T05:00:48+02:00",
-      modified: "2019-10-21T07:02:56+02:00",
+      published: "2016-11-23T01:27:58+01:00",
+      modified: "2018-12-25T14:39:14+01:00",
     },
     {
-      id: 405708,
-      slug: "dieta-para-la-inflamacion",
-      link: "https://beta.mejorconsalud.com/dieta-para-la-inflamacion/",
-      permalink: "/dieta-para-la-inflamacion/",
-      title: "Dieta para la inflamaci\u00f3n",
+      id: 123239,
+      slug: "5-tipos-dolores-cabeza-tratarlos",
+      link: "https://beta.mejorconsalud.com/5-tipos-dolores-cabeza-tratarlos/",
+      permalink: "/5-tipos-dolores-cabeza-tratarlos/",
+      title: "5 tipos de dolores de cabeza y c\u00f3mo tratarlos",
       headline:
-        "La obesidad est\u00e1 asociada \u00edntimamente con la inflamaci\u00f3n cr\u00f3nica que aumenta el riesgo de desarrollar enfermedades cr\u00f3nicas no transmisibles. Descubre c\u00f3mo llevar una dieta para tratar la inflamaci\u00f3n, disminuir factores de riesgo y mejorar la salud. ",
+        "Los dolores de cabeza pueden responder a diferentes causas, que son fundamentales a la hora de determinar qu\u00e9 tipo de tratamiento puede ser el m\u00e1s efectivo para mitigarlos",
       excerpt:
-        "A la hora de abordar las enfermedades cr\u00f3nicas que se relacionan con la inflamaci\u00f3n, es necesario adoptar una dieta que contribuya al tratamiento. En este sentido, es conveniente saber que&hellip;",
+        "El dolor de cabeza, conocido en t\u00e9rminos m\u00e9dicos como cefalea, es una de las dolencias que m\u00e1s afecta a las&hellip;",
       featured_media: {
         thumbnail:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/dieta-inflamacion-150x150.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2014/05/Migra\u00f1a-150x150.jpg",
         medium:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/dieta-inflamacion-378x252.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2014/05/Migra\u00f1a-377x252.jpg",
         medium_large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/dieta-inflamacion-768x512.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2014/05/Migra\u00f1a.jpg",
         large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/dieta-inflamacion-500x333.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2014/05/Migra\u00f1a-500x334.jpg",
         "1536x1536":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/dieta-inflamacion.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2014/05/Migra\u00f1a.jpg",
         "2048x2048":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/dieta-inflamacion.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2014/05/Migra\u00f1a.jpg",
         "big-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/dieta-inflamacion-470x313.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2014/05/Migra\u00f1a.jpg",
         "big-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/dieta-inflamacion-370x247.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2014/05/Migra\u00f1a.jpg",
         "mid-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/dieta-inflamacion-280x187.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2014/05/Migra\u00f1a.jpg",
         "mid-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/dieta-inflamacion-160x107.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2014/05/Migra\u00f1a.jpg",
         "web-stories-poster-portrait":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/dieta-inflamacion.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2014/05/Migra\u00f1a.jpg",
         "web-stories-publisher-logo":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/dieta-inflamacion.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2014/05/Migra\u00f1a.jpg",
         "web-stories-thumbnail":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/dieta-inflamacion.jpg",
-      },
-      categories: [
-        {
-          id: 7282,
-          name: "Dietas saludables",
-          slug: "saludables",
-          description:
-            "En esta secci\u00f3n encontrar\u00e1s todas esas propuestas nutricionales que nos permitir\u00e1n cuidar al m\u00e1ximo de nuestra salud, a recuperar la energ\u00eda y a restaurar ese equilibrio interior con el cual, sentirnos bien en cada \u00e1rea de nuestra vida. Descubre con nosotros qu\u00e9 alimentos son los m\u00e1s saludables para ti seg\u00fan tus necesidades personales.",
-          link: "https://beta.mejorconsalud.com/dieta/saludables/",
-          permalink: "/dieta/saludables/",
-        },
-      ],
-      sponsor: null,
-      theme: "base-deploy",
-      published: "2019-10-21T22:10:19+02:00",
-      modified: "2019-10-21T22:10:19+02:00",
-    },
-    {
-      id: 406124,
-      slug: "como-gestionar-los-celos-despues-de-una-infidelidad",
-      link: "https://beta.mejorconsalud.com/como-gestionar-los-celos-despues-de-una-infidelidad/",
-      permalink: "/como-gestionar-los-celos-despues-de-una-infidelidad/",
-      title: "C\u00f3mo gestionar los celos despu\u00e9s de una infidelidad",
-      headline:
-        "Gestionar los celos despu\u00e9s de una infidelidad no es una tarea f\u00e1cil y puede traer consigo dificultades para la relaci\u00f3n. En este art\u00edculo te explicamos las mejores estrategias para combatirlos. ",
-      excerpt:
-        "Cuando se produce un enga\u00f1o dentro de la pareja, este hecho act\u00faa como un terremoto, sacudiendo los cimientos sobre los&hellip;",
-      featured_media: {
-        thumbnail:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/celos-por-infidelidad-150x150.jpg",
-        medium:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/celos-por-infidelidad-378x252.jpg",
-        medium_large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/celos-por-infidelidad-768x512.jpg",
-        large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/celos-por-infidelidad-500x333.jpg",
-        "1536x1536":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/celos-por-infidelidad.jpg",
-        "2048x2048":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/celos-por-infidelidad.jpg",
-        "big-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/celos-por-infidelidad-470x313.jpg",
-        "big-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/celos-por-infidelidad-370x247.jpg",
-        "mid-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/celos-por-infidelidad-280x187.jpg",
-        "mid-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/celos-por-infidelidad-160x107.jpg",
-        "web-stories-poster-portrait":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/celos-por-infidelidad.jpg",
-        "web-stories-publisher-logo":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/celos-por-infidelidad.jpg",
-        "web-stories-thumbnail":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/celos-por-infidelidad.jpg",
-      },
-      categories: [
-        {
-          id: 7301,
-          name: "Conflictos",
-          slug: "conflictos",
-          description:
-            "Los conflictos son din\u00e1micas habituales en toda relaci\u00f3n de pareja. Disponer de adecuadas herramientas comunicativas y de una buena gesti\u00f3n emocional, nos ayudar\u00e1 sin duda a resolver esas diferencias del mejor modo. Descubre qu\u00e9 estrategias, t\u00e9cnicas y adecuadas barreras debes mantener para salir fortalecido en cualquier conflicto.",
-          link: "https://beta.mejorconsalud.com/pareja/conflictos/",
-          permalink: "/pareja/conflictos/",
-        },
-      ],
-      sponsor: null,
-      theme: "base-deploy",
-      published: "2019-10-21T22:20:37+02:00",
-      modified: "2019-10-21T22:20:37+02:00",
-    },
-    {
-      id: 407069,
-      slug: "tratamiento-opioides-dolor-oncologico",
-      link: "https://beta.mejorconsalud.com/tratamiento-opioides-dolor-oncologico/",
-      permalink: "/tratamiento-opioides-dolor-oncologico/",
-      title: "Tratamiento con opioides para el dolor oncol\u00f3gico",
-      headline:
-        "Los opioides permiten controlar el dolor oncol\u00f3gico m\u00e1s intenso. Sin embargo, tienen numerosos efectos secundarios y deben emplearse con cuidado. \u00a1No te pierdas este art\u00edculo!",
-      excerpt:
-        "El dolor oncol\u00f3gico es aquel que aparece en personas enfermas de c\u00e1ncer. Es un dolor intenso e incapacitante que puede&hellip;",
-      featured_media: {
-        thumbnail:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/chica-joven-cancer-gotero-150x150.jpg",
-        medium:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/chica-joven-cancer-gotero-377x252.jpg",
-        medium_large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/chica-joven-cancer-gotero.jpg",
-        large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/chica-joven-cancer-gotero-500x334.jpg",
-        "1536x1536":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/chica-joven-cancer-gotero.jpg",
-        "2048x2048":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/chica-joven-cancer-gotero.jpg",
-        "big-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/chica-joven-cancer-gotero-470x314.jpg",
-        "big-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/chica-joven-cancer-gotero-370x247.jpg",
-        "mid-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/chica-joven-cancer-gotero-280x187.jpg",
-        "mid-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/chica-joven-cancer-gotero-160x107.jpg",
-        "web-stories-poster-portrait":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/chica-joven-cancer-gotero.jpg",
-        "web-stories-publisher-logo":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/chica-joven-cancer-gotero.jpg",
-        "web-stories-thumbnail":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/chica-joven-cancer-gotero.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2014/05/Migra\u00f1a.jpg",
       },
       categories: [
         {
@@ -1622,170 +1544,283 @@ const data = {
       ],
       sponsor: null,
       theme: "base-deploy",
-      published: "2019-10-22T04:00:09+02:00",
-      modified: "2019-10-22T08:01:25+02:00",
+      published: "2016-11-23T01:34:20+01:00",
+      modified: "2021-01-27T13:38:54+01:00",
     },
     {
-      id: 407378,
-      slug: "hipoxia-cerebral-tipos-causas",
-      link: "https://beta.mejorconsalud.com/hipoxia-cerebral-tipos-causas/",
-      permalink: "/hipoxia-cerebral-tipos-causas/",
-      title: "Hipoxia cerebral: tipos y causas",
+      id: 123218,
+      slug: "truco-eliminar-mes-todos-los-germenes-celulas-muertas-los-pies",
+      link: "https://beta.mejorconsalud.com/truco-eliminar-mes-todos-los-germenes-celulas-muertas-los-pies/",
+      permalink:
+        "/truco-eliminar-mes-todos-los-germenes-celulas-muertas-los-pies/",
+      title:
+        "Truco para eliminar los g\u00e9rmenes y c\u00e9lulas muertas de los pies",
       headline:
-        "La hipoxia cerebral se produce cuando el ox\u00edgeno que debe llegar al cerebro es insuficiente. Como se trata de un \u00f3rgano vital, la falta de ox\u00edgeno es sumamente peligrosa. Te contamos en este art\u00edculo cu\u00e1les son las causas m\u00e1s frecuentes.",
+        "Adem\u00e1s de ayudarnos a acabar con los g\u00e9rmenes y la piel muerta este ba\u00f1o de pies nos puede ser de gran ayuda para relajarnos al llegar a casa",
       excerpt:
-        "Se habla de hipoxia cerebral cuando el flujo de ox\u00edgeno al cerebro es menor al considerado normal. Un flujo normal&hellip;",
+        "Los pies son el soporte de nuestro cuerpo y, pese a ser tan importantes, son una de las\u00a0zonas que m\u00e1s&hellip;",
       featured_media: {
         thumbnail:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/hipoxia-cerebral-150x150.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/Truco-para-eliminar-en-un-mes-todos-los-g\u00e9rmenes-y-c\u00e9lulas-muertas-de-los-pies.jpg",
         medium:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/hipoxia-cerebral-382x252.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/Truco-para-eliminar-en-un-mes-todos-los-g\u00e9rmenes-y-c\u00e9lulas-muertas-de-los-pies.jpg",
         medium_large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/hipoxia-cerebral.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/Truco-para-eliminar-en-un-mes-todos-los-g\u00e9rmenes-y-c\u00e9lulas-muertas-de-los-pies.jpg",
         large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/hipoxia-cerebral-500x330.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/Truco-para-eliminar-en-un-mes-todos-los-g\u00e9rmenes-y-c\u00e9lulas-muertas-de-los-pies-500x302.jpg",
         "1536x1536":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/hipoxia-cerebral.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/Truco-para-eliminar-en-un-mes-todos-los-g\u00e9rmenes-y-c\u00e9lulas-muertas-de-los-pies.jpg",
         "2048x2048":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/hipoxia-cerebral.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/Truco-para-eliminar-en-un-mes-todos-los-g\u00e9rmenes-y-c\u00e9lulas-muertas-de-los-pies.jpg",
         "big-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/hipoxia-cerebral-470x310.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/Truco-para-eliminar-en-un-mes-todos-los-g\u00e9rmenes-y-c\u00e9lulas-muertas-de-los-pies.jpg",
         "big-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/hipoxia-cerebral-370x244.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/Truco-para-eliminar-en-un-mes-todos-los-g\u00e9rmenes-y-c\u00e9lulas-muertas-de-los-pies.jpg",
         "mid-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/hipoxia-cerebral-280x185.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/Truco-para-eliminar-en-un-mes-todos-los-g\u00e9rmenes-y-c\u00e9lulas-muertas-de-los-pies.jpg",
         "mid-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/hipoxia-cerebral-160x106.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/Truco-para-eliminar-en-un-mes-todos-los-g\u00e9rmenes-y-c\u00e9lulas-muertas-de-los-pies.jpg",
         "web-stories-poster-portrait":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/hipoxia-cerebral.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/Truco-para-eliminar-en-un-mes-todos-los-g\u00e9rmenes-y-c\u00e9lulas-muertas-de-los-pies.jpg",
         "web-stories-publisher-logo":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/hipoxia-cerebral.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/Truco-para-eliminar-en-un-mes-todos-los-g\u00e9rmenes-y-c\u00e9lulas-muertas-de-los-pies.jpg",
         "web-stories-thumbnail":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/hipoxia-cerebral.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/Truco-para-eliminar-en-un-mes-todos-los-g\u00e9rmenes-y-c\u00e9lulas-muertas-de-los-pies.jpg",
       },
       categories: [
         {
-          id: 7181,
-          name: "Salud",
-          slug: "salud",
+          id: 6,
+          name: "Remedios naturales",
+          slug: "remedios-naturales",
           description:
-            "La salud es prevenci\u00f3n, es conocimiento y es tratamiento. Descubre toda la informaci\u00f3n relativa al cuerpo humano, funcionamiento de los \u00f3rganos, trastornos, enfermedades, tratamientos para cada afecci\u00f3n, as\u00ed como esos primeros auxilios que deber\u00edamos conocer.",
-          link: "https://beta.mejorconsalud.com/salud/",
-          permalink: "/salud/",
+            "Remedios naturales y caseros para enfermedades como la diabetes, bronquitis, asma y alergias",
+          link: "https://beta.mejorconsalud.com/remedios-naturales/",
+          permalink: "/remedios-naturales/",
         },
       ],
       sponsor: null,
       theme: "base-deploy",
-      published: "2019-10-22T05:00:22+02:00",
-      modified: "2020-07-24T04:08:20+02:00",
+      published: "2016-11-23T01:36:42+01:00",
+      modified: "2019-01-23T10:57:19+01:00",
     },
     {
-      id: 404803,
-      slug: "hipermagnesemia-niveles-altos-magnesio",
-      link: "https://beta.mejorconsalud.com/hipermagnesemia-niveles-altos-magnesio/",
-      permalink: "/hipermagnesemia-niveles-altos-magnesio/",
-      title: "Hipermagnesemia o niveles altos de magnesio",
+      id: 122655,
+      slug: "8-senales-dan-tus-rinones-cuando-algo-esta-mal",
+      link: "https://beta.mejorconsalud.com/8-senales-dan-tus-rinones-cuando-algo-esta-mal/",
+      permalink: "/8-senales-dan-tus-rinones-cuando-algo-esta-mal/",
+      title:
+        "7 se\u00f1ales que dan tus ri\u00f1ones cuando algo est\u00e1 mal",
       headline:
-        "La hipermagnesemia es una condici\u00f3n m\u00e9dica que puede tener consecuencias graves e, incluso, conducir a la muerte. Se presenta, por lo general, en personas que tienen insuficiencia renal, pero tambi\u00e9n en quienes consumen medicamentos o suplementos con magnesio en exceso.",
+        "Es muy importante que ante cualquier s\u00edntoma, en primer lugar, se acuda a un especialista. Solo as\u00ed se podr\u00e1 diagnosticar adecuadamente cualquier enfermedad. ",
       excerpt:
-        "La hipermagnesemia se define como una concentraci\u00f3n excesivamente alta de magnesio en la sangre. El valor normal de este elemento&hellip;",
+        "Los ri\u00f1ones son los \u00f3rganos encargados de filtrar los desechos de la sangre para removerlos del cuerpo a trav\u00e9s de&hellip;",
       featured_media: {
         thumbnail:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/suplemento-magnesio-150x150.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/01/Sintomas-en-el-ri\u00f1on-150x150.jpg",
         medium:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/suplemento-magnesio-377x252.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/01/Sintomas-en-el-ri\u00f1on-390x252.jpg",
         medium_large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/suplemento-magnesio.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/01/Sintomas-en-el-ri\u00f1on.jpg",
         large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/suplemento-magnesio-500x334.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/01/Sintomas-en-el-ri\u00f1on-500x323.jpg",
         "1536x1536":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/suplemento-magnesio.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/01/Sintomas-en-el-ri\u00f1on.jpg",
         "2048x2048":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/suplemento-magnesio.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/01/Sintomas-en-el-ri\u00f1on.jpg",
         "big-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/suplemento-magnesio-470x314.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/01/Sintomas-en-el-ri\u00f1on.jpg",
         "big-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/suplemento-magnesio-370x247.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/01/Sintomas-en-el-ri\u00f1on.jpg",
         "mid-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/suplemento-magnesio-280x187.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/01/Sintomas-en-el-ri\u00f1on.jpg",
         "mid-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/suplemento-magnesio-160x107.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/01/Sintomas-en-el-ri\u00f1on.jpg",
         "web-stories-poster-portrait":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/suplemento-magnesio.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/01/Sintomas-en-el-ri\u00f1on.jpg",
         "web-stories-publisher-logo":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/suplemento-magnesio.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/01/Sintomas-en-el-ri\u00f1on.jpg",
         "web-stories-thumbnail":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/suplemento-magnesio.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2015/01/Sintomas-en-el-ri\u00f1on.jpg",
       },
       categories: [
         {
-          id: 7181,
-          name: "Salud",
-          slug: "salud",
+          id: 1,
+          name: "Curiosidades",
+          slug: "curiosidades",
           description:
-            "La salud es prevenci\u00f3n, es conocimiento y es tratamiento. Descubre toda la informaci\u00f3n relativa al cuerpo humano, funcionamiento de los \u00f3rganos, trastornos, enfermedades, tratamientos para cada afecci\u00f3n, as\u00ed como esos primeros auxilios que deber\u00edamos conocer.",
-          link: "https://beta.mejorconsalud.com/salud/",
-          permalink: "/salud/",
+            "Curiosidades y noticias sobre salud, datos curiosos, descubrimientos, investigaciones y estudios sorprendentes",
+          link: "https://beta.mejorconsalud.com/lifestyle/curiosidades/",
+          permalink: "/lifestyle/curiosidades/",
         },
       ],
       sponsor: null,
       theme: "base-deploy",
-      published: "2019-10-22T06:00:46+02:00",
-      modified: "2019-10-22T09:30:16+02:00",
+      published: "2016-11-23T01:38:57+01:00",
+      modified: "2019-11-22T13:42:25+01:00",
     },
     {
-      id: 405167,
-      slug: "que-es-la-anemia-de-fanconi",
-      link: "https://beta.mejorconsalud.com/que-es-la-anemia-de-fanconi/",
-      permalink: "/que-es-la-anemia-de-fanconi/",
-      title: "\u00bfQu\u00e9 es la anemia de Fanconi?",
+      id: 122661,
+      slug: "trucos-utiles-procesadora",
+      link: "https://beta.mejorconsalud.com/trucos-utiles-procesadora/",
+      permalink: "/trucos-utiles-procesadora/",
+      title: "12 trucos muy \u00fatiles para hacer con una procesadora",
       headline:
-        "La gravedad y el pron\u00f3stico de la anemia de Fanconi son muy variables. Este trastorno obedece a una mutaci\u00f3n en algunos genes y se transmite de padres a hijos. En el 75 % de lo casos ocasiona anomal\u00edas corporales, muchas de las cuales son detectables a simple vista.",
+        "La procesadora puede sernos de gran utilidad para elaborar nosotros mismos productos como el pan rallado o incluso las papillas para los beb\u00e9s. As\u00ed nos aseguraremos de que los ingredientes son 100% naturales",
       excerpt:
-        "La anemia de Fanconi es una enfermedad hereditaria, es decir, que se transmite de padres a hijos. Afecta principalmente a&hellip;",
+        "La procesadora es un electrodom\u00e9stico que se introdujo en el mercado durante la d\u00e9cada de 1940, con un formato parecido&hellip;",
       featured_media: {
         thumbnail:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/anemia-de-fanconi-150x150.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/12-trucos-muy-\u00fatiles-para-hacer-con-una-procesadora-1-150x150.jpg",
         medium:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/anemia-de-fanconi-378x252.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/12-trucos-muy-\u00fatiles-para-hacer-con-una-procesadora-1-390x236.jpg",
         medium_large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/anemia-de-fanconi-768x512.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/12-trucos-muy-\u00fatiles-para-hacer-con-una-procesadora-1.jpg",
         large:
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/anemia-de-fanconi-500x333.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/12-trucos-muy-\u00fatiles-para-hacer-con-una-procesadora-1-500x303.jpg",
         "1536x1536":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/anemia-de-fanconi.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/12-trucos-muy-\u00fatiles-para-hacer-con-una-procesadora-1.jpg",
         "2048x2048":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/anemia-de-fanconi.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/12-trucos-muy-\u00fatiles-para-hacer-con-una-procesadora-1.jpg",
         "big-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/anemia-de-fanconi-470x313.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/12-trucos-muy-\u00fatiles-para-hacer-con-una-procesadora-1.jpg",
         "big-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/anemia-de-fanconi-370x247.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/12-trucos-muy-\u00fatiles-para-hacer-con-una-procesadora-1.jpg",
         "mid-size":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/anemia-de-fanconi-280x187.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/12-trucos-muy-\u00fatiles-para-hacer-con-una-procesadora-1.jpg",
         "mid-size_mobile":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/anemia-de-fanconi-160x107.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/12-trucos-muy-\u00fatiles-para-hacer-con-una-procesadora-1.jpg",
         "web-stories-poster-portrait":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/anemia-de-fanconi.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/12-trucos-muy-\u00fatiles-para-hacer-con-una-procesadora-1.jpg",
         "web-stories-publisher-logo":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/anemia-de-fanconi.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/12-trucos-muy-\u00fatiles-para-hacer-con-una-procesadora-1.jpg",
         "web-stories-thumbnail":
-          "https://beta.mejorconsalud.com/wp-content/uploads/2019/10/anemia-de-fanconi.jpg",
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/12-trucos-muy-\u00fatiles-para-hacer-con-una-procesadora-1.jpg",
       },
       categories: [
         {
-          id: 5475,
-          name: "Enfermedades",
-          slug: "enfermedades",
+          id: 1,
+          name: "Curiosidades",
+          slug: "curiosidades",
           description:
-            "En esta secci\u00f3n encontrar\u00e1s una amplia informaci\u00f3n sobre las principales enfermedades que puede sufrir el ser humano. Patolog\u00edas, trastornos, afecciones del sistema respiratorio, circulatorio o de la salud de la mujer\u2026 Cada dolencia presenta una serie de sintomatolog\u00edas que es necesario conocer, as\u00ed como las \u00faltimas noticias sobre los mejores tratamientos e investigaciones asociadas, siempre a tu disposici\u00f3n.",
-          link: "https://beta.mejorconsalud.com/salud/enfermedades/",
-          permalink: "/salud/enfermedades/",
+            "Curiosidades y noticias sobre salud, datos curiosos, descubrimientos, investigaciones y estudios sorprendentes",
+          link: "https://beta.mejorconsalud.com/lifestyle/curiosidades/",
+          permalink: "/lifestyle/curiosidades/",
         },
       ],
       sponsor: null,
       theme: "base-deploy",
-      published: "2019-10-22T22:10:29+02:00",
-      modified: "2019-10-22T22:10:29+02:00",
+      published: "2016-11-23T01:42:55+01:00",
+      modified: "2021-01-27T13:38:54+01:00",
+    },
+    {
+      id: 124859,
+      slug: "infusion-de-jengibre-y-aloe-vera",
+      link: "https://beta.mejorconsalud.com/infusion-de-jengibre-y-aloe-vera/",
+      permalink: "/infusion-de-jengibre-y-aloe-vera/",
+      title:
+        "Infusi\u00f3n de jengibre y aloe vera: una bebida natural muy poderosa",
+      headline:
+        "La infusi\u00f3n de jengibre y aloe vera puede ser una gran alternativa para tratar problemas g\u00e1stricos y depurar toxinas. Es adecuada para reducir el colesterol malo y para bajar de peso",
+      excerpt:
+        "La infusi\u00f3n de jengibre y aloe vera es una de las bebidas naturales m\u00e1s curativas y poderosas que tienes a&hellip;",
+      featured_media: {
+        thumbnail:
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/infusion-jengibre.jpg",
+        medium:
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/infusion-jengibre.jpg",
+        medium_large:
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/infusion-jengibre.jpg",
+        large:
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/infusion-jengibre-500x333.jpg",
+        "1536x1536":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/infusion-jengibre.jpg",
+        "2048x2048":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/infusion-jengibre.jpg",
+        "big-size":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/infusion-jengibre.jpg",
+        "big-size_mobile":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/infusion-jengibre.jpg",
+        "mid-size":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/infusion-jengibre.jpg",
+        "mid-size_mobile":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/infusion-jengibre.jpg",
+        "web-stories-poster-portrait":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/infusion-jengibre.jpg",
+        "web-stories-publisher-logo":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/infusion-jengibre.jpg",
+        "web-stories-thumbnail":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/infusion-jengibre.jpg",
+      },
+      categories: [
+        {
+          id: 7286,
+          name: "Alimentos org\u00e1nicos y transg\u00e9nicos",
+          slug: "organicos-transgenicos",
+          description:
+            "\u00bfSabr\u00edas identificar un alimento org\u00e1nico? \u00bfSabes qu\u00e9 procesos debe pasar un alimento para ser realmente ecol\u00f3gico? En esta secci\u00f3n te resolvemos todas las dudas, inform\u00e1ndote adem\u00e1s de todo lo relativo a los alimentos transg\u00e9nicos, los cuales, est\u00e1n presentes en gran parte de nuestra dieta.",
+          link: "https://beta.mejorconsalud.com/dieta/organicos-transgenicos/",
+          permalink: "/dieta/organicos-transgenicos/",
+        },
+      ],
+      sponsor: null,
+      theme: "base-deploy",
+      published: "2016-11-23T08:15:03+01:00",
+      modified: "2019-03-04T14:47:22+01:00",
+    },
+    {
+      id: 122490,
+      slug: "6-ejercicios-puedes-una-silla-reducir-los-michelines",
+      link: "https://beta.mejorconsalud.com/6-ejercicios-puedes-una-silla-reducir-los-michelines/",
+      permalink: "/6-ejercicios-puedes-una-silla-reducir-los-michelines/",
+      title:
+        "6 ejercicios que puedes hacer con una silla para reducir los michelines",
+      headline:
+        "La ventaja de realizar estos ejercicios con una silla en casa es que puedes adaptar la intensidad a tus capacidades, por lo que se minimiza el riesgo de lesiones",
+      excerpt:
+        "\u00bfDeseas reducir los michelines, esa acumulaci\u00f3n de grasa en la cintura, cuya eliminaci\u00f3n es un reto? Si bien disminuyen cuando&hellip;",
+      featured_media: {
+        thumbnail:
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/ejercicios-michelines-150x150.jpg",
+        medium:
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/ejercicios-michelines-390x252.jpg",
+        medium_large:
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/ejercicios-michelines.jpg",
+        large:
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/ejercicios-michelines-500x323.jpg",
+        "1536x1536":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/ejercicios-michelines.jpg",
+        "2048x2048":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/ejercicios-michelines.jpg",
+        "big-size":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/ejercicios-michelines.jpg",
+        "big-size_mobile":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/ejercicios-michelines.jpg",
+        "mid-size":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/ejercicios-michelines.jpg",
+        "mid-size_mobile":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/ejercicios-michelines.jpg",
+        "web-stories-poster-portrait":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/ejercicios-michelines.jpg",
+        "web-stories-publisher-logo":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/ejercicios-michelines.jpg",
+        "web-stories-thumbnail":
+          "https://beta.mejorconsalud.com/wp-content/uploads/2016/11/ejercicios-michelines.jpg",
+      },
+      categories: [
+        {
+          id: 7280,
+          name: "Ejercicio y deporte",
+          slug: "ejercicio",
+          description:
+            "\u00bfQu\u00e9 tipo de ejercicio debemos llevar a cabo seg\u00fan nuestras necesidades? Si buscas perder peso, ganar en flexibilidad, en firmeza o incluso practicar un deporte que reduzca tus dolores articulares, o que te ayude a mejorar tu salud cardiovascular esta es tu secci\u00f3n. Porque hay un ejercicio id\u00f3neo para ti y queremos explicarte cu\u00e1l es...",
+          link: "https://beta.mejorconsalud.com/bienestar/ejercicio/",
+          permalink: "/bienestar/ejercicio/",
+        },
+      ],
+      sponsor: null,
+      theme: "base-deploy",
+      published: "2016-11-23T08:28:36+01:00",
+      modified: "2021-01-27T13:38:54+01:00",
     },
   ],
   sidebars: {
@@ -2338,438 +2373,438 @@ const data = {
           },
           content: [
             {
-              id: 412365,
-              slug: "para-que-sirve-flumazenil",
-              link: "https://beta.mejorconsalud.com/para-que-sirve-flumazenil/",
-              permalink: "/para-que-sirve-flumazenil/",
-              title: "\u00bfPara qu\u00e9 sirve el flumazenil?",
-              headline:
-                "El flumazenil debe su eficacia en el tratamiento de las intoxicaciones con benzodiacepinas a la capacidad que tiene de bloquear los receptores de estos medicamentos a nivel central. En concreto, act\u00faa mediante un mecanismo competitivo a nivel de los receptores cerebrales de las benzodiacepinas.",
-              excerpt:
-                "El flumazenil, tambi\u00e9n conocido como flumazenilo, es un medicamento utilizado para el tratamiento de las intoxicaciones por benzodiazepinas. En concreto,&hellip;",
+              id: 511501,
+              slug: "prueba-highlight",
+              link: "https://beta.mejorconsalud.com/prueba-highlight/",
+              permalink: "/prueba-highlight/",
+              title: "Prueba Highlight",
+              headline: null,
+              excerpt: "Highlight",
               featured_media: {
                 thumbnail:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/inyectable-150x150.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2020/08/\u00bfPor-que\u0301-duele-el-cuello-1.jpeg",
                 medium:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/inyectable-336x252.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2020/08/\u00bfPor-que\u0301-duele-el-cuello-1.jpeg",
                 medium_large:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/inyectable.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2020/08/\u00bfPor-que\u0301-duele-el-cuello-1.jpeg",
                 large:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/inyectable.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2020/08/\u00bfPor-que\u0301-duele-el-cuello-1.jpeg",
                 "1536x1536":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/inyectable.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2020/08/\u00bfPor-que\u0301-duele-el-cuello-1.jpeg",
                 "2048x2048":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/inyectable.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2020/08/\u00bfPor-que\u0301-duele-el-cuello-1.jpeg",
                 "big-size":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/inyectable-470x353.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2020/08/\u00bfPor-que\u0301-duele-el-cuello-1.jpeg",
                 "big-size_mobile":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/inyectable-370x278.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2020/08/\u00bfPor-que\u0301-duele-el-cuello-1.jpeg",
                 "mid-size":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/inyectable-280x210.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2020/08/\u00bfPor-que\u0301-duele-el-cuello-1.jpeg",
                 "mid-size_mobile":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/inyectable-160x120.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2020/08/\u00bfPor-que\u0301-duele-el-cuello-1.jpeg",
                 "web-stories-poster-portrait":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/inyectable.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2020/08/\u00bfPor-que\u0301-duele-el-cuello-1.jpeg",
                 "web-stories-publisher-logo":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/inyectable.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2020/08/\u00bfPor-que\u0301-duele-el-cuello-1.jpeg",
                 "web-stories-thumbnail":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/inyectable.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2020/08/\u00bfPor-que\u0301-duele-el-cuello-1.jpeg",
               },
               categories: [
                 {
-                  id: 5476,
-                  name: "Medicamentos",
-                  slug: "medicamentos",
+                  id: 1,
+                  name: "Curiosidades",
+                  slug: "curiosidades",
                   description:
-                    "Los medicamentos son productos a menudo indispensables en nuestro d\u00eda a d\u00eda. Conocer su mecanismo de acci\u00f3n, sus propiedades curativas o preventivas as\u00ed como los efectos secundarios asociados nos permitir\u00e1 sin duda tener un mayor conocimiento sobre este este universo cl\u00ednico que nos toca muy de cerca.",
-                  link: "https://beta.mejorconsalud.com/salud/medicamentos/",
-                  permalink: "/salud/medicamentos/",
+                    "Curiosidades y noticias sobre salud, datos curiosos, descubrimientos, investigaciones y estudios sorprendentes",
+                  link: "https://beta.mejorconsalud.com/lifestyle/curiosidades/",
+                  permalink: "/lifestyle/curiosidades/",
                 },
               ],
               sponsor: null,
               theme: "base-deploy",
-              published: "2019-11-26T06:00:30+01:00",
-              modified: "2019-11-26T09:02:32+01:00",
+              published: "2022-03-25T02:01:11+01:00",
+              modified: "2022-03-25T02:01:34+01:00",
             },
             {
-              id: 412509,
-              slug: "que-es-para-que-sirve-norepinefrina",
-              link: "https://beta.mejorconsalud.com/que-es-para-que-sirve-norepinefrina/",
-              permalink: "/que-es-para-que-sirve-norepinefrina/",
-              title:
-                "\u00bfQu\u00e9 es y para qu\u00e9 sirve la norepinefrina?",
-              headline:
-                "La norepinefrina se libera a la sangre con el fin de transportarse y llegar a diferentes \u00f3rganos para poder desencadenar sus efectos. En el sistema respiratorio, provocar\u00e1 una dilataci\u00f3n de las v\u00edas a\u00e9reas, con el objetivo de facilitar la respiraci\u00f3n ante una situaci\u00f3n de estr\u00e9s. \u00a1Aprende m\u00e1s en este art\u00edculo!",
+              id: 511077,
+              slug: "test-articulo",
+              link: "https://beta.mejorconsalud.com/test-articulo/",
+              permalink: "/test-articulo/",
+              title: "test-articulo",
+              headline: null,
               excerpt:
-                "La norepinefrina, tambi\u00e9n conocida como noradrenalina, es un neurotransmisor de la respuesta adren\u00e9rgica. Se trata de una catecolamina que se&hellip;",
+                " Ingredientes 3 cucharadas de aceite vegetal. Lo mejor es utilizar aceite de oliva virgen extra. 2 tazas de frijoles cocidos y licuados&hellip;",
               featured_media: {
                 thumbnail:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/norepinefrina-150x150.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/16-150x150.png",
                 medium:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/norepinefrina-390x244.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/16-142x252.png",
                 medium_large:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/norepinefrina.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/16-768x1365.png",
                 large:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/norepinefrina.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/16-500x889.png",
                 "1536x1536":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/norepinefrina.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/16-864x1536.png",
                 "2048x2048":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/norepinefrina.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/16.png",
                 "big-size":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/norepinefrina-470x294.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/16-470x836.png",
                 "big-size_mobile":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/norepinefrina-370x232.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/16-370x658.png",
                 "mid-size":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/norepinefrina-280x175.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/16-280x498.png",
                 "mid-size_mobile":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/norepinefrina-160x100.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/16-160x284.png",
                 "web-stories-poster-portrait":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/norepinefrina.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/16-640x853.png",
                 "web-stories-publisher-logo":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/norepinefrina.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/16-96x96.png",
                 "web-stories-thumbnail":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/norepinefrina.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/16-150x267.png",
               },
               categories: [
                 {
-                  id: 5476,
-                  name: "Medicamentos",
-                  slug: "medicamentos",
+                  id: 1,
+                  name: "Curiosidades",
+                  slug: "curiosidades",
                   description:
-                    "Los medicamentos son productos a menudo indispensables en nuestro d\u00eda a d\u00eda. Conocer su mecanismo de acci\u00f3n, sus propiedades curativas o preventivas as\u00ed como los efectos secundarios asociados nos permitir\u00e1 sin duda tener un mayor conocimiento sobre este este universo cl\u00ednico que nos toca muy de cerca.",
-                  link: "https://beta.mejorconsalud.com/salud/medicamentos/",
-                  permalink: "/salud/medicamentos/",
+                    "Curiosidades y noticias sobre salud, datos curiosos, descubrimientos, investigaciones y estudios sorprendentes",
+                  link: "https://beta.mejorconsalud.com/lifestyle/curiosidades/",
+                  permalink: "/lifestyle/curiosidades/",
                 },
               ],
               sponsor: null,
               theme: "base-deploy",
-              published: "2019-11-25T05:00:01+01:00",
-              modified: "2019-11-25T08:39:47+01:00",
+              published: "2022-03-23T13:07:41+01:00",
+              modified: "2022-03-25T02:24:54+01:00",
             },
             {
-              id: 410128,
-              slug: "tipos-medicamentos",
-              link: "https://beta.mejorconsalud.com/tipos-medicamentos/",
-              permalink: "/tipos-medicamentos/",
-              title: "\u00bfCu\u00e1les son los tipos de medicamentos?",
-              headline:
-                "Los medicamentos se pueden clasificar de acuerdo a su acci\u00f3n, v\u00eda de administraci\u00f3n o indicaciones terap\u00e9uticas. El listado es bastante amplio, por eso, ante cualquier duda, debe consultarse al m\u00e9dico o farmac\u00e9utico. ",
+              id: 511455,
+              slug: "prueba-amazon",
+              link: "https://beta.mejorconsalud.com/prueba-amazon/",
+              permalink: "/prueba-amazon/",
+              title: "Prueba Amazon",
+              headline: null,
               excerpt:
-                "Los tipos de medicamentos se pueden clasificar en funci\u00f3n de su acci\u00f3n, v\u00eda de administraci\u00f3n o indicaciones terap\u00e9uticas. La OMS&hellip;",
+                '[amazon box="B082DP67BT" template="slider"] [aawp box="B082DP67BT" template="slider" data-atomik="slider" class="template-slider"]',
               featured_media: {
                 thumbnail:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/farmaceutica-medicamentos-150x150.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/1-150x150.png",
                 medium:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/farmaceutica-medicamentos-378x252.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/1-142x252.png",
                 medium_large:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/farmaceutica-medicamentos-768x512.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/1-768x1365.png",
                 large:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/farmaceutica-medicamentos-500x333.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/1-500x889.png",
                 "1536x1536":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/farmaceutica-medicamentos.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/1-864x1536.png",
                 "2048x2048":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/farmaceutica-medicamentos.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/1.png",
                 "big-size":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/farmaceutica-medicamentos-470x313.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/1-470x836.png",
                 "big-size_mobile":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/farmaceutica-medicamentos-370x247.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/1-370x658.png",
                 "mid-size":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/farmaceutica-medicamentos-280x187.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/1-280x498.png",
                 "mid-size_mobile":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/farmaceutica-medicamentos-160x107.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/1-160x284.png",
                 "web-stories-poster-portrait":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/farmaceutica-medicamentos.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/1-640x853.png",
                 "web-stories-publisher-logo":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/farmaceutica-medicamentos.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/1-96x96.png",
                 "web-stories-thumbnail":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/farmaceutica-medicamentos.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/1-150x267.png",
               },
               categories: [
                 {
-                  id: 5476,
-                  name: "Medicamentos",
-                  slug: "medicamentos",
+                  id: 1,
+                  name: "Curiosidades",
+                  slug: "curiosidades",
                   description:
-                    "Los medicamentos son productos a menudo indispensables en nuestro d\u00eda a d\u00eda. Conocer su mecanismo de acci\u00f3n, sus propiedades curativas o preventivas as\u00ed como los efectos secundarios asociados nos permitir\u00e1 sin duda tener un mayor conocimiento sobre este este universo cl\u00ednico que nos toca muy de cerca.",
-                  link: "https://beta.mejorconsalud.com/salud/medicamentos/",
-                  permalink: "/salud/medicamentos/",
+                    "Curiosidades y noticias sobre salud, datos curiosos, descubrimientos, investigaciones y estudios sorprendentes",
+                  link: "https://beta.mejorconsalud.com/lifestyle/curiosidades/",
+                  permalink: "/lifestyle/curiosidades/",
                 },
               ],
               sponsor: null,
               theme: "base-deploy",
-              published: "2019-11-24T23:20:24+01:00",
-              modified: "2019-11-25T16:04:25+01:00",
+              published: "2022-02-03T17:33:11+01:00",
+              modified: "2022-03-22T21:06:46+01:00",
             },
             {
-              id: 411940,
-              slug: "que-es-azatioprina",
-              link: "https://beta.mejorconsalud.com/que-es-azatioprina/",
-              permalink: "/que-es-azatioprina/",
-              title: "\u00bfQu\u00e9 es la azatioprina?",
-              headline:
-                "La azatioprina es, en concreto, un prof\u00e1rmaco. Es decir, este medicamento se administra y se absorbe correctamente, pero hasta que no se metaboliza y se convierte en otra mol\u00e9cula, la 6-mercaptopurina, no desencadena ning\u00fan efecto. \u00a1Aprende m\u00e1s sobre \u00e9l en este art\u00edculo!",
+              id: 511426,
+              slug: "new-article",
+              link: "https://beta.mejorconsalud.com/new-article/",
+              permalink: "/new-article/",
+              title: "New Article",
+              headline: null,
               excerpt:
-                "La azatioprina es un medicamento inmunosupresor, es decir, debilita el sistema inmune con el fin de tratar enfermedades en las que este sistema est\u00e1 activo de forma equ\u00edvoca. El sistema&hellip;",
+                "Una dieta balanceada\u00a0siempre ser\u00e1 de mucha ayuda para mantener sano el\u00a0organismo. El consumo adecuado de alimentos es\u00a0fundamental para el \u00f3ptimo desarrollo del cuerpo humano.\u00a0En este sentido, deber\u00edas comer ch\u00edcharos, un&hellip;",
               featured_media: {
                 thumbnail:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/medicamento-comprimidos-150x150.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Rect\u00e1ngulo-mediano-300x250-px.jpeg",
                 medium:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/medicamento-comprimidos-336x252.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Rect\u00e1ngulo-mediano-300x250-px.jpeg",
                 medium_large:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/medicamento-comprimidos.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Rect\u00e1ngulo-mediano-300x250-px.jpeg",
                 large:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/medicamento-comprimidos.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Rect\u00e1ngulo-mediano-300x250-px.jpeg",
                 "1536x1536":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/medicamento-comprimidos.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Rect\u00e1ngulo-mediano-300x250-px.jpeg",
                 "2048x2048":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/medicamento-comprimidos.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Rect\u00e1ngulo-mediano-300x250-px.jpeg",
                 "big-size":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/medicamento-comprimidos-470x353.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Rect\u00e1ngulo-mediano-300x250-px.jpeg",
                 "big-size_mobile":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/medicamento-comprimidos-370x278.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Rect\u00e1ngulo-mediano-300x250-px.jpeg",
                 "mid-size":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/medicamento-comprimidos-280x210.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Rect\u00e1ngulo-mediano-300x250-px.jpeg",
                 "mid-size_mobile":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/medicamento-comprimidos-160x120.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Rect\u00e1ngulo-mediano-300x250-px.jpeg",
                 "web-stories-poster-portrait":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/medicamento-comprimidos.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Rect\u00e1ngulo-mediano-300x250-px.jpeg",
                 "web-stories-publisher-logo":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/medicamento-comprimidos.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Rect\u00e1ngulo-mediano-300x250-px.jpeg",
                 "web-stories-thumbnail":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/medicamento-comprimidos.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Rect\u00e1ngulo-mediano-300x250-px.jpeg",
               },
               categories: [
                 {
-                  id: 5476,
-                  name: "Medicamentos",
-                  slug: "medicamentos",
+                  id: 1,
+                  name: "Curiosidades",
+                  slug: "curiosidades",
                   description:
-                    "Los medicamentos son productos a menudo indispensables en nuestro d\u00eda a d\u00eda. Conocer su mecanismo de acci\u00f3n, sus propiedades curativas o preventivas as\u00ed como los efectos secundarios asociados nos permitir\u00e1 sin duda tener un mayor conocimiento sobre este este universo cl\u00ednico que nos toca muy de cerca.",
-                  link: "https://beta.mejorconsalud.com/salud/medicamentos/",
-                  permalink: "/salud/medicamentos/",
+                    "Curiosidades y noticias sobre salud, datos curiosos, descubrimientos, investigaciones y estudios sorprendentes",
+                  link: "https://beta.mejorconsalud.com/lifestyle/curiosidades/",
+                  permalink: "/lifestyle/curiosidades/",
                 },
               ],
-              sponsor: null,
+              sponsor: {
+                brand: "TestSponsor",
+                logo: "https://cdn.beta.atomik.vip/themes/mcs/es/logo.svg",
+                type: "Especial",
+                background: "#f1f1f1",
+                color: "#542727",
+              },
               theme: "base-deploy",
-              published: "2019-11-23T23:00:44+01:00",
-              modified: "2019-11-23T23:00:44+01:00",
+              published: "2022-01-17T13:31:45+01:00",
+              modified: "2022-03-25T02:27:00+01:00",
             },
             {
-              id: 411265,
-              slug: "ansioliticos-o-medicamentos-para-la-ansiedad",
-              link: "https://beta.mejorconsalud.com/ansioliticos-o-medicamentos-para-la-ansiedad/",
-              permalink: "/ansioliticos-o-medicamentos-para-la-ansiedad/",
-              title: "Ansiol\u00edticos o medicamentos para la ansiedad",
-              headline:
-                "Los antidepresivos son uno de los grupos terap\u00e9uticos que se indican en los casos de ansiedad, siendo los que constituyen la primera l\u00ednea de tratamiento. En concreto, se utilizan, principalmente, los inhibidores selectivos de la recaptaci\u00f3n de serotonina.",
+              id: 511400,
+              slug: "amazon-products-shortcode-examples",
+              link: "https://beta.mejorconsalud.com/amazon-products-shortcode-examples/",
+              permalink: "/amazon-products-shortcode-examples/",
+              title: "Amazon Products (Examples)",
+              headline: null,
               excerpt:
-                "Est\u00e1 comprobado que el estilo de vida que lleva la sociedad actual genera, habitualmente, estados nerviosos que hacen necesario el&hellip;",
+                'Box Standard [aawp box="B082DP67BT" data-atomik="standard" class="atomik-amz-box-standard"] Example: https://gyazo.com/72eea04cb7cd4a4979e73053a7c91db4 Template Slider [aawp box="B082DP67BT" template="slider" data-atomik="slider" class="atomik-amz-template-slider"] Example: https://gyazo.com/c574d1f86d3dca53ab201c8e6fc0d6cc Template List [aawp box="B0055ZGJ00,B00QDTSZ8Q,B00ST5MX26,B01JZKL5GS" template="list" data-atomik="list" class="atomik-amz-template-list"] Example: https://gyazo.com/ef8d93f50db81df59775362dfd19e7f4 Box - Grid [aawp&hellip;',
               featured_media: {
                 thumbnail:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/comprimidos-150x150.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/03/Espididol-granulado-150x150.png",
                 medium:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/comprimidos-377x252.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/03/Espididol-granulado-390x250.png",
                 medium_large:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/comprimidos.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/03/Espididol-granulado-768x493.png",
                 large:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/comprimidos.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/03/Espididol-granulado-500x321.png",
                 "1536x1536":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/comprimidos.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/03/Espididol-granulado.png",
                 "2048x2048":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/comprimidos.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/03/Espididol-granulado.png",
                 "big-size":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/comprimidos-470x314.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/03/Espididol-granulado-470x302.png",
                 "big-size_mobile":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/comprimidos-370x247.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/03/Espididol-granulado-370x237.png",
                 "mid-size":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/comprimidos-280x187.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/03/Espididol-granulado-280x180.png",
                 "mid-size_mobile":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/comprimidos-160x107.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/03/Espididol-granulado-160x103.png",
                 "web-stories-poster-portrait":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/comprimidos.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/03/Espididol-granulado-640x853.png",
                 "web-stories-publisher-logo":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/comprimidos.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/03/Espididol-granulado-96x96.png",
                 "web-stories-thumbnail":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/comprimidos.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/03/Espididol-granulado-150x96.png",
               },
               categories: [
                 {
-                  id: 5476,
-                  name: "Medicamentos",
-                  slug: "medicamentos",
+                  id: 1,
+                  name: "Curiosidades",
+                  slug: "curiosidades",
                   description:
-                    "Los medicamentos son productos a menudo indispensables en nuestro d\u00eda a d\u00eda. Conocer su mecanismo de acci\u00f3n, sus propiedades curativas o preventivas as\u00ed como los efectos secundarios asociados nos permitir\u00e1 sin duda tener un mayor conocimiento sobre este este universo cl\u00ednico que nos toca muy de cerca.",
-                  link: "https://beta.mejorconsalud.com/salud/medicamentos/",
-                  permalink: "/salud/medicamentos/",
+                    "Curiosidades y noticias sobre salud, datos curiosos, descubrimientos, investigaciones y estudios sorprendentes",
+                  link: "https://beta.mejorconsalud.com/lifestyle/curiosidades/",
+                  permalink: "/lifestyle/curiosidades/",
                 },
               ],
               sponsor: null,
               theme: "base-deploy",
-              published: "2019-11-22T23:25:57+01:00",
-              modified: "2019-11-22T23:25:57+01:00",
+              published: "2022-01-10T20:03:28+01:00",
+              modified: "2022-02-08T11:36:03+01:00",
             },
             {
-              id: 411897,
-              slug: "que-es-para-que-sirve-sulfato-de-magnesio",
-              link: "https://beta.mejorconsalud.com/que-es-para-que-sirve-sulfato-de-magnesio/",
-              permalink: "/que-es-para-que-sirve-sulfato-de-magnesio/",
-              title:
-                "\u00bfQu\u00e9 es y para qu\u00e9 sirve el sulfato de magnesio?",
-              headline:
-                "El sulfato de magnesio es un mineral esencial para nuestra salud. Puesto que resulta imprescindible para equilibrar el sistema nervioso central.",
-              excerpt:
-                "El sulfato de magnesio es un compuesto qu\u00edmico cuya f\u00f3rmula es Mg SO4\u00b77H2O. Se usa para prevenir y tratar las&hellip;",
+              id: 511361,
+              slug: "log-test",
+              link: "https://beta.mejorconsalud.com/log-test/",
+              permalink: "/log-test/",
+              title: "Log test",
+              headline: null,
+              excerpt: "prueba 11:53",
               featured_media: {
                 thumbnail:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/sulfato-magnesio-150x150.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/cuelo.jpg",
                 medium:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/sulfato-magnesio-377x252.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/cuelo.jpg",
                 medium_large:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/sulfato-magnesio.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/cuelo.jpg",
                 large:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/sulfato-magnesio.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/cuelo.jpg",
                 "1536x1536":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/sulfato-magnesio.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/cuelo.jpg",
                 "2048x2048":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/sulfato-magnesio.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/cuelo.jpg",
                 "big-size":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/sulfato-magnesio-470x314.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/cuelo.jpg",
                 "big-size_mobile":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/sulfato-magnesio-370x247.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/cuelo.jpg",
                 "mid-size":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/sulfato-magnesio-280x187.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/cuelo.jpg",
                 "mid-size_mobile":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/sulfato-magnesio-160x107.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/cuelo.jpg",
                 "web-stories-poster-portrait":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/sulfato-magnesio.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/cuelo.jpg",
                 "web-stories-publisher-logo":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/sulfato-magnesio.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/cuelo.jpg",
                 "web-stories-thumbnail":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/sulfato-magnesio.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/cuelo.jpg",
               },
               categories: [
                 {
-                  id: 5476,
-                  name: "Medicamentos",
-                  slug: "medicamentos",
+                  id: 1,
+                  name: "Curiosidades",
+                  slug: "curiosidades",
                   description:
-                    "Los medicamentos son productos a menudo indispensables en nuestro d\u00eda a d\u00eda. Conocer su mecanismo de acci\u00f3n, sus propiedades curativas o preventivas as\u00ed como los efectos secundarios asociados nos permitir\u00e1 sin duda tener un mayor conocimiento sobre este este universo cl\u00ednico que nos toca muy de cerca.",
-                  link: "https://beta.mejorconsalud.com/salud/medicamentos/",
-                  permalink: "/salud/medicamentos/",
+                    "Curiosidades y noticias sobre salud, datos curiosos, descubrimientos, investigaciones y estudios sorprendentes",
+                  link: "https://beta.mejorconsalud.com/lifestyle/curiosidades/",
+                  permalink: "/lifestyle/curiosidades/",
                 },
               ],
               sponsor: null,
               theme: "base-deploy",
-              published: "2019-11-22T05:00:26+01:00",
-              modified: "2019-11-22T08:59:09+01:00",
+              published: "2021-12-22T14:54:29+01:00",
+              modified: "2021-12-22T14:54:30+01:00",
             },
             {
-              id: 411272,
-              slug: "pregabalina-para-que-sirve",
-              link: "https://beta.mejorconsalud.com/pregabalina-para-que-sirve/",
-              permalink: "/pregabalina-para-que-sirve/",
-              title: "Pregabalina: \u00bfpara qu\u00e9 sirve?",
-              headline:
-                "Al igual que todos los medicamentos en el mercado, la pregabalina tambi\u00e9n puede producir una serie de reacciones adversas que se deben tener en cuenta a la hora de iniciar el tratamiento. ",
+              id: 511357,
+              slug: "prueba-de-validacion-de-contenido",
+              link: "https://beta.mejorconsalud.com/prueba-de-validacion-de-contenido/",
+              permalink: "/prueba-de-validacion-de-contenido/",
+              title: "prueba de validaci\u00f3n de contenido",
+              headline: null,
               excerpt:
-                "La pregabalina es un principio activo utilizado, sobre todo, en el tratamiento del dolor neurop\u00e1tico y las convulsiones. En cuanto&hellip;",
+                "A lo largo de nuestra vida hemos de hacer frente a numerosas tomas de decisiones, algunas de ellas tan relevantes&hellip;",
               featured_media: {
                 thumbnail:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/pregabalina-150x150.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Publicaci\u00f3n-gr\u00e1fica-cuadrada-800x800-px.jpeg",
                 medium:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/pregabalina-378x252.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Publicaci\u00f3n-gr\u00e1fica-cuadrada-800x800-px.jpeg",
                 medium_large:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/pregabalina-768x512.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Publicaci\u00f3n-gr\u00e1fica-cuadrada-800x800-px.jpeg",
                 large:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/pregabalina-500x333.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Publicaci\u00f3n-gr\u00e1fica-cuadrada-800x800-px.jpeg",
                 "1536x1536":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/pregabalina.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Publicaci\u00f3n-gr\u00e1fica-cuadrada-800x800-px.jpeg",
                 "2048x2048":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/pregabalina.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Publicaci\u00f3n-gr\u00e1fica-cuadrada-800x800-px.jpeg",
                 "big-size":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/pregabalina-470x313.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Publicaci\u00f3n-gr\u00e1fica-cuadrada-800x800-px.jpeg",
                 "big-size_mobile":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/pregabalina-370x247.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Publicaci\u00f3n-gr\u00e1fica-cuadrada-800x800-px.jpeg",
                 "mid-size":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/pregabalina-280x187.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Publicaci\u00f3n-gr\u00e1fica-cuadrada-800x800-px.jpeg",
                 "mid-size_mobile":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/pregabalina-160x107.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Publicaci\u00f3n-gr\u00e1fica-cuadrada-800x800-px.jpeg",
                 "web-stories-poster-portrait":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/pregabalina.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Publicaci\u00f3n-gr\u00e1fica-cuadrada-800x800-px.jpeg",
                 "web-stories-publisher-logo":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/pregabalina.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Publicaci\u00f3n-gr\u00e1fica-cuadrada-800x800-px.jpeg",
                 "web-stories-thumbnail":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/pregabalina.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Publicaci\u00f3n-gr\u00e1fica-cuadrada-800x800-px.jpeg",
               },
               categories: [
                 {
-                  id: 5476,
-                  name: "Medicamentos",
-                  slug: "medicamentos",
+                  id: 1,
+                  name: "Curiosidades",
+                  slug: "curiosidades",
                   description:
-                    "Los medicamentos son productos a menudo indispensables en nuestro d\u00eda a d\u00eda. Conocer su mecanismo de acci\u00f3n, sus propiedades curativas o preventivas as\u00ed como los efectos secundarios asociados nos permitir\u00e1 sin duda tener un mayor conocimiento sobre este este universo cl\u00ednico que nos toca muy de cerca.",
-                  link: "https://beta.mejorconsalud.com/salud/medicamentos/",
-                  permalink: "/salud/medicamentos/",
+                    "Curiosidades y noticias sobre salud, datos curiosos, descubrimientos, investigaciones y estudios sorprendentes",
+                  link: "https://beta.mejorconsalud.com/lifestyle/curiosidades/",
+                  permalink: "/lifestyle/curiosidades/",
                 },
               ],
               sponsor: null,
               theme: "base-deploy",
-              published: "2019-11-21T23:20:48+01:00",
-              modified: "2019-11-21T23:20:48+01:00",
+              published: "2021-12-20T22:01:38+01:00",
+              modified: "2021-12-20T22:01:39+01:00",
             },
             {
-              id: 411914,
-              slug: "carbonato-de-calcio-dosis-precauciones",
-              link: "https://beta.mejorconsalud.com/carbonato-de-calcio-dosis-precauciones/",
-              permalink: "/carbonato-de-calcio-dosis-precauciones/",
-              title: "Carbonato de calcio: dosis y precauciones",
-              headline:
-                "El carbonato de calcio esta indicado para prevenir y tratar la deficiencia de calcio.\u00a0Tambi\u00e9n como terapia coadyuvante en el tratamiento espec\u00edfico de la osteoporosis.",
+              id: 511334,
+              slug: "prueba-atomik-read-too-test",
+              link: "https://beta.mejorconsalud.com/prueba-atomik-read-too-test/",
+              permalink: "/prueba-atomik-read-too-test/",
+              title: "prueba atomik read too",
+              headline: null,
               excerpt:
-                "El carbonato de calcio es un compuesto qu\u00edmico cuya f\u00f3rmula es CaCO3. Se trata de una sal inorg\u00e1nica muy abundante&hellip;",
+                " titulo ? prueba ? algo(oso) &nbsp; algo(oso) &nbsp; algo(oso) prueba class &nbsp; oso ajshsdjdjd",
               featured_media: {
                 thumbnail:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/carbonato-calcio-150x150.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Publicaci\u00f3n-gr\u00e1fica-cuadrada-800x800-px.jpeg",
                 medium:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/carbonato-calcio-377x252.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Publicaci\u00f3n-gr\u00e1fica-cuadrada-800x800-px.jpeg",
                 medium_large:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/carbonato-calcio.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Publicaci\u00f3n-gr\u00e1fica-cuadrada-800x800-px.jpeg",
                 large:
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/carbonato-calcio.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Publicaci\u00f3n-gr\u00e1fica-cuadrada-800x800-px.jpeg",
                 "1536x1536":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/carbonato-calcio.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Publicaci\u00f3n-gr\u00e1fica-cuadrada-800x800-px.jpeg",
                 "2048x2048":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/carbonato-calcio.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Publicaci\u00f3n-gr\u00e1fica-cuadrada-800x800-px.jpeg",
                 "big-size":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/carbonato-calcio-470x314.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Publicaci\u00f3n-gr\u00e1fica-cuadrada-800x800-px.jpeg",
                 "big-size_mobile":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/carbonato-calcio-370x247.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Publicaci\u00f3n-gr\u00e1fica-cuadrada-800x800-px.jpeg",
                 "mid-size":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/carbonato-calcio-280x187.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Publicaci\u00f3n-gr\u00e1fica-cuadrada-800x800-px.jpeg",
                 "mid-size_mobile":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/carbonato-calcio-160x107.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Publicaci\u00f3n-gr\u00e1fica-cuadrada-800x800-px.jpeg",
                 "web-stories-poster-portrait":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/carbonato-calcio.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Publicaci\u00f3n-gr\u00e1fica-cuadrada-800x800-px.jpeg",
                 "web-stories-publisher-logo":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/carbonato-calcio.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Publicaci\u00f3n-gr\u00e1fica-cuadrada-800x800-px.jpeg",
                 "web-stories-thumbnail":
-                  "https://beta.mejorconsalud.com/wp-content/uploads/2019/11/carbonato-calcio.jpg",
+                  "https://beta.mejorconsalud.com/wp-content/uploads/2021/04/Publicaci\u00f3n-gr\u00e1fica-cuadrada-800x800-px.jpeg",
               },
               categories: [
                 {
-                  id: 5476,
-                  name: "Medicamentos",
-                  slug: "medicamentos",
+                  id: 1,
+                  name: "Curiosidades",
+                  slug: "curiosidades",
                   description:
-                    "Los medicamentos son productos a menudo indispensables en nuestro d\u00eda a d\u00eda. Conocer su mecanismo de acci\u00f3n, sus propiedades curativas o preventivas as\u00ed como los efectos secundarios asociados nos permitir\u00e1 sin duda tener un mayor conocimiento sobre este este universo cl\u00ednico que nos toca muy de cerca.",
-                  link: "https://beta.mejorconsalud.com/salud/medicamentos/",
-                  permalink: "/salud/medicamentos/",
+                    "Curiosidades y noticias sobre salud, datos curiosos, descubrimientos, investigaciones y estudios sorprendentes",
+                  link: "https://beta.mejorconsalud.com/lifestyle/curiosidades/",
+                  permalink: "/lifestyle/curiosidades/",
                 },
               ],
-              sponsor: null,
+              sponsor: {
+                brand: "New Sponsor",
+                logo: "https://cdn.atomik.vip/themes/ed/en/logo.svg",
+                type: "Especial",
+                background: "#ffaed5",
+                color: "#ffaeae",
+              },
               theme: "base-deploy",
-              published: "2019-11-21T05:00:16+01:00",
-              modified: "2019-11-21T10:07:57+01:00",
+              published: "2021-12-20T14:20:43+01:00",
+              modified: "2022-01-17T13:21:34+01:00",
             },
           ],
         },
