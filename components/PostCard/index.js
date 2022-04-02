@@ -17,14 +17,14 @@ const Footer = ({ post }) => {
             <Image
               className={styles.img}
               src={imageThumbnail}
-              // src={post.featured_media?.thumbnail || imageThumnail}
+              // src={post.featured_media.thumbnail}
               alt={post.slug}
               layout="fill"
               objectFit="cover"
               objectPosition="center"
             />
           </div>
-          <p>
+          <p className={styles.excerpt}>
             <span dangerouslySetInnerHTML={{ __html: post.excerpt }} />
           </p>
         </div>

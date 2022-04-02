@@ -31,6 +31,7 @@ const Home = ({ postsInitial }) => {
   const fetchData = async () => {
     const URL = `https://beta.mejorconsalud.com/wp-json/mc/v3/posts?search=${search.word}&page=${search.currentPage}&orderby=${search.orderby}&order=${search.order}`;
 
+    console.log(URL);
     setState({ ...state, loading: true });
     try {
       const res = await fetch(URL);

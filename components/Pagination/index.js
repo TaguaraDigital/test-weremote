@@ -23,7 +23,8 @@ const Pagination = () => {
             <FaChevronLeft />
           </button>
           <span>
-            {page} / {searchResult.pages}
+            <strong>Pagina </strong>
+            {page} de {searchResult.pages}
           </span>
           <button onClick={() => handlePagination(page + 1)}>
             <FaChevronRight />
@@ -31,8 +32,8 @@ const Pagination = () => {
         </div>
       </div>
       <div>
-        Resultado de la busqueda : hay {searchResult.size}{" "}
-        {searchResult.size > 1 ? "articulos" : "articulo"}
+        Resultado de la busqueda por <strong>{search.word}</strong> : hay{" "}
+        {searchResult.size} {searchResult.size > 1 ? "articulos" : "articulo"}
       </div>
     </div>
   );

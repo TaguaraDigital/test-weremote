@@ -59,7 +59,7 @@ const ProductDetail = ({ article }) => {
     <>
       <Head>
         <title> {`${article.metas.title} - Test WeRemote`}</title>
-        <meta name="description" content={article.description} />
+        <meta name="description" content={article.metas.description} />
       </Head>
 
       <section className={styles.section}>
@@ -67,7 +67,7 @@ const ProductDetail = ({ article }) => {
         <div className={styles.back}>
           <Link href="/">
             <a>
-              <FaArrowLeft /> Back to home
+              <FaArrowLeft /> Back
             </a>
           </Link>
         </div>

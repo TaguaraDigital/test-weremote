@@ -4,6 +4,7 @@ import { FaChevronLeft, FaChevronRight, FaSearch } from "react-icons/fa";
 import { Store } from "../../utils/store";
 const Search = () => {
   const [searchLocal, setSearchLocal] = useState("");
+  const [orderby, setOrderby] = useState("date");
   const { search, setSearch } = useContext(Store);
 
   const handleClick = (e) => {
@@ -12,14 +13,25 @@ const Search = () => {
     if (searchLocal === "") {
       alert("debe indicar el criterio de busqueda");
     } else {
-      setSearch({ ...search, word: searchLocal, orderby: "relevance" });
+      setSearch({ ...search, word: searchLocal, orderby });
     }
   };
 
   return (
     <div className={styles.container}>
       <form className={styles.form}>
-        <div className={styles.flex}>
+        <div className={styles.orderby}>
+          <label htmlFor="relevance"> Order By : </label>
+          <select
+            id="relevance"
+            className={styles.select}
+            onChange={(e) => setOrderby(e.target.value)}
+          >
+            <option value="date"> Date</option>
+            <option value="relevance">Relevance</option>
+          </select>
+        </div>
+        <div className={styles.search}>
           <input
             type="text"
             placeholder="Buscar artículos, noticias, etc...."
@@ -31,13 +43,6 @@ const Search = () => {
           </button>
         </div>
       </form>
-      <div>
-        <label htmlFor="relevance"> Order By:</label>
-        <select id="relevance" className={styles.select}>
-          <option value="date"> Date</option>
-          <option value="relevance">Relevance</option>
-        </select>
-      </div>
     </div>
   );
 };
